@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Kalkulus",
+    pageTitle: "MA-173",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       tagId: 'GTM-KQDBMZG9'
     },
     locale: "en-US",
-    baseUrl: "Andremartiny.github.io",
+    baseUrl: "https://andremartiny.github.io/GLU5-10",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
