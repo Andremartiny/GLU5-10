@@ -1,3 +1,0 @@
----
-title: Grenser og kontinuitet
----
