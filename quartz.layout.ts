@@ -35,7 +35,7 @@ export const sharedPageComponents: SharedLayout = {
       },
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["definisjoner og teoremer", "defogteo", "krevendeoppgaver", "hvordan lese matematikk"])
+        const omit = new Set(["h", "definisjoner og teoremer", "defogteo", "krevendeoppgaver", "gjemt"])
         return !omit.has(node.name.toLowerCase())
       },
       order: ["filter", "sort", "map"],
@@ -87,7 +87,15 @@ export const defaultContentPageLayout: PageLayout = {
       },
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["definisjoner og teoremer", "defogteo", "forelesningsnotat", "krevendeoppgaver"])
+        const omit = new Set(
+          [
+            "h",
+            "definisjoner og teoremer", 
+            "defogteo", "forelesningsnotat", 
+            "krevendeoppgaver", 
+            "gjemt",
+            "hvordan lese matematikk",
+          ])
         return !omit.has(node.name.toLowerCase())
       },
       order: ["filter", "sort", "map"],
