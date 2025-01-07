@@ -22,5 +22,5 @@ Her kan du finne stoff fra MA-173
 
 > [!tip]+ [[Didaktikk/|Didaktikk]]
 s
-<script src="Files\script.js"></script>
+<script src="files\script.js"></script>
   s
