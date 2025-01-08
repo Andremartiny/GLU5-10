@@ -6,7 +6,7 @@ title: MA-173
 
 Her kan du finne stoff fra MA-173
 
-<div> <label for="student-id">Enter your student ID:</label> <input type="text" id="student-id"> <button onclick="saveStudentID()">Submit</button> </div>
+<div> <label for="student-id">Skriv inn din ID:</label> <input type="text" id="student-id"> <button onclick="saveStudentID()">Submit</button> </div>
 
 > [!tip]+ [[Geometri/|Geometri]]
 
@@ -23,4 +23,5 @@ Her kan du finne stoff fra MA-173
 > [!tip]+ [[Didaktikk/|Didaktikk]]
 s
 <script src="files\script.js"></script>
+
   s

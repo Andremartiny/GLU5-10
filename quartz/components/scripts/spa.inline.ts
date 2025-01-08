@@ -106,6 +106,8 @@ async function navigate(url: URL, isBack: boolean = false) {
   }
   notifyNav(getFullSlug(window))
   delete announcer.dataset.persist
+
+
 }
 
 window.spaNavigate = navigate
@@ -185,3 +187,4 @@ if (!customElements.get("route-announcer")) {
     },
   )
 }
+

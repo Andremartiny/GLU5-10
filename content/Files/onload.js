@@ -1,19 +1,19 @@
 // Sample data for demonstration purposes
-const studentData = {
+let studentData = {
     70949: {
       TEST: null,
       Vurdering: null,
-      "1.1.": 1,
-      "1.2.": 2,
-      "1.3.": 3,
-      "1.4.": 4,
-      "1.5.": 1,
-      "1.6.": 2,
-      "1.7.": 3,
-      "1.8.": 4,
-      "1.9.": 1,
-      "1.10.": 3,
-      "1.11.": 5,
+      "1.1.": null,
+      "1.2.": null,
+      "1.3.": null,
+      "1.4.": null,
+      "1.5.": null,
+      "1.6.": null,
+      "1.7.": null,
+      "1.8.": null,
+      "1.9.": null,
+      "1.10.": null,
+      "1.11.": null,
       "2.1.": null,
       "2.2.": null,
       "2.3.": null,
@@ -2413,38 +2413,3 @@ const studentData = {
       "5.9.": null,
     },
   };
-  
-  function saveStudentID() {
-    const studentID = document.getElementById("student-id").value;
-    localStorage.setItem("studentID", studentID);
-    personalizeTable(studentID);
-  }
-  
-  function personalizeTable(studentID) {
-    if (!studentID || !studentData[studentID]) return;
-  
-    const scores = studentData[studentID];
-  
-    Object.keys(scores).forEach((assignmentID) => {
-      const score = scores[assignmentID];
-      const row = document.getElementById(assignmentID);
-      if (row) {
-        const cells = row.querySelectorAll("td:nth-child(n+2)");
-        const thresholds = [0, 1, 3];
-  
-        cells.forEach((cell, index) => {
-          const colorClass = score > thresholds[index] ? "green-bg" : "red-bg";
-          cell.className = colorClass;
-        });
-      }
-    });
-  }
-  
-  document.addEventListener("DOMContentLoaded", () => {
-    const studentID = localStorage.getItem("studentID");
-    if (studentID) {
-      document.getElementById("student-id").value = studentID;
-      personalizeTable(studentID);
-    }
-  });
-  
