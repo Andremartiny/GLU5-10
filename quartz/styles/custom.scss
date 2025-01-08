@@ -19,5 +19,81 @@
     background-color: #2c3e50;
 }
 
-.green-bg { background-color: #39ac4cb0}
-.red-bg { background-color: #d36a6a59 }
+.green-bg {
+     background-color: #39ac4c54;
+    border-radius: 5px;}
+.red-bg { background-color: #d36a6a30;
+border-radius: 5px; }
+.grey-bg { background-color: #9c9c9c59;
+    border-radius: 5px; }
+    
+
+
+.input173 {
+    background: #2d2f41;
+    border: solid 1px;
+    border-radius: 3px;
+    border-color: #51566c;
+    color: #a5acae;
+    font-size: 15px;
+    text-align: center;
+}
+
+.button173 {
+    color: #c6c5cd;
+    text-align: center;
+    background: #51566c73;
+    border: 1px solid #171a2ac2;
+    border-radius: 3px;
+    font-size: 15px;
+}
+
+.button173:hover {
+    background: #51566cde;
+}
+.button173:active {
+        transform: scale(0.98);
+        /* Scaling button to 0.98 to its original size */
+        box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+        /* Lowering the shadow */
+}
+
+.input173[type="submit"] {
+    display: block;
+    width: 150px;
+    margin: 0 0 20px;
+    padding: 8px 0 10px 0;
+    text-align: center;
+    border: 1px solid rgba(0,0,0,.5);
+    background: rgba(0,0,0,.25);
+  }
+
+  .input173:-webkit-autofill,
+  .input173:-webkit-autofill:hover,
+  .input173:-webkit-autofill:focus,
+  .input173:-webkit-autofill:active {
+      -webkit-box-shadow: 0 0 0px 1000px #2d2f41 inset;
+      -webkit-text-fill-color: #c6c5cd;
+  }
+
+
+.lmtabell a.internal {
+    
+    background-color: transparent;
+    color: var(--darkgray)
+  
+}
+
+.loadingbar{
+    background: #c6e0b4;
+    width: 10%;
+  }
+
+.progressstyle {
+    border: 1px solid #00bfa544;
+    width: 100%; 
+    border-radius: 5px;
+    
+    background: #5a736f26;
+    margin: 5px;
+}

@@ -35,7 +35,10 @@ export const sharedPageComponents: SharedLayout = {
       },
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["h", "definisjoner og teoremer", "defogteo", "krevendeoppgaver", "gjemt"])
+        const omit = new Set(["h", "definisjoner og teoremer", "defogteo", "krevendeoppgaver", "gjemt",
+            "hvordan lese matematikk",
+            "hvordan-lese-matematikk",
+            "Lese matematikk"])
         return !omit.has(node.name.toLowerCase())
       },
       order: ["filter", "sort", "map"],
@@ -95,6 +98,8 @@ export const defaultContentPageLayout: PageLayout = {
             "krevendeoppgaver", 
             "gjemt",
             "hvordan lese matematikk",
+            "hvordan-lese-matematikk",
+            "Lese matematikk"
           ])
         return !omit.has(node.name.toLowerCase())
       },
@@ -142,7 +147,7 @@ export const defaultListPageLayout: PageLayout = {
       },
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["hvordan lese matematikk", "definisjoner og teoremer", "defogteo", "forelesningsnotat", "gjemt", "oppgavekontinuitetavinvers"])
+        const omit = new Set(["hvordan-lese-matematikk", "hvordan lese matematikk", "definisjoner og teoremer", "defogteo", "forelesningsnotat", "gjemt", "oppgavekontinuitetavinvers"])
         return !omit.has(node.name.toLowerCase())
       },
       order: ["filter", "sort", "map"],
