@@ -2611,7 +2611,7 @@ function personalizeTable(studentID) {
     if (assignmentID.startsWith("total_")) {
       // Handle total_x entries
       const div = document.getElementById(assignmentID);
-      if (div) {
+      if (div & (div.textContent.trim() != "")) {
         div.style.width = `${score * 100}%`;
         div.style.backgroundColor = `#8564642e`;
         number = (score* 100).toFixed(2);
