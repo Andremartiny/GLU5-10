@@ -3,8 +3,7 @@ title: MA-173
 ---
 
 
-
-Her kan du finne litteratur, oppgaver og løsningsforslag fra MA-173. Siden utvikles kontinuerlig. Hvis det er noe du savner kan du si fra til André
+Her kan du finne litteratur, oppgaver og løsningsforslag fra MA-173. Det er veldig mye som fortsatt mangler. Siden utvikles kontinuerlig. Hvis det er noe du savner kan du si fra til André så skal han prøve å ordne det så fort han kan.
 
 
 
