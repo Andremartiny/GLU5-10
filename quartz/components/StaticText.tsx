@@ -6,7 +6,7 @@ export default (() => {
         <div className="static-text">
         <p>
           Husk at du bør ha skrivesaker når du jobber med matematikk.{" "}
-          <a href="/hvordan-lese-matematikk">Mer om hvordan du bør jobbe her.</a>
+          <a href="/GLU5-10/hvordan-lese-matematikk">Mer om hvordan du bør jobbe her.</a>
         </p>
       </div>
       );

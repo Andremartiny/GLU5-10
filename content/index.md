@@ -3,7 +3,7 @@ title: MA-173
 ---
 
 
-Her kan du finne litteratur, oppgaver og løsningsforslag fra MA-173. Det er veldig mye som fortsatt mangler. Siden utvikles kontinuerlig. Hvis det er noe du savner kan du si fra til André så skal han prøve å ordne det så fort han kan.
+Her kan du finne litteratur, oppgaver og løsningsforslag fra MA-173. Det er veldig mye som fortsatt mangler og siden utvikles kontinuerlig. Hvis det er noe du savner kan du si fra til André så skal han prøve å ordne det så fort han kan.
 
 
 
@@ -29,3 +29,37 @@ Hvis du ønsker å se din personlige oversikt kan du få nøkkel fra André og s
  <div class="173design"> <input class="input173" type="text" id="student-id" placeholder="Skriv inn nøkkel her"> <button class="button173" onclick="saveStudentID()">Oppdater oversikt</button> </div>
 
 <script src="files\script.js"></script>
+
+
+
+### TODO
+
+Siden er ikke fullstendig. Under finnes en liste over ting som er planlagt. Ser du noe som burde vært på lista, si fra.
+
+- [ ] Læringsmål, øveoppgaver og løsningsforslag
+    - [x] Legge til læringsmål i alle tema
+    - [x] Legge til øveoppgaver i alle tema
+    - [ ] Legge til løsningsforslag til alle oppgaver
+        - [x] Legge inn alle løsningsforslag som finnes i Canvas
+- [ ] Litteratur
+    - [ ] Legge inn heftet i geometri 
+        - [x] Legge inn grovversjon
+        - [ ] Gå over alle bildene
+            - Eksempel på bilde som må fikses [[Geometri/1.3 Arealet av et parallellogram|arealet av et parallellogram]]
+        - [ ] Gå over formatering
+    - [ ] Legge inn heftet i sannsynlighet og kombinatorikk
+        - [x] Legge inn grovversjon
+        - [ ] Gå over alle bildene
+        - [ ] Gå over formatering
+    - [ ] Legge inn heftet i likninger, ulikheter og algebraiske uttrykk
+    - [ ] Legge inn heftet i tall
+    - [ ] Legge inn heftet i funksjoner
+- [ ] Funksjonalitet
+    - [x] Lage mulighet for å se personlig fremgang i kurset
+        - Nøkkel 47588 for å se eksempel
+- [ ] Annet
+    - [ ] Undersøke mulighet for mer funksjonalitet/interaktivtet
+        - [ ] Interaktivitet komponenter i deler av heftet?
+            - [x] Eksempel: [[Geometri/1.6 Arealet av en sirkel|Arealet av en sirkel]]
+            - [ ] Eksempel:[[Files/Prisme.html|Prisme]]
+        - [ ] Interaktivitet i oppgavene?
