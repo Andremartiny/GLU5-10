@@ -3,7 +3,11 @@ title: MA-173
 ---
 
 
-Her kan du finne litteratur, oppgaver og løsningsforslag fra MA-173. Det er veldig mye som fortsatt mangler og siden utvikles kontinuerlig. Hvis det er noe du savner kan du si fra til André så skal han prøve å ordne det så fort han kan.
+Her kan du finne litteratur, oppgaver og løsningsforslag fra MA-173. 
+
+Dette er et forsøk på å gjøre MA-173 oversiktlig og enkelt å navigere. Det er veldig mye som fortsatt mangler. Hvis det er noe du savner kan du si fra så skal vi prøve å ordne det så fort vi kan.
+
+Akkurat nå er denne siden i forsøksstadiet. Hvis du mener at siden er nyttig, så trenger vi din hjelp for at dette skal bli bra. Vi trenger spesielt hjelp til å finne alt som ikke fungerer eller som er feil. Skulle det mangle noe innhold, som for eksempel løsningsforslag kan du også sende inn forslag
 
 
 
@@ -48,17 +52,20 @@ Siden er ikke fullstendig. Under finnes en liste over ting som er planlagt. Ser 
             - Eksempel på bilde som må fikses [[Geometri/1.3 Arealet av et parallellogram|arealet av et parallellogram]]
         - [ ] Gå over formatering
     - [ ] Legge inn heftet i sannsynlighet og kombinatorikk
-        - [x] Legge inn grovversjon
+        - [x] Legge inn grovversjon av kombinatorikk
+        - [ ] Legge inn grovversjon av sannsynlighet
         - [ ] Gå over alle bildene
         - [ ] Gå over formatering
     - [ ] Legge inn heftet i likninger, ulikheter og algebraiske uttrykk
     - [ ] Legge inn heftet i tall
     - [ ] Legge inn heftet i funksjoner
+    - [ ] Legge inn relevante didaktiske ressurser som øvingsoppgaver og lignende
 - [ ] Funksjonalitet
     - [x] Lage mulighet for å se personlig fremgang i kurset
         - Nøkkel 47588 for å se eksempel
+    - [ ] Side der man kan lage egne `null-risk-tester` basert på selvvalgte læringsmål og nivå.
 - [ ] Annet
-    - [ ] Undersøke mulighet for mer funksjonalitet/interaktivtet
+    - [ ] Undersøke mulighet for mer funksjonalitet/interaktivitet
         - [ ] Interaktivitet komponenter i deler av heftet?
             - [x] Eksempel: [[Geometri/1.6 Arealet av en sirkel|Arealet av en sirkel]]
             - [ ] Eksempel:[[Files/Prisme.html|Prisme]]
