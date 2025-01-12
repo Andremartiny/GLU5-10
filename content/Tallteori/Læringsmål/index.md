@@ -1,5 +1,4 @@
 ---
-title: Læringsmål
+title: 📁Læringsmål
 ---
-
-Her finner du læringsmålene i tallteori. På hvert læringsmål kan du også finne øveoppgaver med løsningsforslag.
+Her finner du læringsmål og oppgaver koblet til tallteori.

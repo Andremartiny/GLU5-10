@@ -7,7 +7,7 @@ Heftet
 
 for MA-173
 
-![](./media/media/image1.png){width="2.560416666666667in"
+![](Files/media/image1.png){width="2.560416666666667in"
 height="3.2in"}
 
 2024
@@ -346,7 +346,7 @@ Heltallene *inneholder* altså de naturlige tallene. Ethvert naturlig
 tall er dermed et helt tall, men ikke nødvendigvis omvendt. Noen bruker
 ordene *positive heltall.* Det betyr naturlige tall.
 
-![](./media/media/image2.png){width="6.299212598425197in"
+![](Files/media/image2.png){width="6.299212598425197in"
 height="1.9987882764654419in"}
 
 At $a$ er en **faktor** i et tall, $b$, betyr at $b$ er delelig med $a$.
@@ -432,17 +432,17 @@ antall oddetall, må resultatet bli et oddetall.
 
 To oddetall:
 
-![](./media/media/image3.png){width="3.09078302712161in"
+![](Files/media/image3.png){width="3.09078302712161in"
 height="0.5905511811023622in"}
 
 Summen av to (og to) oddetall danner et partall:
 
-![](./media/media/image4.png){width="2.6215234033245842in"
+![](Files/media/image4.png){width="2.6215234033245842in"
 height="0.5905511811023622in"}
 
 Summen av et odde antall oddetall får da én til overs igjen:
 
-![](./media/media/image5.png){width="4.145952537182852in"
+![](Files/media/image5.png){width="4.145952537182852in"
 height="0.5905511811023622in"}
 
 ## 2.2 Formelt algebraisk argument
@@ -737,17 +737,17 @@ figurnummer og figurtall, kalles **eksplisitt sammenheng**. Den andre
 beskrivelsen, som gir sammenhengen mellom nabofigurer, kalles **rekursiv
 sammenheng**.
 
-![](./media/media/image6.png){width="1.968503937007874in"
+![](Files/media/image6.png){width="1.968503937007874in"
 height="0.5399092300962379in"}
 
-![](./media/media/image7.png){width="1.968503937007874in"
+![](Files/media/image7.png){width="1.968503937007874in"
 height="0.7270548993875765in"}
 
-![](./media/media/image8.png){width="1.968503937007874in"
+![](Files/media/image8.png){width="1.968503937007874in"
 height="0.7460345581802275in"}
 
-![](./media/media/image9.png){width="0.984251968503937in"
-height="0.44114063867016623in"}![](./media/media/image10.png){width="0.984251968503937in"
+![](Files/media/image9.png){width="0.984251968503937in"
+height="0.44114063867016623in"}![](Files/media/image10.png){width="0.984251968503937in"
 height="0.3153248031496063in"}
 
 ### 4.1.2 Rekursiv og eksplisitt beskrivelse, tillegg
@@ -758,12 +758,10 @@ ved å gi det forrige et *tillegg* på tre. For de nederste gis et
 figurtall et *tillegg* på to mer enn figurnummeret (vannrett stripe)
 pluss én mindre enn det dobbelte av figurnummeret (L-en).
 
-![A black background with white dots Description automatically
-generated](./media/media/image11.png){width="3.543307086614173in"
+![](Files/media/image11.png){width="3.543307086614173in"
 height="2.1073982939632545in"}
 
-![A black background with white dots Description automatically
-generated](./media/media/image12.png){width="5.118110236220472in"
+![](Files/media/image12.png){width="5.118110236220472in"
 height="2.4363232720909886in"}
 
 Slike beskrivelser av hvordan figurtall er bygd opp, kalles **rekursiv
@@ -828,8 +826,7 @@ felles, har vi verbalt uttrykt som *to mer enn det tredobbelte av
 figurnummeret* og algebraiske som $3n + 1$. Dette kaller vi **formen på
 tilleggene**.
 
-![A group of dots on a black background Description automatically
-generated](./media/media/image13.png){width="5.118110236220472in"
+![](Files/media/image13.png){width="5.118110236220472in"
 height="2.4363232720909886in"}
 
 En beskrivelse av hvordan figurtallet avhenger av figurnummeret, kalles
@@ -843,8 +840,7 @@ $$F_{n} = 3n + 2.$$
 En slik algebraisk beskrivelse av eksplisitt sammenheng, kalles
 **eksplisitt uttrykk** eller **eksplisitt formel**.
 
-![A group of dots on a black background Description automatically
-generated](./media/media/image14.png){width="3.543307086614173in"
+![](Files/media/image14.png){width="3.543307086614173in"
 height="2.1073982939632545in"}
 
 For det nederste figurtallet, er eksplisitt uttrykk
@@ -867,19 +863,13 @@ Rektangeltallene er summen av partallene fra to og oppover.
 Kvadrattallene er summen av oddetallene fra én og oppover. Se
 illustrasjoner under.
 
-![A black background with a black square Description automatically
-generated with medium
-confidence](./media/media/image15.png){width="3.425196850393701in"
+![](Files/media/image15.png){width="3.425196850393701in"
 height="0.9659219160104987in"}
 
-![A black background with a black square Description automatically
-generated with medium
-confidence](./media/media/image16.png){width="3.425196850393701in"
+![](Files/media/image16.png){width="3.425196850393701in"
 height="0.9526848206474191in"}
 
-![A black background with a black square Description automatically
-generated with medium
-confidence](./media/media/image17.png){width="3.425196850393701in"
+![](Files/media/image17.png){width="3.425196850393701in"
 height="1.116200787401575in"}
 
 Andre kjente figurtall er **polygontall** (som strengt tatt inneholder
@@ -977,12 +967,8 @@ Trikset funker åpenbart for alle $T_{n}$: Vi får et rektangel med $n$
 kolonner som hver inneholder $n + 1$ ringer. Halvparten av ringene er da
 gitt ved $\frac{n(n + 1)}{2}$.
 
-![A black background with a black square Description automatically
-generated with medium
-confidence](./media/media/image18.png){width="1.5354330708661417in"
-height="1.9758770778652668in"} ![A group of white circles on a black
-background Description automatically
-generated](./media/media/image19.png){width="1.5354330708661417in"
+![](Files/media/image18.png){width="1.5354330708661417in"
+height="1.9758770778652668in"} ![](Files/media/image19.png){width="1.5354330708661417in"
 height="2.292636701662292in"}
 
 **Brukt på rektangeltall -- algebraisk**
@@ -1079,9 +1065,7 @@ $${K_{n} = 2 \cdot 1 + 2 \cdot 2 + \ldots + 2n - (1 + 1 + \ldots + 1)
 Her er et eksempel der vi ikke allerede kjenner formen på tilleggene --
 et *sammensatt figurtall.*
 
-![A black background with a black square Description automatically
-generated with medium
-confidence](./media/media/image20.png){width="4.133858267716535in"
+![](Files/media/image20.png){width="4.133858267716535in"
 height="1.6406758530183727in"}
 
 [Steg 1:]{.underline} Ved å stirre hardt på figurene, ser vi at
@@ -1103,15 +1087,13 @@ $${4(n - 1) + 1
 >
 > $$5 \cdot 4 + 1 = 6 \cdot 4 - 3.$$
 >
-> ![A green and blue arrows Description automatically
-> generated](./media/media/image21.png){width="3.937007874015748in"
+> ![](Files/media/image21.png){width="3.937007874015748in"
 > height="0.9829811898512686in"}
 
 Vi ser at også det første figurtallet har samme form:
 $F_{1} = 1 = 4 \cdot 1 - 3$.
 
-![A black background with white dots Description automatically
-generated](./media/media/image22.png){width="4.133858267716535in"
+![](Files/media/image22.png){width="4.133858267716535in"
 height="1.6406758530183727in"}
 
 [Steg 2:]{.underline} Dermed er den $n$-te figuren, figur nummer $n$,
@@ -1181,9 +1163,7 @@ figuren.
 
 Under ser du femkanttallene opp til $P_{4}$.
 
-![A black background with a black square Description automatically
-generated with medium
-confidence](./media/media/image23.png){width="4.724409448818897in"
+![](Files/media/image23.png){width="4.724409448818897in"
 height="1.7904822834645668in"}
 
 Vi ønsker å finne eksplisitt uttrykk for $P_{n}$ ved å **dekomponere**
@@ -1191,8 +1171,7 @@ Vi ønsker å finne eksplisitt uttrykk for $P_{n}$ ved å **dekomponere**
 Her er to muligheter:
 
   -----------------------------------------------------------------------------------------------------------------------------------------
-  ![A black background with white dots Description automatically       ![A group of dots on a black background Description automatically
-  generated](./media/media/image24.png){width="3.0311417322834644in"   generated](./media/media/image25.png){width="3.0161570428696414in"
+  ![](Files/media/image25.png){width="3.0161570428696414in"
   height="1.1930555555555555in"}                                       height="1.1930555555555555in"}
   -------------------------------------------------------------------- --------------------------------------------------------------------
 
@@ -1234,17 +1213,14 @@ $${P_{n} = T_{n} + 2T_{n - 1}
 
 La oss vende tilbake til figurene under.
 
-![A black background with a black square Description automatically
-generated with medium
-confidence](./media/media/image20.png){width="4.724409448818897in"
+![](Files/media/image20.png){width="4.724409448818897in"
 height="1.875057961504812in"}
 
 Vi ønsker å avdekke strukturen i figurene slik at vi kan finne uttrykket
 som gir oss antallet ringer i figur $n$. Stirrer vi hardt nok, ser vi
 kanskje noe sånt:
 
-![A black background with white dots Description automatically
-generated](./media/media/image26.png){width="4.724409448818897in"
+![](Files/media/image26.png){width="4.724409448818897in"
 height="1.875057961504812in"}
 
 Det skjuler seg et kvadrattall og to trekanttall i hver figur. Kvadratet
@@ -1272,9 +1248,7 @@ algebraiske
 
 uttrykket gir altså opphav til en ny geometrisk tolkning.
 
-![A black background with white dots and arrows Description
-automatically
-generated](./media/media/image27.png){width="4.724409448818897in"
+![](Files/media/image27.png){width="4.724409448818897in"
 height="1.6695056867891513in"}
 
 Alternativt kan vi faktorisere uttrykket:
@@ -1282,8 +1256,7 @@ $F_{n} = 2n^{2} - n = n \cdot (2n - 1)$. Nå får vi atter en måte å lese
 figurene: Den $n$-te figuren er produktet av $n$ og oddetall nummer $n$.
 Her trengs ingen omstrukturering, bare at vi stirrer litt annerledes:
 
-![A black background with white and green dots Description automatically
-generated](./media/media/image28.png){width="1.6291371391076115in"
+![](Files/media/image28.png){width="1.6291371391076115in"
 height="1.968503937007874in"}
 
 ## 4.3 Strategier for å finne rekursivt uttrykk
@@ -1302,8 +1275,7 @@ figurtall inneholder den forrige.
 Vi har sett hvordan hver figur inneholder den forrige for trekant-,
 rektangel- og kvadrattallene. Her ser vi det igjen.
 
-![A screenshot of a game Description automatically
-generated](./media/media/image29.png){width="3.937007874015748in"
+![](Files/media/image29.png){width="3.937007874015748in"
 height="2.1748917322834647in"}
 
 For å lage neste trekanttall, legger vi til det neste naturlige tallet;
@@ -1332,8 +1304,7 @@ $${P_{1} = 1
 }{P_{3} = P_{2} + 3 \cdot 3 - 2
 }{P_{4} = P_{3} + 3 \cdot 4 - 2.}$$
 
-![A black background with white dots Description automatically
-generated](./media/media/image30.png){width="4.724409448818897in"
+![](Files/media/image30.png){width="4.724409448818897in"
 height="1.7904822834645668in"}
 
 Vi generaliserer mønsteret: Et femkanttall svarer til det forrige pluss
@@ -1354,8 +1325,7 @@ $4n - 3$ fra $F_{n - 1}$ til $F_{n}$. Dermed er
 
 $$F_{n} = F_{n - 1} + 4n - 3,\ \ F_{1} = 1.$$
 
-![A black background with white dots Description automatically
-generated](./media/media/image22.png){width="4.724409448818897in"
+![](Files/media/image22.png){width="4.724409448818897in"
 height="1.875057961504812in"}
 
 Det er altså ikke noe særlig nytt i det å *finne* rekursivt uttrykk. Vi
@@ -1444,7 +1414,7 @@ avstanden. Vi kan enten se for oss at vi flytter differansen til
 endepunktene treffer passende tall som er enkle å regne med, eller at vi
 lar differansen stå i ro mens vi flytter tallinja.
 
-![](./media/media/image31.png){width="4.724409448818897in"
+![](Files/media/image31.png){width="4.724409448818897in"
 height="1.0851968503937008in"}
 
 *\
@@ -1454,14 +1424,14 @@ height="1.0851968503937008in"}
 av et rektangel.* Å doble den ene sida og halvere den andre, endrer
 rektanglet, men ikke arealet:
 
-![](./media/media/image32.png){width="3.1496062992125986in"
+![](Files/media/image32.png){width="3.1496062992125986in"
 height="2.3247134733158354in"}
 
 *Utnytte distributivitet*. Dette er bare å telle i omganger. Å telle fem
 tre ganger, er det samme som å telle to fem ganger, og deretter tre fem
 ganger.
 
-![](./media/media/image33.png){width="4.724409448818897in"
+![](Files/media/image33.png){width="4.724409448818897in"
 height="1.255744750656168in"}
 
 Eller vi kan støtte oss til multiplikasjon som areal igjen. Arealet av
@@ -1472,7 +1442,7 @@ $${3 \cdot 7
 }{= 3 \cdot (5 + 2)
 }{= 3 \cdot 5 + 3 \cdot 2.}$$
 
-![](./media/media/image34.png){width="3.1496062992125986in"
+![](Files/media/image34.png){width="3.1496062992125986in"
 height="1.6649846894138234in"}
 
 # 6 Brøkregning med illustrasjoner 
@@ -1510,7 +1480,7 @@ Under ser du multiplikasjonen $4 \cdot 6$. Fire grupper med seks. Fire
 seksere. Seks gjentatt fire ganger. Fire eksemplarer av seks. Eller --
 min favoritt -- fire *kopier av* seks.
 
-![](./media/media/image35.png){width="4.724409448818897in"
+![](Files/media/image35.png){width="4.724409448818897in"
 height="1.2539293525809274in"}
 
 Jeg liker kopimetaforen fordi den i mitt hode er akkurat like
@@ -1527,7 +1497,7 @@ ganger.
 $\frac{4}{3} \cdot 6 = \frac{6}{3} + \frac{6}{3} + \frac{6}{3} + \frac{6}{3}$.
 Ikke én, ikke to, ikke tre, men *fire* tredeler-av-seks. Sånn:
 
-![](./media/media/image36.png){width="4.724409448818897in"
+![](Files/media/image36.png){width="4.724409448818897in"
 height="1.24125in"}
 
 Med andre ord kan også brøkmultiplikasjon forstås som gjentatt addisjon.
@@ -1541,7 +1511,7 @@ bilde av -- hva multiplikasjon er eller betyr. I multiplikasjonen
 $3 \cdot 2$ forteller $2$ hvor lange hopp vi skal gjøre, mens $3$ angir
 antallet slike hopp.
 
-![](./media/media/image37.png){width="4.724409448818897in"
+![](Files/media/image37.png){width="4.724409448818897in"
 height="0.6748687664041995in"}
 
 I multiplikasjonen $\frac{4}{3} \cdot 6$ kan vi tenke tilsvarende, men
@@ -1549,7 +1519,7 @@ på to måter (som jo er dobbelt så bra!). Alternativ 1 er akkurat som
 over: Vi skal gjøre hopp av lengde $6$, og vi skal gjøre $\frac{4}{3}$
 slike hopp. Ett helt og et tredels $6$-erhopp, om du vil.
 
-![](./media/media/image38.png){width="4.724409448818897in"
+![](Files/media/image38.png){width="4.724409448818897in"
 height="0.746411854768154in"}
 
 Alternativ 2 er at også hvert av tallene i brøken har ulik jobb. Mens
@@ -1560,7 +1530,7 @@ forteller hva slags deler av $6$ som skal hoppes. (Dette svarer til
 tolkninga et par avsnitt over:
 $\frac{4}{3} \cdot 6 = \frac{6}{3} + \frac{6}{3} + \frac{6}{3} + \frac{6}{3}$.)
 
-![](./media/media/image39.png){width="4.724409448818897in"
+![](Files/media/image39.png){width="4.724409448818897in"
 height="0.7182020997375328in"}
 
 ### 6.1.2 Multiplikasjon med et naturlig tall og en brøk
@@ -1573,7 +1543,7 @@ fem ganger. $5 \cdot \frac{2}{3}$ er altså
 $\frac{2}{3} + \frac{2}{3} + \frac{2}{3} + \frac{2}{3} + \frac{2}{3}$,
 eller litt kjappere: $\frac{5 \cdot 2}{3} = \frac{10}{3}$.
 
-![](./media/media/image40.png){width="4.724409448818897in"
+![](Files/media/image40.png){width="4.724409448818897in"
 height="0.7521194225721785in"}
 
 Men: Vi kan lese figuren «andre veien» også, som et bilde av
@@ -1608,13 +1578,13 @@ vi som to kopier av en tredel av $\frac{4}{5}$.
 Hva er en tredel av en femdel? Vel, da må vi dele hver femdel i tre. Det
 gir $15$, altså $3 \cdot 5$, små deler.
 
-![](./media/media/image41.png){width="5.511811023622047in"
+![](Files/media/image41.png){width="5.511811023622047in"
 height="1.2545800524934383in"}
 
 La oss nå finne $\frac{2}{3} \cdot \frac{4}{5}$, altså to tredeler av
 fire femdeler.
 
-![](./media/media/image42.png){width="5.511811023622047in"
+![](Files/media/image42.png){width="5.511811023622047in"
 height="1.9944564741907262in"}
 
 Som en slags konklusjon, ser vi at om vi bare tenker litt fornuftig på
@@ -1631,14 +1601,14 @@ kan tenke at vi først finner to tredeler av hver av de fire femdelene,
 for så å slå dem sammen. I siste linje ser vi da at
 $\frac{2}{3} \cdot \frac{4}{5} = 4 \cdot \frac{2}{3 \cdot 5}$.
 
-![](./media/media/image43.png){width="4.724409448818897in"
+![](Files/media/image43.png){width="4.724409448818897in"
 height="3.0877055993000875in"}
 
 Eller vi kan tenke at vi først finner én tredel av $\frac{4}{5}$, for så
 å doble, altså at
 $\frac{2}{3} \cdot \frac{4}{5} = 2 \cdot \frac{4}{3 \cdot 5}$.
 
-![](./media/media/image44.png){width="4.724409448818897in"
+![](Files/media/image44.png){width="4.724409448818897in"
 height="3.0877066929133856in"}
 
 ## 6.2 Divisjon
@@ -1679,10 +1649,10 @@ Den første situasjonen kan vi illustrere som under. Vi ser og forstår at
 $120\ :3 = 40$ er det antallet kg per km som går tre ganger opp i $120$
 km.
 
-![](./media/media/image45.png){width="4.724409448818897in"
+![](Files/media/image45.png){width="4.724409448818897in"
 height="1.1691972878390202in"}
 
-![](./media/media/image46.png){width="4.724409448818897in"
+![](Files/media/image46.png){width="4.724409448818897in"
 height="1.5030971128608923in"}
 
 Situasjon 2) er strukturelt lik. $1,5$ km er tre halve kilometere,
@@ -1692,13 +1662,13 @@ $120\ :\frac{3}{2}$. La oss illustrere igjen, slik at vi samtidig innser
 -- uten å ty til noen huskeregler! -- hvordan vi kan regne. Vi har $120$
 kg grus på $\frac{3}{2}$ km vei.
 
-![](./media/media/image47.png){width="4.724409448818897in"
+![](Files/media/image47.png){width="4.724409448818897in"
 height="1.1691972878390202in"}
 
 De $120$ kiloene er fordelt likt på tre *halve* kilometere. Det er altså
 $\frac{120}{3}$ kg grus per halve km.
 
-![](./media/media/image48.png){width="4.724409448818897in"
+![](Files/media/image48.png){width="4.724409448818897in"
 height="1.5039370078740157in"}
 
 Da må det ligge det dobbelte, altså $2 \cdot \frac{120}{3}$ kilo grus på
@@ -1707,7 +1677,7 @@ eller på mer vant form: $120\ :\frac{2}{3}$. Og vi ser og forstår at
 $120\ :\frac{3}{2} = 2 \cdot \frac{120}{3} = 80$ er det antallet kg per
 km som går tre halve (eller én og en halv) ganger opp i $120$ km.
 
-![](./media/media/image49.png){width="4.724409448818897in"
+![](Files/media/image49.png){width="4.724409448818897in"
 height="1.5748031496062993in"}
 
 Nå bør den tredje situasjonen være en smal sak å forstå seg på. $120$ kg
@@ -1715,12 +1685,12 @@ er jevnt fordelt på tre firedeler av en kilometer. Mengden grus per km
 er gitt ved divisjonen $120\ :\frac{3}{4}$. Tenkningen er helt lik som
 over.
 
-![](./media/media/image50.png){width="4.724409448818897in"
+![](Files/media/image50.png){width="4.724409448818897in"
 height="1.3339807524059493in"}
 
 Hver av de tre firedelene inneholder $120\ :3$ kg grus.
 
-![](./media/media/image51.png){width="4.724409448818897in"
+![](Files/media/image51.png){width="4.724409448818897in"
 height="1.3142049431321086in"}
 
 Fire av disse delene er en hel km, så det trengs $4 \cdot \frac{120}{3}$
@@ -1731,7 +1701,7 @@ at $120\ :\frac{3}{4} = 4 \cdot \frac{120}{3} = 160$ er det antallet kg
 per km som går tre firedels (eller tre kvarte, om du vil) ganger opp i
 $120$ km.
 
-![](./media/media/image52.png){width="4.724409448818897in"
+![](Files/media/image52.png){width="4.724409448818897in"
 height="1.3142049431321086in"}
 
 Her er det mulig å få (enda en?) en aha-opplevelse. Ikke bare *kan vi
@@ -1759,7 +1729,7 @@ $\frac{5}{3}$, hvor mye utgjør da en hel (altså tre tredeler)?
 Tenkning: Deler $a$ i fem like deler (deler $a$ på fem), ganger opp med
 tre femdeler.
 
-![](./media/media/image53.png){width="4.724409448818897in"
+![](Files/media/image53.png){width="4.724409448818897in"
 height="2.3897637795275593in"}
 
 Tenkningen (og illustrasjonen) er i begge tilfeller identisk!
@@ -1794,7 +1764,7 @@ Vi er alle enige om at situasjon 1) svarer til divisjonen $12\ :3$. Vi
 er like enige i at tre går fire ganger opp i tolv, så $12\ :3 = 4$. Vi
 kan illustrere det slik:
 
-![](./media/media/image54.png){width="4.724409448818897in"
+![](Files/media/image54.png){width="4.724409448818897in"
 height="2.0in"}
 
 I situasjon 2 skal vi dele stroppen i $\frac{3}{2}$-lengder. Siden vi
@@ -1813,7 +1783,7 @@ Atter et alternativ: Finner ut hvor mange halvmetere $12$ *er:*
 $12 = \frac{24}{2}$. Da er hele stroppen og delene oppgitt i samme
 enhet: halvdeler. Fordeler så de $24$ halvdelene likt på tre: $24\ :3$.
 
-![](./media/media/image55.png){width="5.511811023622047in"
+![](Files/media/image55.png){width="5.511811023622047in"
 height="2.911117672790901in"}
 
 Tredje situasjon er lik. Skal dele stroppen i lengder på $\frac{3}{4}$
@@ -1821,7 +1791,7 @@ meter. Deler den først i firedeler, før vi grupperer tre og tre; det vil
 si deler $12 \cdot 4$ (antall firedeler i tolv) på tre. Med andre ord,
 $12\ :\frac{3}{4} = \frac{(12 \cdot 4)}{3}$.
 
-![](./media/media/image56.png){width="6.190164041994751in"
+![](Files/media/image56.png){width="6.190164041994751in"
 height="3.2402777777777776in"}
 
 Igjen ser vi at «å gange med den omvendte brøken» langt fra er noe
@@ -1875,7 +1845,7 @@ svarer til divisjonen $5\ :3$. Vi gir hver person hver sin tredel av de
 fem kvadratene. Hver person får da $\frac{5}{3}$. Med andre ord er
 $5\ :3 = \frac{5}{3}$.
 
-![](./media/media/image57.png){width="2.3618055555555557in"
+![](Files/media/image57.png){width="2.3618055555555557in"
 height="1.5198020559930008in"}
 
 Poenget er at brøken $\frac{a}{b}$ er «svaret» på divisjonen $a\ :b$.
@@ -1932,7 +1902,7 @@ være tre *negative* kopier av fem; altså tre femmerhopp mot *venstre* på
 tallinja. Når tallet som kopierer er negativt, snur det altså retningen
 til tallet som kopieres. Sånn:
 
-![](./media/media/image58.png){width="4.724409448818897in"
+![](Files/media/image58.png){width="4.724409448818897in"
 height="2.8062718722659667in"}
 
 Da lurer vi bare på én ting: Hvordan oppfører negative kopier av
@@ -1945,7 +1915,7 @@ tre femmer-lengder mot høyre.
 Alternativt, negative kopier gir «baklengshopp». Baklengs for $5$ er
 $- 5$. Baklengs for $- 5$ er $5$.
 
-![](./media/media/image59.png){width="4.724409448818897in"
+![](Files/media/image59.png){width="4.724409448818897in"
 height="1.1232863079615047in"}
 
 Med denne måten å tenke, betyr multiplikasjon fortsatt akkurat det samme
@@ -2163,7 +2133,7 @@ et tidspunkt «kolliderer» de og gir samme tall, så å si. I figuren under
 ser vi at når $x = 3$ gir *begge* uttrykkene samme funksjonsverdi:
 $\frac{15}{4}$.
 
-![](./media/media/image60.png){width="4.046797900262467in"
+![](Files/media/image60.png){width="4.046797900262467in"
 height="3.317390638670166in"}
 
 > **Grafisk tolkning av likningen** Når $x$ «farer igjennom» alle
@@ -2256,7 +2226,7 @@ Når vi «arbeider baklengs» tenker vi på likninga som et ukjent tall $x$
 som har blitt utført en rekke regneoperasjoner på. Strategien går så ut
 på å nøste seg tilbake igjen til utgangspunktet.
 
-> ![](./media/media/image61.png){width="3.0679505686789152in"
+> ![](Files/media/image61.png){width="3.0679505686789152in"
 > height="0.4597014435695538in"}
 
 Vi skjønner da at denne strategien er egnet i likninger der «alt med
@@ -2265,7 +2235,7 @@ oppfattes som «svaret». Vi arbeider baklengs ved å starte med
 resultatet, $11$, og utføre de *motsatte regneoperasjonene* i tur og
 orden. Tallet vi da ender på er $x$. Les fra høyre:
 
-> ![](./media/media/image62.png){width="2.816434820647419in"
+> ![](Files/media/image62.png){width="2.816434820647419in"
 > height="0.362749343832021in"}
 
 ##  9.4 Holde over
@@ -2276,7 +2246,7 @@ ganga. Boksene illustrerer hvilke deler jeg holder over. Dette kan man
 ellers gjøre enten ved fysisk å holde fingeren over, eller ved ren
 tankekraft.
 
-![](./media/media/image63.png){width="2.3in"
+![](Files/media/image63.png){width="2.3in"
 height="2.3305555555555557in"}
 
 $11$ er halvparten av et tall; da må tallet være $22$. Med andre ord er
@@ -2363,7 +2333,7 @@ enn minus ti (til høyre for minus ti på tallinja), betyr at $- x$ er
 *mindre* enn ti (til venstre for ti på tallinja): $x > - 10$ betyr at
 $- x < 10$.
 
-![](./media/media/image64.png){width="4.724409448818897in"
+![](Files/media/image64.png){width="4.724409448818897in"
 height="1.993934820647419in"}
 
 Vi kan også se det slik: Enhver $x$ indikert i øverste linje er større
@@ -2375,8 +2345,7 @@ nedenfra og opp.
 
 Her er en oppgave fra nasjonal deleksamen:
 
-![Et bilde som inneholder tekst Automatisk generert
-beskrivelse](./media/media/image65.png){width="5.511811023622047in"
+![](Files/media/image65.png){width="5.511811023622047in"
 height="2.8318503937007873in"}
 
 Vi blir bedt om å påpeke elevens feil, og å foreslå hjelpetiltak. Feilen
@@ -2391,7 +2360,7 @@ La oss illustrere det igjen. Vi skal ha alle $x$ som er slik at om vi
 dobler og gjør den negativ, så er resultatet lavere enn $- \frac{1}{2}$.
 Figuren illustrer alle tall lavere enn $- \frac{1}{2}$.
 
-![](./media/media/image66.png){width="5.118110236220472in"
+![](Files/media/image66.png){width="5.118110236220472in"
 height="1.029717847769029in"}
 
 Vi er på jakt etter alle tall $x$ slik at $- 2x$ «havner» til venstre
@@ -2400,8 +2369,7 @@ har blitt doblet og speilet om $0$, altså gjort negativ. Vi ser også av
 figuren at for å treffe til venstre for $- \frac{1}{2}$, må tallet som
 speiles, altså $2x$, nødvendigvis være større enn $\frac{1}{2}$.
 
-![Et bilde som inneholder tekst Automatisk generert
-beskrivelse](./media/media/image66.png){width="5.118110236220472in"
+![](Files/media/image66.png){width="5.118110236220472in"
 height="2.052123797025372in"}
 
 # 11 Lineære likningssett med to ukjente
@@ -2546,7 +2514,7 @@ løsning? Kan det finnes flere løsninger? Hvor mange da, i så fall?)
 
 Vi tegner grafene:
 
-![](./media/media/image67.png){width="5.431287182852143in"
+![](Files/media/image67.png){width="5.431287182852143in"
 height="3.6777329396325458in"}
 
 Punktet som ligger på begge grafene -- grafenes skjæringspunkt -- er,
@@ -2577,16 +2545,16 @@ større, får vi en raskere økning -- en brattere graf. Om $a < 0$, får vi
 tilsvarende effekt, men med en graf som avtar stadig mer for «mer
 negativ» $a$.
 
-![](./media/media/image68.png){width="2.951596675415573in"
+![](Files/media/image68.png){width="2.951596675415573in"
 height="2.082279090113736in"}
-![](./media/media/image69.png){width="2.952755905511811in"
+![](Files/media/image69.png){width="2.952755905511811in"
 height="2.1393700787401575in"}
 
 Konstantleddet angir funksjonsverdien i $x = 0$. Det er fordi at for
 alle $a$ er $a \cdot 0 + b = b$. Det er grunnen til at $b$ finnes igjen
 på grafen som skjæringspunktet med andreaksen.
 
-![](./media/media/image70.png){width="2.952755905511811in"
+![](Files/media/image70.png){width="2.952755905511811in"
 height="2.105097331583552in"}
 
 ## 12.2 Finne funksjonsuttrykk gitt to punkter på grafen
@@ -2606,7 +2574,7 @@ er ikke *nødvendig* å skissere grafen, men vi ser nå to viktige
 holdepunkter: Stigningstallet er *negativt,* og konstantleddet ser ut
 til å være litt under $1$.
 
-![](./media/media/image71.png){width="3.543307086614173in"
+![](Files/media/image71.png){width="3.543307086614173in"
 height="2.528771872265967in"}
 
 Vi finner først stigningstallet. Når $x$ øker med fire fra $- 1$ til
@@ -2653,7 +2621,7 @@ på to måter: «Direkte», som kvadratet av sidelengdene, eller som summen
 av rektanglene det består av. Algebraisk gir dette identiteten
 $(a + b)^{2} = a^{2} + 2ab + b^{2}$.
 
-![](./media/media/image72.png){width="3.432638888888889in"
+![](Files/media/image72.png){width="3.432638888888889in"
 height="1.5898228346456693in"}
 
 ## 13.2 Andre kvadratsetning
@@ -2665,7 +2633,7 @@ to $a \times b$-rektanglene; legg så til ett eksemplar av kvadratet i
 høyre hjørne, ettersom det ble trukket fra to ganger. Algebraisk svarer
 dette til identiteten $(a - b)^{2} = a^{2} - 2ab + b^{2}$.
 
-![](./media/media/image73.png){width="3.936415135608049in"
+![](Files/media/image73.png){width="3.936415135608049in"
 height="1.7874529746281715in"}
 
 ## 13.3 Tredje kvadratsetning (konjugatsetninga)
@@ -2677,7 +2645,7 @@ venstre, der det samme grå arealet nå svarer til $(a + b)(a - b)$.
 
 Algebraisk får vi identiteten $(a + b) \cdot (a - b) = a^{2} - b^{2}$.
 
-![](./media/media/image74.png){width="3.897858705161855in"
+![](Files/media/image74.png){width="3.897858705161855in"
 height="2.1417115048118984in"}
 
 # 14 Kvadratiske likninger
@@ -2687,7 +2655,7 @@ height="2.1417115048118984in"}
 Geometrisk kan vi se for oss følgende problemstilling. Det samlede
 arealet av figuren under er $24$. Hvor lang er da sidene i kvadratet?
 
-![](./media/media/image75.png){width="3.2604166666666665in"
+![](Files/media/image75.png){width="3.2604166666666665in"
 height="1.0633048993875767in"}
 
 Algebraisk svarer problemstillinga til denne likninga:
@@ -2700,7 +2668,7 @@ gripe det an algebraisk. Første steg er en lur observasjon:
 $10 \times x$-rektanglet kan deles i to $5 \times x$-rektangler. En
 liten omstrukturering gir oss denne figuren:
 
-![](./media/media/image76.png){width="2.047244094488189in"
+![](Files/media/image76.png){width="2.047244094488189in"
 height="2.110851924759405in"}
 
 Hvorfor var det så lurt, tenker du kanskje. Vel, denne «L»-en mangler
@@ -2709,7 +2677,7 @@ $(x + 5)^{2}$-kvadrat. Siden L-ens areal er $24$, er det store
 kvadratets areal $24 + 25 = 49$. Det betyr at sidelengden $x + 5$ må
 være $7$. Da må $x = 2$.
 
-![](./media/media/image77.png){width="2.047244094488189in"
+![](Files/media/image77.png){width="2.047244094488189in"
 height="2.1108541119860016in"}
 
 Vi ser altså av figuren at $x^{2} + 2 \cdot 5x + 5^{2} = (x + 5)^{2}$,
@@ -2750,12 +2718,13 @@ Da vil $x = 4$ og $x = - 18$ løse likninga.
 
 ## 14.3 Løsning ved hjelp av andre kvadratsetning
 
+
 Sett nå at vi støtte på en likning der koeffisienten i førstegradsleddet
 var negativt, som her: $x^{2} - 6x = 7$. Forhåpentlig ser vi at dette
 ikke egentlig er noen utfordring -- vi kan til og med illustrere
 problemstillingen om vi vil:
 
-![](./media/media/image78.png){width="3.5506944444444444in"
+![](Files/media/image78.png){width="3.5506944444444444in"
 height="1.8591218285214348in"}
 
 Arealet av det hvite området er 7. Vi deler $6x$-rektanglet i to, og
@@ -2854,8 +2823,7 @@ Den grønne grafen under viser den lineære funksjonen $f$ gitt ved
 $f(x) = 2x + 1$. Den røde viser andregradsfunksjonen $g$ gitt ved
 $g(x) = x^{2} + 2x + 1$, altså $f(x)$ med et kvadratisk tillegg.
 
-![A graph of a function Description automatically
-generated](./media/media/image79.png){width="5.905511811023622in"
+![](Files/media/image79.png){width="5.905511811023622in"
 height="3.9988517060367452in"}
 
 Grafene sammenfaller i $x = 0$, for der bidrar ikke $x^{2}$ med noe. Går
@@ -2896,7 +2864,7 @@ La oss studere $h(x) = 3x^{2} + 6x - 1$. Grafen vises under. Vi skal
 interessere oss i to ting: 1) punktene der grafen skjærer førsteaksen,
 og 2) linja grafen er symmetrisk om.
 
-![](./media/media/image80.png){width="3.975984251968504in"
+![](Files/media/image80.png){width="3.975984251968504in"
 height="4.534653324584427in"}
 
 Punktene der grafen skjærer førsteaksen, er der funksjonsverdien er
@@ -2975,7 +2943,7 @@ $x$-aksen, skjer det samme, men med motsatt fortegn. Funksjonsverdien
 kryper stadig nærmere null. Grafen til en omvendt proporsjonal funksjon
 ser slik ut (eksemplet viser $g(x) = \frac{100}{x}$):
 
-![](./media/media/image81.png){width="6.029166666666667in"
+![](Files/media/image81.png){width="6.029166666666667in"
 height="4.082580927384077in"}
 
 ## 16.2 Symmetrilinje
@@ -3014,7 +2982,7 @@ med samme grunnlinje og høyde -- og dermed halvparten av tilsvarende
 rektangel. Et trapes kan deles i to trekanter, så arealet er summen av
 deres arealer. Vi innser nå at
 
-![](./media/media/image82.png){width="4.724409448818897in"
+![](Files/media/image82.png){width="4.724409448818897in"
 height="2.6212412510936134in"}
 
 For å tallfeste arealer, trenger vi en *enhet.* Vi måler lengder ved
@@ -3024,7 +2992,7 @@ lik én lengdeenhet. Enhetskvadratet har et areal på én arealenhet. En
 gitt figurs areal blir da antallet slike enhetskvadrater figuren har
 plass til.
 
-![](./media/media/image83.png){width="2.952755905511811in"
+![](Files/media/image83.png){width="2.952755905511811in"
 height="1.5894925634295713in"}
 
 Rektanglet under rommer nøyaktig $15$ arealenheter. Når vi sier at
@@ -3035,7 +3003,7 @@ vinkler som ikke er rette, kan vi ikke fylle den direkte med kvadrater.
 At trekantens areal er $7,5$ forstår vi da som at *den opptar like mye
 flate* som $7,5$ enhetskvadrater.
 
-![](./media/media/image84.png){width="2.952755905511811in"
+![](Files/media/image84.png){width="2.952755905511811in"
 height="1.7952471566054242in"}
 
 ### 17.1.2 Arealet av et rektangel
@@ -3047,7 +3015,7 @@ enheter den ene veien, fem og to tredeler den andre. De tre små bitene
 utgjør til sammen to arealenheter, siden $3 \cdot \frac{2}{3} = 2$, og
 hele rektanglets areal er $3 \cdot 5\frac{2}{3} = 17$.
 
-![](./media/media/image85.png){width="3.3337160979877516in"
+![](Files/media/image85.png){width="3.3337160979877516in"
 height="1.795275590551181in"}
 
 For et rektangel med grunnlinje lik $a$ lengdeenheter og høyde lik $h$
@@ -3071,7 +3039,7 @@ to situasjoner oppstå: Enten treffer høyden en side i parallellogrammet,
 eller så ligger den (delvis) utenfor figuren (akkurat som for stumpe
 trekanter).
 
-![](./media/media/image86.png){width="6.089874234470691in"
+![](Files/media/image86.png){width="6.089874234470691in"
 height="1.1811023622047243in"}
 
 Vi starter med den første situasjonen. Se figuren under: Sammenlikner vi
@@ -3082,7 +3050,7 @@ Dermed er det er like mye av parallellogrammet utenfor som inni
 rektanglet. Et parallellogram med grunnlinje $a$ og høyde $h$, og der
 høyden ligger inni figuren, har derfor areal $ah$.
 
-![](./media/media/image87.png){width="2.2354516622922134in"
+![](Files/media/image87.png){width="2.2354516622922134in"
 height="1.1811023622047243in"}
 
 Dersom høyden ligger utenfor figuren, gjelder ikke argumentet over. Om
@@ -3093,15 +3061,13 @@ figuren.
 
 Figuren viser et parallellogram der høyden ligger utenfor figuren.
 
-![A black background with white letters Description automatically
-generated](./media/media/image88.png){width="4.214032152230971in"
+![](Files/media/image88.png){width="4.214032152230971in"
 height="1.3103029308836396in"}
 
 Vi tenker oss at vi deler figuren i to (trekanter) langs diagonalen, og
 kutter av trekanten til høyre.
 
-![A rectangular object with a black background Description automatically
-generated](./media/media/image89.png){width="4.229166666666667in"
+![](Files/media/image89.png){width="4.229166666666667in"
 height="1.4411745406824148in"}
 
 Denne plasserer vi inntil den venstre trekanten. Resultatet er et nytt
@@ -3109,8 +3075,7 @@ parallellogram med samme areal som den opprinnelige, men der høyden
 treffer inni. Også disse parallellogrammene har altså samme areal som
 rektanglet med samme grunnlinje og høyde.
 
-![A black and white image of a white rectangle Description automatically
-generated](./media/media/image90.png){width="2.67338145231846in"
+![](Files/media/image90.png){width="2.67338145231846in"
 height="1.4173228346456692in"}
 
 Skulle «toppsiden» ligge lengre til siden enn sin lengde, gjentar vi
@@ -3126,9 +3091,9 @@ parallellogrammets. Venstre figur viser en stump trekant, mens den til
 høyre er en spiss trekant. Merk at en trekants *høyde* er den
 *vinkelrette* avstanden mellom motstående hjørne og valgt grunnlinje.
 
-![](./media/media/image91.png){width="2.1602012248468943in"
+![](Files/media/image91.png){width="2.1602012248468943in"
 height="0.984251968503937in"}
-![](./media/media/image92.png){width="2.063396762904637in"
+![](Files/media/image92.png){width="2.063396762904637in"
 height="0.984251968503937in"}
 
 For en trekant med grunnlinje $a$ og høyde $h$ er altså arealet, $A$,
@@ -3139,7 +3104,7 @@ gitt ved $A = \frac{1}{2}ah$.
 Et trapes kan deles i to trekanter som vist i figuren til venstre.
 Trapesets areal er dermed summen av trekantenes arealer.
 
-![](./media/media/image93.png){width="1.9521237970253718in"
+![](Files/media/image93.png){width="1.9521237970253718in"
 height="1.1811023622047243in"}
 
 Et trapes med høyde $h$, og der de parallelle sidene er $a$ og $b$, har
@@ -3151,8 +3116,7 @@ Alternativt kan vi lage en kopi av trapeset ved å rotere den om
 midtpunktet på en av sidene. Da ser vi at arealet er halvparten av
 arealet av et parallellogram.
 
-![A black and white image of a line Description automatically
-generated](./media/media/image94.png){width="3.3613123359580053in"
+![](Files/media/image94.png){width="3.3613123359580053in"
 height="1.1811023622047243in"}
 
 Grunnlinja i parallellogrammet er $a + b$ og høyden $h$. Arealet er
@@ -3168,12 +3132,12 @@ $$\frac{1}{2}h(a + b).$$
 Vi tenker oss at vi deler en sirkel inn i «kakestykker» som i figuren
 under.
 
-![](./media/media/image95.png){width="4.292579833770779in"
+![](Files/media/image95.png){width="4.292579833770779in"
 height="1.968503937007874in"}
 
 Deretter plukker vi ut stykkene og stabler dem slik:
 
-![](./media/media/image96.png){width="2.937428915135608in"
+![](Files/media/image96.png){width="2.937428915135608in"
 height="0.984251968503937in"}
 
 Vi ser at figuren *nesten* er et parallellogram med høyde lik sirkelens
@@ -3195,9 +3159,9 @@ oppå det forrige. Resultatet er en figur som minner veldig om en
 trekant. Igjen skjønner vi at dess smalere lag, dess mer lik en trekant
 blir figuren. Med uendelig tynne striper, glattes trappetrinnene ut.
 
-![](./media/media/image97.png){width="1.56959208223972in"
+![](Files/media/image97.png){width="1.56959208223972in"
 height="1.5748031496062993in"}
-![](./media/media/image98.png){width="4.091189851268592in"
+![](Files/media/image98.png){width="4.091189851268592in"
 height="0.7874015748031497in"}
 
 Sirkelens areal, $A$, er altså det samme som arealet av en trekant med
@@ -3213,7 +3177,7 @@ For å måle volumer bruker vi ikke overaskende en terning -- en kube --
 der alle sider er $1$ som enhet. Volumet av en eller annen figur, er
 altså antallet volumenheter den rommer.
 
-![](./media/media/image99.png){width="3.8516557305336834in"
+![](Files/media/image99.png){width="3.8516557305336834in"
 height="1.5905511811023623in"}
 
 Vi skal i det videre lene oss på det som kalles *Cavalieris prinsipp,*
@@ -3225,7 +3189,7 @@ samme høyde i den vaklende stabelen til høyre, må prismet og figuren til
 høyre ha samme volum. Tenk eventuelt på en stabel med mynter, eller en
 kortstokk.
 
-![](./media/media/image100.png){width="3.138228346456693in"
+![](Files/media/image100.png){width="3.138228346456693in"
 height="1.1811023622047243in"}
 
 Det ovenstående kan vi uttrykke litt mer generelt: La to, ikke
@@ -3243,7 +3207,7 @@ Som for rektanglets areal, er volumet av et rett prisme nokså intuitivt
 etasjer i eska, altså eskas høyde. Eskas volum er altså
 $3 \cdot 2 \cdot 4$ volumenheter.
 
-![](./media/media/image101.png){width="3.543307086614173in"
+![](Files/media/image101.png){width="3.543307086614173in"
 height="1.8733530183727034in"}
 
 Volumet, $V$, av et rett prisme med grunnflate $ab$ og høyde $h$ er
@@ -3260,7 +3224,7 @@ det rette og det skjeve prismet. Konklusjonen er at et skjevt prisme med
 likt grunnflateareal og høyde som et rett prisme også har samme volum
 som det.
 
-![](./media/media/image102.png){width="3.8614599737532807in"
+![](Files/media/image102.png){width="3.8614599737532807in"
 height="1.8503937007874016in"}
 
 **Prismer med andre grunnflater**
@@ -3270,7 +3234,7 @@ Ethvert prismes volum er produktet av grunnflaten og høyden. Logikken er
 den samme: Vi finner grunnflatens areal og multipliserer med antall
 etasjer -- figurens høyde. Her er et par andre prismer.
 
-![](./media/media/image103.png){width="2.952755905511811in"
+![](Files/media/image103.png){width="2.952755905511811in"
 height="1.9983956692913385in"}
 
 ### 17.2.4 Volumet av en pyramide
@@ -3284,8 +3248,7 @@ terningens seks sider, uten overlapp. De vil ligge pent inntil
 hverandre. (Du får tegne selv om du ikke ser det for deg; vår ble bare
 noe rot.)
 
-![A white paper triangle with a dotted line Description automatically
-generated](./media/media/image104.png){width="2.3622047244094486in"
+![](Files/media/image104.png){width="2.3622047244094486in"
 height="2.3473162729658794in"}
 
 Dette betyr at volumet av én slik pyramide er en seksdel av terningens,
@@ -3298,7 +3261,7 @@ og høyde $h$ er $\frac{1}{3}Gh$.
 
 Hva om pyramiden ikke er rett, slik som i figuren under?
 
-![](./media/media/image105.png){width="2.3622047244094486in"
+![](Files/media/image105.png){width="2.3622047244094486in"
 height="1.4865977690288714in"}
 
 Da hjelper Cavalieri oss igjen. Pyramidene har like tverrsnittarealer
@@ -3306,7 +3269,7 @@ ved korresponderende høyder. Dermed har de også samme volum. Alle
 pyramider med kvadratisk grunnflate er altså en tredel av eska med samme
 grunnflate og høyde.
 
-![](./media/media/image106.png){width="4.9788877952755906in"
+![](Files/media/image106.png){width="4.9788877952755906in"
 height="1.4881889763779528in"}
 
 Dermed er volumet $V$ av enhver kvadratisk pyramide med grunnflate $G$
@@ -3320,8 +3283,7 @@ lik en tredel av grunnflaten ganger høyden, må vi introdusere en ny idé:
 retning. Tenk på det som skalering, om du vil. Vi skal merke oss to
 egenskaper ved streking.
 
-![A white triangle with a black background Description automatically
-generated](./media/media/image107.png){width="2.7555555555555555in"
+![](Files/media/image107.png){width="2.7555555555555555in"
 height="1.867668416447944in"}
 
 [Egenskap 1:]{.underline} Ved å strekke pyramide med kvadratisk
@@ -3335,7 +3297,7 @@ Eska under er strukket med faktoren $1,5$: Hele eska er én og en halv
 ganger lengre enn den opprinnelige, heltrukne eska. Vi forstår intuitivt
 at også volumet av eska er én og en halv ganger større.
 
-![](./media/media/image108.png){width="2.7559055118110236in"
+![](Files/media/image108.png){width="2.7559055118110236in"
 height="1.139161198600175in"}
 
 Disse to egenskapene betyr at om vi strekker en kvadratisk pyramide, kan
@@ -3343,7 +3305,7 @@ vi få en hvilken som helst rektangulær pyramide. Volumet av den nye
 pyramiden vil fortsatt være en tredel av eska den deler grunnflate og
 høyde med (og som ble strukket sammen med pyramiden).
 
-![](./media/media/image109.png){width="5.926853674540682in"
+![](Files/media/image109.png){width="5.926853674540682in"
 height="1.4881889763779528in"}
 
 Dermed kan vi slå fast at *alle* pyramider med rektangulær grunnflate
@@ -3365,17 +3327,13 @@ Under ser du illustrasjoner til fire situasjoner:
 
 4.  En kodelås med ti siffer på hver av de fire posisjonene.
 
-![A black and white image of a spider Description automatically
-generated](./media/media/image110.png){width="2.952755905511811in"
+![](Files/media/image110.png){width="2.952755905511811in"
 height="1.178568460192476in"}
-![](./media/media/image111.png){width="2.952755905511811in"
+![](Files/media/image111.png){width="2.952755905511811in"
 height="1.3763396762904636in"}
 
-![A black hat with a red band and white text Description automatically
-generated](./media/media/image112.png){width="3.543307086614173in"
-height="1.7606955380577427in"} ![A number pad with numbers on it
-Description automatically
-generated](./media/media/image113.png){width="2.1653543307086616in"
+![](Files/media/image112.png){width="3.543307086614173in"
+height="1.7606955380577427in"} ![](Files/media/image113.png){width="2.1653543307086616in"
 height="1.4434689413823272in"}
 
 Situasjonene er matematisk sett *like.* I hvert tilfelle skal vi gjøre
@@ -3410,7 +3368,7 @@ trinn. Det er dette som kalles **multiplikasjonsprinsippet** (Alfa
 kaller det *produktregelen*). Figuren kalles et **valgtre**,
 **utfallstre** eller **trediagram**.
 
-![](./media/media/image114.png){width="3.543307086614173in"
+![](Files/media/image114.png){width="3.543307086614173in"
 height="3.932076771653543in"}
 
 Nå innser vi kjapt at det er $5 \cdot 3$ veier fra $A$ til $C$ via $B$;
@@ -3481,9 +3439,7 @@ Uansett får vi *et sammensatt valg i fem trinn* med henholdsvis $5$,
 $4$, $3$, $2$ og $1$ muligheter i hvert -- totalt
 $5 \cdot 4 \cdot 3 \cdot 2 \cdot 1$ mulige sorteringer.
 
-![A black background with a black square Description automatically
-generated with medium
-confidence](./media/media/image115.png){width="2.7559055118110236in"
+![](Files/media/image115.png){width="2.7559055118110236in"
 height="1.1901356080489938in"}
 
 Produkter av naturlige tall fra $1$ og oppover (eventuelt fra $n$ og ned
@@ -3501,8 +3457,7 @@ egenskapene grønn og blå. Situasjonen er identisk med den i innledninga
 to var gutter. Trikset er nå, som da, å finne ut hvor mange ordna
 sorteringer hver uordna sortering inneholder.
 
-![A group of circles with numbers Description automatically
-generated](./media/media/image116.png){width="2.7559055118110236in"
+![](Files/media/image116.png){width="2.7559055118110236in"
 height="0.4538167104111986in"}
 
 Vi tenker på kulene som merka: grønn $1,\ 2,\ 3$ og blå $1,\ 2$ (se
@@ -3511,11 +3466,8 @@ inneholder da tolv ordna rekkefølger: Det er $3!$ måter å stokke om de
 grønne. For hver av disse, er det $2!$ måter å stokke om på de blå.
 Totalt altså $3! \cdot 2! = 12$.
 
-![A group of circles with numbers Description automatically
-generated](./media/media/image117.png){width="2.7559055118110236in"
-height="2.2512281277340334in"} ![A chart of numbers and circles
-Description automatically generated with medium
-confidence](./media/media/image118.png){width="2.7559055118110236in"
+![](Files/media/image117.png){width="2.7559055118110236in"
+height="2.2512281277340334in"} ![](Files/media/image118.png){width="2.7559055118110236in"
 height="2.2402569991251093in"}
 
 De fem kulene kan stilles i totalt $5!$ ordna rekkefølger, som altså kan
@@ -3531,8 +3483,7 @@ Har vi uordna sorteringer av objekter med *flere enn to* egenskaper --
 kuler i flere farger -- kan vi tenke på samme måte. Under ser du ti
 kuler, der tre er grønne, fem er blå og to er gule.
 
-![A group of circles on a black background Description automatically
-generated](./media/media/image119.png){width="3.540343394575678in"
+![](Files/media/image119.png){width="3.540343394575678in"
 height="0.39255905511811023in"}
 
 Ti kuler gir totalt $10!$ ordna sorteringer. Hver *uordna* sortering
@@ -3562,9 +3513,7 @@ aktivitet. Se for deg en hatt med syv merka lapper oppi.
 *På hvor mange måter kan vi trekke tre lapper fra en hatt som inneholder
 syv?*
 
-![A cartoon of a hat and a circle with white arrows Description
-automatically
-generated](./media/media/image120.png){width="3.543307086614173in"
+![](Files/media/image120.png){width="3.543307086614173in"
 height="1.539808617672791in"}
 
 Svaret avhenger av hvilke kriterier som gjelder for trekningen. Teller
@@ -3686,8 +3635,7 @@ Vi plasserer de tre røde først ved å trekke plassnummer ved hjelp av
 lappene i hatten. Trekker vi for eksempel 3, 6 og 7, skal de røde
 plasseres på plass nummer 3, 6 og 7.
 
-![A screenshot of a video game Description automatically
-generated](./media/media/image121.png){width="4.724409448818897in"
+![](Files/media/image121.png){width="4.724409448818897in"
 height="1.8449081364829396in"}
 
 Ved første trekning, er det syv ledige plasser. For hver av disse er det
@@ -3707,14 +3655,14 @@ ikke. (Hvorfor blir det feil?)
 Vi lager oss et skjema, noterer noen mulige utfall, og ser om vi
 oppdager et mønster. Figuren viser tre utfall: $BBD$, $GGG$ og $ABE$.
 
-![](./media/media/image122.png){width="3.543307086614173in"
+![](Files/media/image122.png){width="3.543307086614173in"
 height="1.5482753718285214in"}
 
 Vi innser nå at å finne antallet mulige utfall, svarer til spørsmålet om
 *hvor mange måter vi kan plassere tre ringer innimellom de seks
 tabellskilleveggene.*
 
-![](./media/media/image123.png){width="2.5196850393700787in"
+![](Files/media/image123.png){width="2.5196850393700787in"
 height="0.3219838145231846in"}
 
 Dette problemet har vi jo nettopp løst! Svaret er *på like mange måter
@@ -3753,9 +3701,7 @@ hjemme i *begge* disse delmengdene. Vi kan gå frem slik:
 
 -   Dermed er det $6 + 4 - 2 = 8$ tall i 2- eller 3-gangen.
 
-![A group of white rectangles with numbers on a black background
-Description automatically
-generated](./media/media/image124.png){width="3.543307086614173in"
+![](Files/media/image124.png){width="3.543307086614173in"
 height="2.5899529746281713in"}
 
 Eksemplet illustrerer *addisjonssetningen.* Når vi teller antallet
@@ -3791,7 +3737,7 @@ Tilsvarende om vi var interessert i å telle for eksempel partallene:
 Antallet svarer til *alle* minus de som *ikke* er partall -- se figuren
 under.
 
-![](./media/media/image125.png){width="3.543307086614173in"
+![](Files/media/image125.png){width="3.543307086614173in"
 height="2.589955161854768in"}
 
 Eksemplene illustrerer *komplementsetningen.* Antallet elementer i en
@@ -3844,7 +3790,7 @@ Antallet trekninger som inneholder 1 eller 7 er dermed
 
 $$\frac{7 \cdot 6 \cdot 5}{3!} - \frac{5 \cdot 4 \cdot 3}{3!} = 7 \cdot 5 - 5 \cdot 2 = 25.$$
 
-![](./media/media/image126.png){width="5.753917322834646in"
+![](Files/media/image126.png){width="5.753917322834646in"
 height="3.465814741907262in"}
 
 # 19 Sannsynlighet
@@ -3856,7 +3802,7 @@ som illustrerer opphavet til sannsynlighet, nemlig spill. Vi skal følge
 i samme spor, og undersøke enkle spillsituasjoner for å bygge opp det vi
 trenger av sannsynlighetsteori.
 
-![Page 10](./media/media/image128.svgz){width="3.543307086614173in"
+![Page 10](Files/media/image128.svgz){width="3.543307086614173in"
 height="2.794721128608924in"}
 
 Selv om sannsynlighet ofte anses å være ganske krevende kan vi betrygge
@@ -3898,7 +3844,7 @@ vinner (på stillingen 5--2), eller så får André kron (og stillingen blir
 4--3). Begge muligheter er like sannsynlige (50 % sjanse for hver),
 illustrert i figuren under.
 
-![](./media/media/image130.svg){width="3.1496062992125986in"
+![](Files/media/image130.svg){width="3.1496062992125986in"
 height="1.5904254155730533in"}
 
 Dersom André får kron, spiller de videre. Da får vi to nye tilfeller som
@@ -3907,7 +3853,7 @@ i to nye like deler, to firedeler. Den ene delen der Henrik får mynt og
 vinner (på stillingen 5--3), og den andre delen der André får mynt (som
 gir stillingen 4--4).
 
-![](./media/media/image132.svg){width="3.1496062992125986in"
+![](Files/media/image132.svg){width="3.1496062992125986in"
 height="1.5904265091863516in"}
 
 Vi ser nå at vi kan fortsette denne logikken og fullføre tegningen vår.
@@ -3917,7 +3863,7 @@ Med grunnleggende brøkkunnskaper ser vi at rektangelet under kan deles i
 åttedeler av potten, altså $\frac{7}{8} \cdot 600 = 525$ kroner, og
 André må nøye seg med de resterende $75$.
 
-![](./media/media/image134.svg){width="3.1496062992125986in"
+![](Files/media/image134.svg){width="3.1496062992125986in"
 height="1.5938976377952756in"}
 
 Modellen over kan vi kalle for *arealmodellen*. Rektangelet inneholder
@@ -3977,7 +3923,7 @@ oppfyller følgende egenskaper:
 *Med et geometrisk bilde:*
 
 *\
-*![](./media/media/image136.svg){width="2.709326334208224in"
+*![](Files/media/image136.svg){width="2.709326334208224in"
 height="1.4986111111111111in"}
 
 2.  Sannsynligheten for en hendelse, $A$, er alltid et tall mellom 0 og
@@ -3987,7 +3933,7 @@ height="1.4986111111111111in"}
 
 *Med et geometrisk bilde:*
 
-![](./media/media/image138.svg){width="2.822185039370079in"
+![](Files/media/image138.svg){width="2.822185039370079in"
 height="1.5610367454068241in"}\
 \
 *Arealet av hendelsen* $A$ *er alltid positivt og begrenset av arealet
@@ -4004,7 +3950,7 @@ $P\left( B_{1} \cup B_{2} \cup \ldots \cup B_{n} \right) = P\left( B_{1} \right)
 *Med et geometrisk bilde*
 
 *\
-*![](./media/media/image140.svg){width="2.997478127734033in"
+*![](Files/media/image140.svg){width="2.997478127734033in"
 height="1.657995406824147in"}
 
 *Arealet av flere områder som ikke overlapper, er summen av arealene til
@@ -4023,7 +3969,7 @@ geometriske briller sier setningen at dersom vi ønsker å se på arealet
 av to områder, altså hendelser, ($A \cup B$), kan vi ta arealet av hvert
 av områdene og fjerne området som overtelles ($A \cap B$).
 
-![](./media/media/image142.svg){width="2.600491032370954in"
+![](Files/media/image142.svg){width="2.600491032370954in"
 height="2.3333333333333335in"}
 
 Tilsvarende får vi opplagt samme konklusjon med *komplementsetningen*.
@@ -4044,7 +3990,7 @@ Spillet fra innledningen, førstemann til 5 poeng, er det samme som best
 av 9 (tenk gjennom hvorfor). Dersom Henrik og André hadde spilt ut alle
 9 rundene, kunne et utfallstre fra stillingen 4--2 sett slik ut:
 
-![](./media/media/image144.svg){width="3.8555555555555556in"
+![](Files/media/image144.svg){width="3.8555555555555556in"
 height="1.6460061242344708in"}
 
 Med kombinatoriske briller, ser vi at utfallstreet viser resultatene i
@@ -4090,7 +4036,7 @@ er mest sannsynlig.
 Vi kan lage et utfallstre og telle manuelt, men som vi ser under, blir
 dette fort uoversiktlig.
 
-![](./media/media/image146.svg){width="4.716666666666667in"
+![](Files/media/image146.svg){width="4.716666666666667in"
 height="2.657804024496938in"}
 
 La oss være litt lure. Hvert kast gir to mulige utfall, og vi kan få de
@@ -4140,7 +4086,7 @@ $\frac{6}{10}$ (kron på første kast), og én som fyller $\frac{4}{10}$
 inndeling av utfallsrommet. Figurene under viser hvordan vi kan splitte
 opp de tre første kastene og regne ut arealene.
 
-![](./media/media/image148.svg){width="6.3in"
+![](Files/media/image148.svg){width="6.3in"
 height="1.5756944444444445in"}
 
 Skal vi nå undersøke sannsynligheten for å få nøyaktig tre kron, må vi
