@@ -1,3 +1,3 @@
 ---
-title: Likninger, ulikheter og algebraiske uttrykk
+title: Likninger, ulikheter
 ---

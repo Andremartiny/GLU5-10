@@ -57,6 +57,10 @@ Siden er ikke fullstendig. Under finnes en liste over ting som er planlagt. Ser 
         - [ ] Gå over alle bildene
         - [ ] Gå over formatering
     - [ ] Legge inn heftet i likninger, ulikheter og algebraiske uttrykk
+        - [x] Legge inn grovversjon
+        - [ ] Gå over alle bildene
+            - Eksempel på bilde som må fikses [[Likninger og ulikheter/14.3 Løsning ved hjelp av andre kvadratsetning|løsning ved hjelp av andre kvadratsetning]]
+        - [ ] Gå over formatering
     - [ ] Legge inn heftet i tall
     - [ ] Legge inn heftet i funksjoner
     - [ ] Legge inn relevante didaktiske ressurser som øvingsoppgaver og lignende
