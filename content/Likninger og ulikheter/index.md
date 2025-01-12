@@ -1,3 +1,3 @@
 ---
-title: Likninger, ulikheter
+title: Likninger og ulikheter
 ---
