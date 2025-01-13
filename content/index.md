@@ -59,13 +59,13 @@ Hvis du ønsker å se din personlige oversikt kan du få nøkkel fra André og s
 > 
 > Siden er ikke fullstendig. Under finnes en liste over ting som er planlagt. Ser du noe som burde vært på lista, si fra.
 > 
-> > [!abstract]- Læringsmål, øveoppgaver og løsningsforslag
+> > [!abstract]+ Læringsmål, øveoppgaver og løsningsforslag
 > >  - [x] Legge til læringsmål i alle tema
 > >  - [x] Legge til øveoppgaver i alle tema
 > >  - [ ] Legge til løsningsforslag til alle oppgaver
 > >      - [x] Legge inn alle løsningsforslag som finnes i Canvas
 > 
-> > [!abstract]- Litteratur
+> > [!abstract]+ Litteratur
 > > - [ ] Legge inn heftet i geometri 
 > >     - [x] Legge inn grovversjon
 > >     - [ ] Gå over alle bildene
@@ -85,13 +85,13 @@ Hvis du ønsker å se din personlige oversikt kan du få nøkkel fra André og s
 > > - [ ] Legge inn heftet i funksjoner
 > > - [ ] Legge inn relevante didaktiske ressurser som øvingsoppgaver og lignende
 > 
-> > [!abstract]- Funksjonalitet
+> > [!abstract]+ Funksjonalitet
 > >  - [x] Lage mulighet for å se personlig fremgang i kurset
 > >      - Nøkkel 47588 for å se eksempel
 > >  - [ ] Side der man kan lage egne `null-risk-tester` ved å tilfeldig trekke ut oppgaver basert på selvvalgte læringsmål og nivå.
 >   
 > 
-> > [!abstract]-  Annet
+> > [!abstract]+  Annet
 > >  - [ ] Undersøke mulighet for mer funksjonalitet/interaktivitet
 > >      - [ ] Interaktivitet komponenter i deler av heftet?
 > >          - [x] Eksempel: [[Geometri/1.6 Arealet av en sirkel|Arealet av en sirkel]]
