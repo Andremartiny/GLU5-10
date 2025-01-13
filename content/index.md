@@ -3,11 +3,30 @@ title: MA-173
 ---
 
 
-Her kan du finne litteratur, oppgaver og løsningsforslag fra MA-173. 
+Her kan du finne litteratur, oppgaver og løsningsforslag fra MA-173. Leter du etter noe spesielt kan du søke ved å trykke `ctrl+k` eller lete i utforskeren til venstre.
 
-Dette er et forsøk på å gjøre MA-173 oversiktlig og enkelt å navigere. Det er veldig mye som fortsatt mangler. Hvis det er noe du savner kan du si fra så skal vi prøve å ordne det så fort vi kan.
 
-Akkurat nå er denne siden i forsøksstadiet. Hvis du mener at siden er nyttig, så trenger vi din hjelp for at dette skal bli bra. Vi trenger spesielt hjelp til å finne alt som ikke fungerer eller som er feil. Skulle det mangle noe innhold, som for eksempel løsningsforslag kan du også sende inn forslag
+
+
+> [!warning]- Merk 
+> Dette er et forsøk på å gjøre MA-173 oversiktlig og enkelt å navigere. Det er veldig mye som fortsatt mangler. 
+> 
+> Akkurat nå er denne siden i forsøksstadiet. Hvis du mener at siden er nyttig, så trenger vi din hjelp for at dette skal bli bra. Vi trenger spesielt hjelp til å finne alt som ikke fungerer eller som er feil. Skulle det mangle noe innhold, som for eksempel løsningsforslag kan du også sende inn forslag.
+> 
+> 
+> 
+> Ser du for eksempel utregninger som ser slik ut
+> $$
+> x^{2} + 2 \cdot \frac{7}{6}x + \left( \frac{7}{6} \right)^{2}  = - \frac{4}{3} + \left( \frac{7}{6} \right)^{2}\left( x + \frac{7}{6} \right)^{2}  = - \frac{4}{3} + \frac{49}{36}\left( x + \frac{7}{6} \right)^{2} = - \frac{48}{36} + \frac{49}{36}  = \frac{1}{36}x + \frac{7}{6}  = \pm \sqrt{\frac{1}{36}} = \pm \frac{1}{6}
+> $$
+> har de nok ikke riktig formattering. For eksempel mangler utregningen over linjeskift.
+> 
+> Ser du bilder som ser slik ut 
+> ![[Files/1.3 Arealet av et parallellogram firgur1.png]]
+> er de nok heller ikke oppdatert.
+> 
+> Vi er klar over de fleste av disse, og skal rette opp i det så fort vi kan. Vi trenger fortsatt din hjelp for å finne og rette opp i alt. Derfor er det viktig at du sier fra til André, for eksempel ved å sende en melding eller si fra i undervisning.
+
 
 
 
@@ -36,41 +55,49 @@ Hvis du ønsker å se din personlige oversikt kan du få nøkkel fra André og s
 
 
 
-### TODO
+> [!warning]- TODO 
+> 
+> Siden er ikke fullstendig. Under finnes en liste over ting som er planlagt. Ser du noe som burde vært på lista, si fra.
+> 
+> > [!abstract]- Læringsmål, øveoppgaver og løsningsforslag
+> >  - [x] Legge til læringsmål i alle tema
+> >  - [x] Legge til øveoppgaver i alle tema
+> >  - [ ] Legge til løsningsforslag til alle oppgaver
+> >      - [x] Legge inn alle løsningsforslag som finnes i Canvas
+> 
+> > [!abstract]- Litteratur
+> > - [ ] Legge inn heftet i geometri 
+> >     - [x] Legge inn grovversjon
+> >     - [ ] Gå over alle bildene
+> >         - Eksempel på bilde som må fikses [[Geometri/1.3 Arealet av et parallellogram|arealet av et parallellogram]]
+> >     - [ ] Gå over formatering
+> > - [ ] Legge inn heftet i sannsynlighet og kombinatorikk
+> >     - [x] Legge inn grovversjon av kombinatorikk
+> >     - [ ] Legge inn grovversjon av sannsynlighet
+> >     - [ ] Gå over alle bildene
+> >     - [ ] Gå over formatering
+> > - [ ] Legge inn heftet i likninger, ulikheter og algebraiske uttrykk
+> >     - [x] Legge inn grovversjon
+> >     - [ ] Gå over alle bildene
+> >         - Eksempel på bilde som må fikses [[Likninger og ulikheter/14.3 Løsning ved hjelp av andre kvadratsetning|løsning ved hjelp av andre kvadratsetning]]
+> >     - [ ] Gå over formatering
+> > - [ ] Legge inn heftet i tall
+> > - [ ] Legge inn heftet i funksjoner
+> > - [ ] Legge inn relevante didaktiske ressurser som øvingsoppgaver og lignende
+> 
+> > [!abstract]- Funksjonalitet
+> >  - [x] Lage mulighet for å se personlig fremgang i kurset
+> >      - Nøkkel 47588 for å se eksempel
+> >  - [ ] Side der man kan lage egne `null-risk-tester` ved å tilfeldig trekke ut oppgaver basert på selvvalgte læringsmål og nivå.
+>   
+> 
+> > [!abstract]-  Annet
+> >  - [ ] Undersøke mulighet for mer funksjonalitet/interaktivitet
+> >      - [ ] Interaktivitet komponenter i deler av heftet?
+> >          - [x] Eksempel: [[Geometri/1.6 Arealet av en sirkel|Arealet av en sirkel]]
+> >          - [ ] Eksempel:[[Files/Prisme.html|Prisme]]
+> >      - [ ] Interaktivitet i oppgavene?
 
-Siden er ikke fullstendig. Under finnes en liste over ting som er planlagt. Ser du noe som burde vært på lista, si fra.
 
-- [ ] Læringsmål, øveoppgaver og løsningsforslag
-    - [x] Legge til læringsmål i alle tema
-    - [x] Legge til øveoppgaver i alle tema
-    - [ ] Legge til løsningsforslag til alle oppgaver
-        - [x] Legge inn alle løsningsforslag som finnes i Canvas
-- [ ] Litteratur
-    - [ ] Legge inn heftet i geometri 
-        - [x] Legge inn grovversjon
-        - [ ] Gå over alle bildene
-            - Eksempel på bilde som må fikses [[Geometri/1.3 Arealet av et parallellogram|arealet av et parallellogram]]
-        - [ ] Gå over formatering
-    - [ ] Legge inn heftet i sannsynlighet og kombinatorikk
-        - [x] Legge inn grovversjon av kombinatorikk
-        - [ ] Legge inn grovversjon av sannsynlighet
-        - [ ] Gå over alle bildene
-        - [ ] Gå over formatering
-    - [ ] Legge inn heftet i likninger, ulikheter og algebraiske uttrykk
-        - [x] Legge inn grovversjon
-        - [ ] Gå over alle bildene
-            - Eksempel på bilde som må fikses [[Likninger og ulikheter/14.3 Løsning ved hjelp av andre kvadratsetning|løsning ved hjelp av andre kvadratsetning]]
-        - [ ] Gå over formatering
-    - [ ] Legge inn heftet i tall
-    - [ ] Legge inn heftet i funksjoner
-    - [ ] Legge inn relevante didaktiske ressurser som øvingsoppgaver og lignende
-- [ ] Funksjonalitet
-    - [x] Lage mulighet for å se personlig fremgang i kurset
-        - Nøkkel 47588 for å se eksempel
-    - [ ] Side der man kan lage egne `null-risk-tester` ved å tilfeldig trekke ut oppgaver basert på selvvalgte læringsmål og nivå.
-- [ ] Annet
-    - [ ] Undersøke mulighet for mer funksjonalitet/interaktivitet
-        - [ ] Interaktivitet komponenter i deler av heftet?
-            - [x] Eksempel: [[Geometri/1.6 Arealet av en sirkel|Arealet av en sirkel]]
-            - [ ] Eksempel:[[Files/Prisme.html|Prisme]]
-        - [ ] Interaktivitet i oppgavene?
+
+
