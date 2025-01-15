@@ -1,3 +1,3 @@
 ---
-title: 📁Læringsmål
+title: Læringsmål
 ---

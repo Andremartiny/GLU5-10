@@ -194,11 +194,11 @@ Besvarelsen må peke på hvordan posisjonssystemet er bygd opp ved å bruke de g
 3. $143_{seks}$ Det må gå frem hvordan omgjøringen er gjort. Feks slik:
 
 $$
-\begin{aligned} 333_{fire}  &= 3 \cdot 4^2 + 3 \cdot 4+3
+\begin{align*} 333_{fire}  &= 3 \cdot 4^2 + 3 \cdot 4+3
 \\  &= 6\cdot 8 + 2 \cdot 6 + 3
 \\ &= (6+4)\cdot 6+3
 \\ &= 6^2 + 4 \cdot 6 + 3
-\\ &= 143_{seks} \end{aligned}
+\\ &= 143_{seks} \end{align*}
 $$
 
 #### Oppgave 2
@@ -282,7 +282,7 @@ $$
     b. ${153}_{b} = 69_{ti}$. Gir likninga
 
 $$
-\begin{aligned}
+\begin{align*}
 b^{2} + 5b + 3
 & = 69
 \\
@@ -294,14 +294,14 @@ b^{2} + 2 \cdot \frac{5}{2}b + \left( \frac{5}{2} \right)^{2}
 \\
 b
 & = \frac{17 - 5}{2}
-\end{aligned}
+\end{align*}
 $$
 
 Basen er seks.
     c. $313_{b} = 55_{ti}$
 
 $$
-\begin{aligned}
+\begin{align*}
 3b^{2} + b + 3
 &  = 55
 \\
@@ -316,7 +316,7 @@ b^{2} + 2 \cdot \frac{1}{6}b + \left( \frac{1}{6} \right)^{2}
 \\
 b
 & = 4
-\end{aligned}
+\end{align*}
 $$
 
 1. Forklar hvordan man enkelt kan finne basen $b$ til tall på formen
@@ -549,8 +549,8 @@ Besvarelsene må begrunne delelighetsregler for 5 og 3 generelt ved å skrive et
 #### Løsningsforslag
 
 1. Besvarelsen må bruke Gauss-trikset for å finne at summen er 45. Det bør se ut som noe slikt. Vi legger summen sammen to ganger, ved å skrive den forlengs og baklengs: $$
-\begin{align}   \phantom{+} & 1\phantom{0} + 2\phantom{0} +3\phantom{0} +4\phantom{0} 5\phantom{0} +6\phantom{0} +7\phantom{0} +8\phantom{0} +9\phantom{0} \\ + & 9\phantom{0}+8\phantom{0}+7\phantom{0}+6\phantom{0}+5\phantom{0}+4\phantom{0}+3\phantom{0}+2\phantom{0}+1\phantom{0} \\ =&10+10+10+10+10+10+10+10+10 \\ = & 9\cdot10.\end{align} $$Da får vi 10 ni ganger. Siden dette er summen lagt sammen to ganger må summen fra 1 til 9 være $\frac{90}{2}=45$.
-2. Vi ser på $5+6+\ldots + 15+16$. Bruker vi Gauss-trikset får vi $$\begin{align}   \phantom{+} & 5\phantom{0} + 6\phantom{0} +\ldots +15 +16 \\ + & 16+15+\ldots +6\phantom{0}+5\phantom{0} \\ =& 21+21+ \ldots + 21+21 \\ = & 21\cdot12 = 210+42 = 252.\end{align}$$
+\begin{align*}   \phantom{+} & 1\phantom{0} + 2\phantom{0} +3\phantom{0} +4\phantom{0} 5\phantom{0} +6\phantom{0} +7\phantom{0} +8\phantom{0} +9\phantom{0} \\ + & 9\phantom{0}+8\phantom{0}+7\phantom{0}+6\phantom{0}+5\phantom{0}+4\phantom{0}+3\phantom{0}+2\phantom{0}+1\phantom{0} \\ =&10+10+10+10+10+10+10+10+10 \\ = & 9\cdot10.\end{align*} $$Da får vi 10 ni ganger. Siden dette er summen lagt sammen to ganger må summen fra 1 til 9 være $\frac{90}{2}=45$.
+2. Vi ser på $5+6+\ldots + 15+16$. Bruker vi Gauss-trikset får vi $$\begin{align*}   \phantom{+} & 5\phantom{0} + 6\phantom{0} +\ldots +15 +16 \\ + & 16+15+\ldots +6\phantom{0}+5\phantom{0} \\ =& 21+21+ \ldots + 21+21 \\ = & 21\cdot12 = 210+42 = 252.\end{align*}$$
 
 #### Oppgave 1
 
@@ -561,9 +561,9 @@ Avgjør summen av de $9$ første naturlige tallene, det vil si trekanttall numme
 Besvarelsen må bruke Gauss-trikset for å finne at summen er 45. Det bør se ut som noe slikt
 Vi legger summen sammen to ganger, ved å skrive den forlengs og baklengs:
 $$
-\begin{align}
+\begin{align*}
   \phantom{+} & 1\phantom{0} + 2\phantom{0} +3\phantom{0} +4\phantom{0} +5\phantom{0} +6\phantom{0} +7\phantom{0} +8\phantom{0} +9\phantom{0} \\ + & 9\phantom{0}+8\phantom{0}+7\phantom{0}+6\phantom{0}+5\phantom{0}+4\phantom{0}+3\phantom{0}+2\phantom{0}+1\phantom{0} \\ =&10+10+10+10+10+10+10+10+10 \\ = & 9\cdot10.
-\end{align}
+\end{align*}
 $$
 Da får vi 10 ni ganger. Siden dette er summen lagt sammen to ganger må summen fra 1 til 9 være $\frac{90}{2}=45$.
 
@@ -576,9 +576,9 @@ Avgjør summen av de $10$ første partallene, det vil si rektangeltall nummer  
 Besvarelsen må bruke Gauss-trikset for å finne at summen er 110. Det bør se ut som noe slikt
 Vi legger summen sammen to ganger, ved å skrive den forlengs og baklengs:
 $$
-\begin{align}
+\begin{align*}
   \phantom{+} & 2\phantom{0} + 4\phantom{0} +6\phantom{0} +\ldots +16 +18 + 20 \\ + & 20+18+16+\ldots+6\phantom{0}+4\phantom{0}+2\phantom{0} \\ =&22+22+22+\ldots+22+22+22 \\ = & 22\cdot10 = 220.
-\end{align}
+\end{align*}
 $$
 Da får vi 22 ti ganger. Siden dette er summen lagt sammen to ganger må summen være $110$.
 
@@ -591,11 +591,11 @@ Avgjør summen av de $5$ første oddetallene, det vil si kvadrattall nummer  $5
 Besvarelsen må bruke Gauss-trikset for å finne at summen er 25. Det bør se ut som noe slikt
 Vi legger summen sammen to ganger, ved å skrive den forlengs og baklengs:
 $$
-\begin{align}
+\begin{align*}
   \phantom{+}1+3+5+7+9 \\
   +9+7+5+3+1 \\
   = 10+10+10+10+10 = 5 \cdot 10 = 50.
-\end{align}
+\end{align*}
 $$
 Siden dette er summen lagt sammen to ganger må summen være $25$.
 
@@ -608,9 +608,9 @@ Avgjør summen av de $12$ første partallene, det vil si rektangeltall nummer  
 Besvarelsen må bruke Gauss-trikset for å finne at summen er 110. Det bør se ut som noe slikt
 Vi legger summen sammen to ganger, ved å skrive den forlengs og baklengs:
 $$
-\begin{align}
+\begin{align*}
   \phantom{+} & 2\phantom{0} + 4\phantom{0} +6\phantom{0} +\ldots   + 20 +22+24\\ + & 24+22+20 +\ldots+6\phantom{0}+4\phantom{0}+2\phantom{0} \\ =&26+26+26+\ldots+26+26+26\\ = & 26\cdot12 = 260+52 = 312.
-\end{align}
+\end{align*}
 $$
 Da får vi 26 tolv ganger. Siden dette er summen lagt sammen to ganger må summen være $156$.
 
@@ -673,8 +673,8 @@ Se [følgene i tabellen på wikipedia](https://en.wikipedia.org/wiki/Polygonal_n
 
 #### Løsningsforslag
 
-1. For å bruke Gauss-trikset er vi nødt til å fremheve tilleggene fra figur til figur slik at vi klarer å uttrykke følgen som en figurtall-som-sum-knepet. Gjør dette selv ved å tegne! Se også ![Hentet fra Wikipedia](https://upload.wikimedia.org/wikipedia/commons/b/b5/Pentagonal_number.gif) Vi ser altså at tillegget fra $P_1$ til $P_2$ er $4$, fra $P_2$ til $P_3$ er $7$. Generelt kan vi legge merke til at vi legger til $3$ sider med sidelengde $n$ for å lage $P_n$ fra $P_{n-1}$. Når vi legger til sidene får vi to hjørner som overtelles. Generelt må tillegget derfor være $3n-2$. Vi kan nå skrive figurene våre ved hjelp av tilleggene. $$ \begin{aligned}P_1 & = 1
-\\ P_2 & = 1 + 4 = (3\cdot 1 - 2) + (3\cdot 2 - 2)\\ P_3 & = 1 + 4 + 7 =  (3\cdot 1 - 2) + (3\cdot 2 - 2) = (3\cdot 3 - 2) \\ P_4 & = 1 + 4 + 7+ 11 =(3\cdot 1 - 2) + (3\cdot 2 - 2) = (3\cdot 3 - 2) + (3\cdot 4 - 2) \\ \vdots \\ P_n & = (3\cdot 1-2) + (3\cdot 2 -2) + \ldots +(3\cdot (n-1)-2) + (3\cdot n -2). \end{aligned} $$Nå må vi bare gjøre trikset for å komme oss i mål, altså legge summen forlengs og baklengs til hverandre. Det gir $$\begin{align}   \phantom{+} & \phantom{(}1\phantom{3n{-}2{)}} + \phantom{(}4\phantom{3n{(}n+1{(}222} +\ldots +(3n(n-1)-2) +(3n-2) \\ + & (3n-2)+(3n(n-1)-2)+\ldots +\phantom{(}6\phantom{3n{(}n+1{(}222}+\phantom{(}5\phantom{0} \\ =& \phantom{(}3n-1\phantom{(}+\phantom{(}3n-1\phantom{(-211))}+ \ldots + \phantom{(}3n-1 \phantom{(}\phantom{(}\phantom{(}\phantom{(}\phantom{(}\phantom{(}\phantom{(}\phantom{(}\phantom{(}+\phantom{(} 3n-1 \\ = & (3n-1)\cdot n.\end{align}$$ Dette er to ganger summen av femkanttallene og vi får derfor at uttrykket er $F_n = \displaystyle\frac{(3n-1)n}{2}$.
+1. For å bruke Gauss-trikset er vi nødt til å fremheve tilleggene fra figur til figur slik at vi klarer å uttrykke følgen som en figurtall-som-sum-knepet. Gjør dette selv ved å tegne! Se også ![Hentet fra Wikipedia](https://upload.wikimedia.org/wikipedia/commons/b/b5/Pentagonal_number.gif) Vi ser altså at tillegget fra $P_1$ til $P_2$ er $4$, fra $P_2$ til $P_3$ er $7$. Generelt kan vi legge merke til at vi legger til $3$ sider med sidelengde $n$ for å lage $P_n$ fra $P_{n-1}$. Når vi legger til sidene får vi to hjørner som overtelles. Generelt må tillegget derfor være $3n-2$. Vi kan nå skrive figurene våre ved hjelp av tilleggene. $$ \begin{align*}P_1 & = 1
+\\ P_2 & = 1 + 4 = (3\cdot 1 - 2) + (3\cdot 2 - 2)\\ P_3 & = 1 + 4 + 7 =  (3\cdot 1 - 2) + (3\cdot 2 - 2) = (3\cdot 3 - 2) \\ P_4 & = 1 + 4 + 7+ 11 =(3\cdot 1 - 2) + (3\cdot 2 - 2) = (3\cdot 3 - 2) + (3\cdot 4 - 2) \\ \vdots \\ P_n & = (3\cdot 1-2) + (3\cdot 2 -2) + \ldots +(3\cdot (n-1)-2) + (3\cdot n -2). \end{align*} $$Nå må vi bare gjøre trikset for å komme oss i mål, altså legge summen forlengs og baklengs til hverandre. Det gir $$\begin{align*}   \phantom{+} & \phantom{(}1\phantom{3n{-}2{)}} + \phantom{(}4\phantom{3n{(}n+1{(}222} +\ldots +(3n(n-1)-2) +(3n-2) \\ + & (3n-2)+(3n(n-1)-2)+\ldots +\phantom{(}6\phantom{3n{(}n+1{(}222}+\phantom{(}5\phantom{0} \\ =& \phantom{(}3n-1\phantom{(}+\phantom{(}3n-1\phantom{(-211))}+ \ldots + \phantom{(}3n-1 \phantom{(}\phantom{(}\phantom{(}\phantom{(}\phantom{(}\phantom{(}\phantom{(}\phantom{(}\phantom{(}+\phantom{(} 3n-1 \\ = & (3n-1)\cdot n.\end{align*}$$ Dette er to ganger summen av femkanttallene og vi får derfor at uttrykket er $F_n = \displaystyle\frac{(3n-1)n}{2}$.
 
 #### Oppgave 1
 
@@ -685,8 +685,8 @@ Utled det eksplisitte uttrykket for sekskanttall nummer $n$ ved hjelp av Gauss-t
 Besvarelsen må bruke Gauss-trikset. Det betyr å skrive følgen generelt slik:
 
 1. Finn *formen på tillegget*. Vi ser at leddene i summen øker med 4, så det er en lineær økning mellom hvert ledd med stigning 4. Ser at vi må minke tillegget med 3 for at det skal bli riktig.
-2. Skriv summen $1+5+9+\ldots + 4n-3$ forlengs og baklengs under hverandre. Deretter må besvarelsen typisk gjøre noe slikt $$ \begin{align}
-      \phantom{+} & \phantom{n+3}1 + \phantom{n-3}5 +\phantom{n-33}9 +\ldots+ 4n-7 + 4n-3 \\ + & 4n-3+4n-7+ 4n-11+  \ldots + \phantom{4n}\mathrel{\phantom{-}} 5 +\phantom{4n}\mathrel{\phantom{-}} 1\\ =& (4n-2)\cdot n.\end{align}  $$Vi finner nå den eksplisitte formelen ved å dele på to. Det gir $F_n = \dfrac{(4n-2)n}{2} = (2n-1)n$.
+2. Skriv summen $1+5+9+\ldots + 4n-3$ forlengs og baklengs under hverandre. Deretter må besvarelsen typisk gjøre noe slikt $$ \begin{align*}
+      \phantom{+} & \phantom{n+3}1 + \phantom{n-3}5 +\phantom{n-33}9 +\ldots+ 4n-7 + 4n-3 \\ + & 4n-3+4n-7+ 4n-11+  \ldots + \phantom{4n}\mathrel{\phantom{-}} 5 +\phantom{4n}\mathrel{\phantom{-}} 1\\ =& (4n-2)\cdot n.\end{align*}  $$Vi finner nå den eksplisitte formelen ved å dele på to. Det gir $F_n = \dfrac{(4n-2)n}{2} = (2n-1)n$.
 
 #### Oppgave 2
 
@@ -697,8 +697,8 @@ Utled det eksplisitte uttrykket for femkanttall nummer $n$ ved hjelp av Gauss-tr
 Besvarelsen må bruke Gauss-trikset. Det betyr å skrive følgen generelt slik:
 
 1. Finn *formen på tillegget*. Vi ser at leddene i summen øker med 3, så det er en lineær økning mellom hvert ledd med stigning 3. Ser at vi må minke tillegget med 2 for at det skal bli riktig. Tillegget er altså $3n-2$.
-2. Skriv summen $1+4+7+\ldots + 3n-2$ forlengs og baklengs under hverandre. Deretter må besvarelsen typisk gjøre noe slikt $$ \begin{align}
-      \phantom{+} & \phantom{n+3}1 + \phantom{n-3}4 +\phantom{n-3}7 +\ldots+ 3n-5 + 3n-2 \\ + & 3n-2+3n-5+ 3n-8+  \ldots + \phantom{4n}\mathrel{\phantom{-}} 4 +\phantom{4n}\mathrel{\phantom{-}} 1\\ =& (3n-1)\cdot n.\end{align}  $$Vi finner nå den eksplisitte formelen ved å dele på to. Det gir $F_n = \dfrac{(3n-1)n}{2}$.
+2. Skriv summen $1+4+7+\ldots + 3n-2$ forlengs og baklengs under hverandre. Deretter må besvarelsen typisk gjøre noe slikt $$ \begin{align*}
+      \phantom{+} & \phantom{n+3}1 + \phantom{n-3}4 +\phantom{n-3}7 +\ldots+ 3n-5 + 3n-2 \\ + & 3n-2+3n-5+ 3n-8+  \ldots + \phantom{4n}\mathrel{\phantom{-}} 4 +\phantom{4n}\mathrel{\phantom{-}} 1\\ =& (3n-1)\cdot n.\end{align*}  $$Vi finner nå den eksplisitte formelen ved å dele på to. Det gir $F_n = \dfrac{(3n-1)n}{2}$.
 
 #### Oppgave 3
 
@@ -709,8 +709,8 @@ Utled det eksplisitte uttrykket for syvkanttall nummer $n$ ved hjelp av Gauss-tr
 Besvarelsen må bruke Gauss-trikset. Det betyr å skrive følgen generelt slik:
 
 1. Finn *formen på tillegget*. Vi ser at differansen mellom $1$ og $7$ er $6$, differansen mellom $7$ og $18$ er $11$, differansen mellom $18$ og $34$ er $16$. Tillegget fra forrige ledd til neste øker altså fra $6$ til $11$ til $16$, altså øker tillegget med $5$ hver gang. Det er en lineær økning mellom hvert ledd med stigning $5$. Siden ledd $2$ er $6$, og $5\cdot 2$ er $10$, må tillegget være $5n-4$ for at det skal bli riktig.
-2. Skriv summen $1+6+11+15+\ldots + 5n-4$ forlengs og baklengs under hverandre. Deretter må besvarelsen typisk gjøre noe slikt $$ \begin{align}
-      \phantom{+} & \phantom{((n+3}1 + \phantom{()n-3}6 +\phantom{()n-3}11 +\ldots+ 5n-9 + 5n-4 \\ + & (5n-4)+(5n-9)+ (5n-14)+  \ldots + \phantom{4n}\mathrel{\phantom{-}} 6 +\phantom{4n}\mathrel{\phantom{-}} 1\\ =& \underset{n\text{ ledd}}{\underbrace{(5n-3)+(5n-3)+(5n-3)\phantom{[]}+\ldots+(5n-3)+(5n-3)}}\\=& (5n-3)\cdot n.\end{align}  $$Vi finner nå den eksplisitte formelen ved å dele på to. Det gir $F_n = \dfrac{(5n-3)n}{2}$.
+2. Skriv summen $1+6+11+15+\ldots + 5n-4$ forlengs og baklengs under hverandre. Deretter må besvarelsen typisk gjøre noe slikt $$ \begin{align*}
+      \phantom{+} & \phantom{((n+3}1 + \phantom{()n-3}6 +\phantom{()n-3}11 +\ldots+ 5n-9 + 5n-4 \\ + & (5n-4)+(5n-9)+ (5n-14)+  \ldots + \phantom{4n}\mathrel{\phantom{-}} 6 +\phantom{4n}\mathrel{\phantom{-}} 1\\ =& \underset{n\text{ ledd}}{\underbrace{(5n-3)+(5n-3)+(5n-3)\phantom{[]}+\ldots+(5n-3)+(5n-3)}}\\=& (5n-3)\cdot n.\end{align*}  $$Vi finner nå den eksplisitte formelen ved å dele på to. Det gir $F_n = \dfrac{(5n-3)n}{2}$.
 
 #### 1.6 Finne eksplisitt uttrykk ved hjelp av strategien figurtall-som-sum
 
@@ -765,7 +765,7 @@ Se heftet.
 
 Vi ser altså at tillegget fra $P_1$ til $P_2$ er $4$, fra $P_2$ til $P_3$ er $7$. Generelt kan vi legge merke til at vi legger til $3$ sider med sidelengde $n$ for å lage $P_n$ fra $P_{n-1}$. Når vi legger til sidene får vi to hjørner som overtelles. Generelt må tillegget derfor være $3n-2$. Vi kan nå skrive figurene våre ved hjelp av tilleggene.
 $$
-\begin{aligned}
+\begin{align*}
 P_1 & = 1
 \\
 P_2 & = 1 + 4 = (3\cdot 1 - 2) + (3\cdot 2 - 2)
@@ -777,7 +777,7 @@ P_4 & = 1 + 4 + 7+ 11 =(3\cdot 1 - 2) + (3\cdot 2 - 2) = (3\cdot 3 - 2) + (3\cdo
 \vdots
 \\
 P_n & = (3\cdot 1-2) + (3\cdot 2 -2) + \ldots + (3\cdot n -2).
-\end{aligned}
+\end{align*}
 $$
 Nå må vi bare gjøre litt manipulering for å komme oss i mål. Vi faktoriserer ut den felles faktoren $3$ og ser at i hvert ledd trekker fra $2$. Vi trekker altså fra $n\cdot 2$. Det gir
 $$P_n = (3\cdot 1-2) + (3\cdot 2 -2) + \ldots + (3\cdot n -2) = 3(1+2+\ldots + n) - n\cdot 2.$$
@@ -799,11 +799,11 @@ S_n = 1 + 4 + 7 + 10 + \ldots + 3n - 2.
 $$
 Deretter må de jobbe med summen av tilleggene og bruke den eksplisitte formelen ved å bruke formelen for trekanttall.
 
-$$\begin{aligned}
+$$\begin{align*}
    S_n & =  \phantom{(}1\phantom{(3\cdot  - 2)} + \phantom{(}4\phantom{(3\cdot 1 - }\phantom{)}  + 7 + 10 + \ldots + 3n - 2 \\
        & = (3\cdot 1 - 2) +  (3\cdot 2-2) + \ldots + (3n-2) \\ & = 3\cdot 1 + 3\cdot 2 + \ldots + 3n +\quad (\underset{n}{\underbrace{-2-2-\ldots-2}}) \\
        & = 3T_n -2n = 3{\frac{n(n+1)}{2}} - 2n =\frac{{3n^2+3n-4n}}{2} = \frac{{3n^2-n}}{2} = \frac{n(3n-1)}{2}
-\end{aligned}$$
+\end{align*}$$
 #### Oppgave 2
 
 Illustrer sekskanttallene opp til $S_3$, og utled eksplisitt uttrykk for $S_n$ ved hjelp av strategien figurtall-som-sum-knepet. Merk at tallrekken som tilhører sekskanttallene er $1, 6, 15, 28,  \ldots$.
@@ -818,11 +818,11 @@ S_n = 1 + 5 + 9 + 13 + \ldots + 4n - 3.
 $$
 Deretter må de jobbe med summen av tilleggene og bruke den eksplisitte formelen ved å bruke formelen for trekanttall.
 
-$$\begin{aligned}
+$$\begin{align*}
    S_n & =  \phantom{(}1\phantom{(3\cdot  - 2)} + \phantom{(}5\phantom{(3\cdot 1 - }\phantom{)}  + 9 +\ldots + 4n - 3 \\
        & = (4\cdot 1 - 3) +  (4\cdot 2-3) + \ldots + (4n-3) \\ & = 4\cdot 1 + 4\cdot 2 + \ldots + 4n +\quad (\underset{n}{\underbrace{-3-3-\ldots-3}}) \\
        & = 4T_n -3n = 4{\frac{n(n+1)}{2}} - 3n =2n(n+1)-3n = n(2(n+1)-3) = n(2n+2-3)=n(2n-1)
-\end{aligned}$$
+\end{align*}$$
 
 #### Oppgave 3
 
@@ -838,11 +838,11 @@ S_n = 1 + 6 + 11 + 16 + \ldots + 5n - 4.
 $$
 Deretter må de jobbe med summen av tilleggene og bruke den eksplisitte formelen ved å bruke formelen for trekanttall.
 
-$$\begin{aligned}
+$$\begin{align*}
    S_n & =  \phantom{(}1\phantom{(3\cdot  - 2)} + \phantom{(}6\phantom{(3\cdot 1 - }\phantom{)} +\ldots + 5n - 4 \\
        & = (5\cdot 1 - 4) +  (5\cdot 2-4) + \ldots + (5n-4) \\ & = 5\cdot 1 + 5\cdot 2 + \ldots + 5n +\quad (\underset{n}{\underbrace{-4-4-\ldots-4}}) \\
        & = 5T_n -4n = 5{\frac{n(n+1)}{2}} - 4n =\frac{5n^2+5n-8n}{2}= \frac{{5n^2-3n}}{2}.
-\end{aligned}$$
+\end{align*}$$
 
 ##### Spicy: Finne eksplisitt uttrykk for sammensatte figurtall.
 
@@ -860,7 +860,7 @@ $$\begin{aligned}
 
 1. Vi kan undersøke selve tallfølgen, som er $3, 8, 15, 24$. Vi ser at differansen mellom hvert ledd i rekka er $5, 7, 9$. Her ser vi at tillegget øker med 2 hver gang, noe som tilsier at tillegget vokser lineær med stigning $2$. Det må bety at formen på tillegget er $2n+b$, der $b$ fortsatt er ukjent. Vi kan derimot enkelt avgjøre $b$ ved å sjekke, for eksempel $P_2$. Da er tillegget $2\cdot 2 + b$, og $P_2$ er $P_1 + 2\cdot2+b$. Siden $P_2 = 8$ og $P_1 = 3$, så må $2\cdot 2 + b = 5$ som betyr at $b=1$. Tillegget kan altså skrives på formen $2n+1$. Nå kan vi skrive figurtallene som summen av tilleggene:
    $$
-   \begin{aligned}
+   \begin{align*}
    P_1 & = 3
    \\
    P_2 & = 3 + 2\cdot 2+1
@@ -870,11 +870,11 @@ $$\begin{aligned}
    \vdots
    \\
    P_n & = (2\cdot 1 + 1) + (2\cdot 2 + 1) + (2\cdot 3 + 1)+ \ldots + (2\cdot n + 1).
-   \end{aligned}
+   \end{align*}
    $$
    Vi får derfor at
    $$
-   \begin{aligned}
+   \begin{align*}
    P_n & = (2\cdot 1 + 1) + (2\cdot 2 + 1) + (2\cdot 3 + 1)+ \ldots + (2\cdot n + 1)
    \\
    P_n & = 2(1+2+3+\ldots + n) + 1\cdot n
@@ -884,11 +884,11 @@ $$\begin{aligned}
    & = n(n+1)+n
    \\
    & = n^2 + n + n = n^2 + 2n
-   \end{aligned}
+   \end{align*}
    $$
 
 2. Følgen av tall er $2$, $8$, $17$, $29$, og økningen mellom hvert ledd er $6$, $9$, $12$. Tillegget øker altså med $3$ hver gang. Figurtallene kan skrives ved hjelp av summen av tilleggene slik $$
-   \begin{aligned}
+   \begin{align*}
    P_1 & = 2
    \\
    P_2 & = 2 + 2\cdot 3
@@ -910,7 +910,7 @@ $$\begin{aligned}
    P_n & = -1 + 3 \frac{n(n+1)}{2}
    \\
    P_n & = \frac{-2+3n^2+3n}{2}.
-   \end{aligned}
+   \end{align*}
    $$
 
 #### Oppgave 1
@@ -936,7 +936,7 @@ På figuren under ser du de fire første figurene i en sammensatt figur, der $F_
 Besvarelsen må bruke figurtall-som-sum-knepet for å finne eksplisitt formel. For eksempel kan vi se at kvadrattallene øker med $2n-1$ (veggene i huset) og trekanttallet (taket i huset) øker med $n+1$ som gir et totalt tillegg $3n$.
 Dermed ser vi at vi kan skrive $F_n$ som en sum av tillegg slik
 $$
-\begin{aligned}
+\begin{align*}
 F_1
 & = 1+ 3
 \\
@@ -957,7 +957,7 @@ F_n
 & = \frac{2 + 3n(n+1)}{2}
 \\
 & = \frac{2 +3n^2 + 3n}{2}.
-\end{aligned}
+\end{align*}
 $$
 Besvarelsen kan gi seg med dette eksplisitte uttrykket.
 
@@ -971,7 +971,7 @@ På figuren under ser du de tre første figurene i en sammensatt figur, der $F_1
 
 Besvarelsen må bruke strategien *figurtall-som-sum-knepet*. Vi kan se at hvis vi skriver figurene som en sum av tillegg får vi
 $$
-\begin{aligned}
+\begin{align*}
   F_1 & = 8
   \\
   F_2 &= 8 + 10
@@ -989,7 +989,7 @@ $$
   F_n & = 2 + 4(1+2+3+\ldots+n)+\underset{n\text{ ledd}}{\underbrace{2+2+2+\ldots+2}}
   \\
  F_n & = 2 + 4T_n + 2n = 2+ 2n(n+1) +2n = 2n(n+1+1)+2 = 2n(n+2)+2
-\end{aligned}
+\end{align*}
 $$
 
 #### Oppgave 4
@@ -1003,14 +1003,14 @@ På figuren under ser du de tre første figurene i en sammensatt figur, der $F_1
 Besvarelsen må bruke strategien *figurtall-som-sum-knepet*. Vi kan se at hvis vi skriver figurene som en sum av tillegg får vi
 
 $$
-\begin{aligned}
+\begin{align*}
   F_1 &= 10 \\
   F_2  &= 10 + 14 \\
   F_3 &= \underbrace{asda}
-\end{aligned}
+\end{align*}
 $$
 $$
-\begin{aligned}
+\begin{align*}
   F_1 & = 10
   \\
   F_2 &= 10 + 14
@@ -1028,7 +1028,7 @@ $$
   F_n & = 4(1+2+3+\ldots+n)+\underset{n\text{ ledd}}{\underbrace{6+6+6+\ldots+6}}
   \\
  F_n & = 4T_n + 6n =2n(n+1) +6n = 2n(n+1+3) = 2n(n+4)
-\end{aligned}
+\end{align*}
 $$
 
 #### Oppgave 5
@@ -1041,7 +1041,7 @@ På figuren under ser du de tre første figurene i en sammensatt figur, der $F_1
 
 Besvarelsen *må* bruke figurtall-som-sum-knepet.
 
-For eksempel kan dette gjøres slik. Vi ser at hver figur øker med to rader som er én større enn figurtallsnummeret og at $F_1 = 2$. Da får vi $F_n = 2+(2\cdot2+2)+(2\cdot3+2)+\ldots+(2\cdot n+2)$. Omskriver vi første ledd fra $2$ til $-2+(2\cdot 1 + 2)$, får vi $$\begin{aligned} F_n &= -2+(2\cdot 1 + 2) +(2\cdot2+2)+(2\cdot3+2)+\ldots+(2\cdot n+2) \\ &=-2+2(1+2+\ldots+n)+2n \\ &=-2 + 2T_n+2n = -2+n(n+1)+2n \\ &=-2+n^2+n+2n=n^2+3n-2. \end{aligned}$$ 
+For eksempel kan dette gjøres slik. Vi ser at hver figur øker med to rader som er én større enn figurtallsnummeret og at $F_1 = 2$. Da får vi $F_n = 2+(2\cdot2+2)+(2\cdot3+2)+\ldots+(2\cdot n+2)$. Omskriver vi første ledd fra $2$ til $-2+(2\cdot 1 + 2)$, får vi $$\begin{align*} F_n &= -2+(2\cdot 1 + 2) +(2\cdot2+2)+(2\cdot3+2)+\ldots+(2\cdot n+2) \\ &=-2+2(1+2+\ldots+n)+2n \\ &=-2 + 2T_n+2n = -2+n(n+1)+2n \\ &=-2+n^2+n+2n=n^2+3n-2. \end{align*}$$ 
 
 #### Oppgave 6
 
@@ -1053,7 +1053,7 @@ På figuren under ser du de tre første figurene i en sammensatt figur, der $F_1
 
 Besvarelsen *må* bruke figurtall-som-sum-knepet.
 
-For eksempel kan dette gjøres slik. Vi ser at $F_1 = 9$, $F_2 = 9+9$, $F_3 = 9+9+12$. Videre ser vi at dette mønsteret fortsetter. For eksempel kan vi se dette ved slik som i figuren under <br> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/1771a18e040735ec0055318ae74c13530a161541/img/tallteo/b%C3%A5ttall2.drawio.svg) <br> Omskriver vi første ledd fra $9$ til $6+(3\cdot 1 )$, får vi $$\begin{aligned} F_n &= (3\cdot 1+6) +(3\cdot2+6)+(3\cdot3 + 6)+\ldots+(3\cdot n + 6) \\ &=6n+3(1+2+\ldots+n) \\ &=6n + 3T_n = 6n+\frac{n(n+1)}{2}. \end{aligned}$$ 
+For eksempel kan dette gjøres slik. Vi ser at $F_1 = 9$, $F_2 = 9+9$, $F_3 = 9+9+12$. Videre ser vi at dette mønsteret fortsetter. For eksempel kan vi se dette ved slik som i figuren under <br> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/1771a18e040735ec0055318ae74c13530a161541/img/tallteo/b%C3%A5ttall2.drawio.svg) <br> Omskriver vi første ledd fra $9$ til $6+(3\cdot 1 )$, får vi $$\begin{align*} F_n &= (3\cdot 1+6) +(3\cdot2+6)+(3\cdot3 + 6)+\ldots+(3\cdot n + 6) \\ &=6n+3(1+2+\ldots+n) \\ &=6n + 3T_n = 6n+\frac{n(n+1)}{2}. \end{align*}$$ 
 
 #### 1.7 Finne eksplisitt uttrykk ved hjelp av strategien stirre hardt metoden
 
@@ -1217,7 +1217,7 @@ På figuren under ser du de tre første figurene i en sammensatt figur, der $F_1
 ##### **Vurderingskriterier**
 
 Besvarelsen *må* bruke stirre-hardt-metoden. For eksempel kan dette gjøres slik. Bryt ned figuren slik som i figuren under\ ![](https://raw.githubusercontent.com/Andremartiny/MA-173/1771a18e040735ec0055318ae74c13530a161541/img/tallteo/b%C3%A5ttall2.drawio.svg) Vi ser at vi har to trekanter (blå og lilla) som er én større enn figurtallsnummeret, samt en trekant (rød) der størrelsen samsvarer med figurtallsnummeret. I tillegg har vi en rad som alltid er én større enn figurtallsnummeret (grønn). Setter vi det sammen får vi $2T\_{n+1}+T_n + n+1 =(n+1)(n+2)+\frac{n(n+1)}{2}+n+1$. Litt algebra gir oss $$
-\begin{aligned} (n+1)(n+2)+\frac{n(n+1)}{2}+n+1 & = (n+1)(n+4+ \\frac{n}{2}+ 1 ) \\ & = (n+1)( \frac{2n+4+n+2}{2}) \\ &= \frac{(n+1)(3n+6)}{2} \end{aligned}
+\begin{align*} (n+1)(n+2)+\frac{n(n+1)}{2}+n+1 & = (n+1)(n+4+ \\frac{n}{2}+ 1 ) \\ & = (n+1)( \frac{2n+4+n+2}{2}) \\ &= \frac{(n+1)(3n+6)}{2} \end{align*}
 $$
 
 #### Oppgave
@@ -1458,7 +1458,7 @@ For eksempel kan dette gjøres slik. Kikker vi geometrisk kan vi se tre trekante
 
 1. Se heftet
 2. Se heftet
-3. Regninga ser slik ut: $$\begin{aligned} R_n - R_{n-1} & = n(n+1) -(n-1)(n-1+1) \\ &= n^2+n + (n-1)n \\ & = n^2 + n -(n^2-n )= 2n.\end{aligned}$$ <br> Som betyr at $R_n = R_{n-1}+2n$ der $R_1 = 2$.
+3. Regninga ser slik ut: $$\begin{align*} R_n - R_{n-1} & = n(n+1) -(n-1)(n-1+1) \\ &= n^2+n + (n-1)n \\ & = n^2 + n -(n^2-n )= 2n.\end{align*}$$ <br> Som betyr at $R_n = R_{n-1}+2n$ der $R_1 = 2$.
 
 #### Oppgave 1
 
@@ -1467,7 +1467,7 @@ Finn rekursivt uttrykk for kvadrattallene $K_n$, der $K_1 =1$, $K_2 = 4$ og $K_3
 ##### **Vurderingskriterier**
 
 Besvarelsen må bruke teknikken. Det bør noe slikt ut
-$$\begin{aligned} K_n - K_{n-1} & = n^2 -(n-1)^2 \\ &= n^2-(n^2-2n+1) \\ & = n^2 - n^2+2n-1= 2n-1.\end{aligned}$$
+$$\begin{align*} K_n - K_{n-1} & = n^2 -(n-1)^2 \\ &= n^2-(n^2-2n+1) \\ & = n^2 - n^2+2n-1= 2n-1.\end{align*}$$
 
 Dermed må vi ha at det rekursive uttrykket er $K_n = K_{n-1} + 2n-1$, der $K_1 = 1$.
 
@@ -1486,8 +1486,8 @@ Finn rekursivt uttrykk for trekanttallene $T_n$, der $T_1 =1$, $T_2 = 3$ og $T_3
 Besvarelsen må finne den rekursive sammenhengen ved å se på differansen mellom eksplisitte uttrykk. Det kan se slik ut
 
 $$
-\begin{aligned} T_n - T_{n-1} & = \frac{{n(n+1)}}{2}- \frac{{(n-1)n}}{2} \\ &= \frac{{n(n+1)-n(n-1)}}{2} \\ & = \frac{{n(n+1-(n-1))}}{2}=
-\frac{{2n}}{2} = n.\end{aligned}
+\begin{align*} T_n - T_{n-1} & = \frac{{n(n+1)}}{2}- \frac{{(n-1)n}}{2} \\ &= \frac{{n(n+1)-n(n-1)}}{2} \\ & = \frac{{n(n+1-(n-1))}}{2}=
+\frac{{2n}}{2} = n.\end{align*}
 $$
 Til slutt må det pekes på at den rekursive sammenhengen da er $T_1 = 1$ og at $T_n = T_{n-1}+n$.
 
@@ -1507,9 +1507,9 @@ Finn rekursivt uttrykk for rektangeltallene $R_n$, der $R_1 =2$, $R_2 = 6$ og $R
 
 ##### Løsningsforslag
 
-1. $$\begin{aligned}  H_n - H_{n-1} & = n(2n-1)-((n-1)(2(n-1)-1)) \\ & = 2n^2 -n-((n-1)(2n-2-1)) \\ &= 2n^2-n-((n-1)(2n-3)) \\ &= 2n^2-n-(2n^2-3n-2n+3) \\ &= 2n^2 - n -2n^3+5n-3 \\ &=4n-3 \end{aligned} $$
-2. $$\begin{aligned}  F_n-F_{n-1} &= \frac{{3n^2-n}}{2}- \frac{{3(n-1)^2-(n-1)}}{2} \\ &= \frac{{3n^2-n-(3(n^2-2n+1)-n+1)}}{2} \\& = \frac{{3n^2-n-(3n^2-6n+3-n+1)}}{2} \\ &= {3n^2-n-3n^2+6n-3+n-1} \\ &= \frac{{6n-4}}{2}= 3n-2\end{aligned} $$
-3. $$\begin{aligned}  S_n-S_{n-1} & = \frac{{5n^2-3n}}{2} - \frac{{5(n-1)^2-3(n-1)}}{2} \\ &= \frac{1}{2}\bigg(5n^2-3n-(5(n^2-2n+1)-3n+3)\bigg) \\ &= \frac{1}{2}\bigg(5n^2-3n-(5n^2-10n+5-3n+3)\bigg) \\ &= \frac{1}{2}\bigg(5n^2-3n-5n^2+10n-5+3n-3)\bigg) \\ &= \frac{1}{2}\bigg(10n-8)\bigg) = 5n-4\end{aligned} $$
+1. $$\begin{align*}  H_n - H_{n-1} & = n(2n-1)-((n-1)(2(n-1)-1)) \\ & = 2n^2 -n-((n-1)(2n-2-1)) \\ &= 2n^2-n-((n-1)(2n-3)) \\ &= 2n^2-n-(2n^2-3n-2n+3) \\ &= 2n^2 - n -2n^3+5n-3 \\ &=4n-3 \end{align*} $$
+2. $$\begin{align*}  F_n-F_{n-1} &= \frac{{3n^2-n}}{2}- \frac{{3(n-1)^2-(n-1)}}{2} \\ &= \frac{{3n^2-n-(3(n^2-2n+1)-n+1)}}{2} \\& = \frac{{3n^2-n-(3n^2-6n+3-n+1)}}{2} \\ &= {3n^2-n-3n^2+6n-3+n-1} \\ &= \frac{{6n-4}}{2}= 3n-2\end{align*} $$
+3. $$\begin{align*}  S_n-S_{n-1} & = \frac{{5n^2-3n}}{2} - \frac{{5(n-1)^2-3(n-1)}}{2} \\ &= \frac{1}{2}\bigg(5n^2-3n-(5(n^2-2n+1)-3n+3)\bigg) \\ &= \frac{1}{2}\bigg(5n^2-3n-(5n^2-10n+5-3n+3)\bigg) \\ &= \frac{1}{2}\bigg(5n^2-3n-5n^2+10n-5+3n-3)\bigg) \\ &= \frac{1}{2}\bigg(10n-8)\bigg) = 5n-4\end{align*} $$
 
 #### Oppgave 1
 
@@ -1523,9 +1523,9 @@ inn rekursivt uttrykk for bikubetallene $B_n$, der $B_1 =1$, $H_2 = 7$ og $H_3 =
 Besvarelsene må finne formen på tillegget ved å se på differansen
 
 $$
-\begin{aligned}
+\begin{align*}
   B_n - B_{n-1} & = 3n(n-1)+1 - (3(n-1)(n-2)+1) \\ & = 3n^2 -3n + 1 -3(n^2-3n+2)-1 \\ & = 6n.
-\end{aligned}
+\end{align*}
 $$ Til slutt må det pekes på at $B_n = B_{n-1}+6n$, der $B_1 = 1$.
 
 #### Oppgave 2
@@ -1539,9 +1539,9 @@ Under ser du de fire første figurene i en tallfølge. Finn et rekursivt uttrykk
 Besvarelsene må finne formen på tillegget ved å se på differansen
 
 $$
-\begin{aligned}
+\begin{align*}
   F_n - F_{n-1} & = n^2+2n - ((n-1)^2+2(n-1)) \\ & = n^2+2n - (n^2-2n+1^2+2n-2) \\ & = n^2+2n - n^2+2n-1^2-2n+2 = 2n+1 .
-\end{aligned}
+\end{align*}
 $$ Til slutt må det pekes på at $F_n = F_{n-1}+2n+1$, der $F_1 = 3$.
 
 #### Oppgave 4
@@ -1554,12 +1554,12 @@ Under ser du de fire første figurene i en tallfølge. Finn et rekursivt uttrykk
 Besvarelsen må finne formen på tillegget ved å se på differansen
 
 $$
-\begin{aligned}
+\begin{align*}
   F_n - F_{n-1} &= \frac{3n^2+3n-2}{2}- \frac{3(n-1)^2+3(n-1)-2}{2} \\
    & = \frac{3n^2+3n-2-(3n^2-6n+3+3n-3-2)}{2} \\
    & = \frac{3n^2 +3n-2-3n^2+3n+2}{2} \\
    & = \frac{6n}{2} = 3n
-\end{aligned}
+\end{align*}
 $$
 
 Til slutt må det pekes på at $F_n = F_{n-1} + 3n$ der $F_1 = 2$.
@@ -1574,9 +1574,9 @@ Under ser du de fire første figurene i en tallfølge. Finn et rekursivt uttrykk
 
 Besvarelsene må finne formen på tillegget ved å se på differansen
 $$
-\begin{aligned}
+\begin{align*}
   F_n - F_{n-1} & = 2n^2+n+7 - \bigg(2(n-1)^2+(n-1)+7\bigg) \\ &= 2n^2 + n+7 - \bigg(2n^2-4n+2+n-1+7\bigg) \\ &=2n^2+n+7-2n^2+3n-8 \\ &= 4n-1
-\end{aligned}
+\end{align*}
 $$ Til slutt må det pekes på at $F_n = F_{n-1}+4n-1$, der $F_1 = 10$.
 
 #### Oppgave 
@@ -1587,13 +1587,13 @@ Et figurtallsmønster kan beskrives eksplisitt ved formelen $F_n = (n+1)(2n+3)$.
 
 Besvarelsene må finne formen på tillegget ved å se på differansen
 $$
-\begin{aligned}
+\begin{align*}
   F_n - F_{n-1} & = (n+1)(2n+3)- (n-1+1)(2(n-1)+3) \\
   &= 2n^2+3n+2n+3-n(2n-2+3) \\
   &= 2n^2 + 5n+3-(2n^2+n) \\
   &=2n^2+5n+3-2n^2-n \\
   & = 4n+3
-\end{aligned}
+\end{align*}
 $$
 
 Til slutt må det pekes på at $F_n = F_{n-1}+4n+3$, der $F_1 = 14$, siden $F_1 = (1+1)(2\cdot 2+3)$.
@@ -1805,13 +1805,13 @@ Ved å bryte figurtallene ned på flere måter, utled to ulike, men likeverdige 
 Under ser dere dere de fire første figurtallene i en rekke figurtall.
 Velg ut tre av uttrykkene under og bruk figuren til å argumentere hvorfor de gir en eksplisitt formel for antall firkanter i hver figur.
 $$
-\begin{aligned}
+\begin{align*}
 
   1. \quad \quad &4\frac{{n(n+1)}}{2} +4n+1 \\
   2. \quad \quad & 4\left( (n+1)^2-\frac{n(n-1)}{2} \right)+4n+1 \\
   3. \quad \quad & (2n+1)^2 -4\frac{n(n-1)}{2} \\
   4. \quad \quad & 4(n+1)^2 -4\left( \frac{n(n-1)}{2} \right)-(4(n+1)-1)
-\end{aligned}
+\end{align*}
 
 $$
 
@@ -1833,13 +1833,13 @@ Besvarelsen må velge ut tre av de fire uttrykkene og bruke figuren til å forkl
 Under ser dere de første figurene i et figurtallsmønster.
 Velg ut tre av uttrykkene under og bruk figuren til å argumentere hvorfor de gir en eksplisitt formel for antall firkanter i hver figur.
 $$
-\begin{aligned}
+\begin{align*}
 
   1. \quad \quad & ((n+2)^2-2n) + \left( \frac{n(n+1)}{2} -1\right) \\
   2. \quad \quad & 4+ n(n+2)+\left( \frac{n(n+1)}{2} -1\right) \\
   3. \quad \quad & 2n(2n+1)- 2n -\left( \frac{n(n+1)}{2}-1 \right)\\
   4. \quad \quad & 4+ (n-1)(n+2) + \frac{(n+1)(n+2)}{2}
-\end{aligned}
+\end{align*}
 
 $$
 
@@ -1859,13 +1859,13 @@ Besvarelsen må velge ut tre av de fire uttrykkene og bruke figuren til å forkl
 Under ser dere de første figurene i et figurtallsmønster.
 Velg ut tre av uttrykkene under og bruk figuren til å argumentere hvorfor de gir en eksplisitt formel for antall firkanter i hver figur.
 $$
-\begin{aligned}
+\begin{align*}
 
   1. \quad \quad & 2n-1 + \left( 2 \frac{(n+1)(n+2)}{2} - 1 \right) \\
   2. \quad \quad & 4n + 2 \frac{n(n+1)}{2} \\
   3. \quad \quad & (2n+1)(n+1) - (n-1)^2\\
   4. \quad \quad & 2 \frac{n(n+1)}{2} + ((n+1)^2-(n-1)^2)
-\end{aligned}
+\end{align*}
 
 $$
 
@@ -1889,13 +1889,13 @@ Under ser dere figurer som *kan* brukes for å få frem de fire uttrykkene.
 Under ser dere de første figurene i et figurtallsmønster.
 Velg ut tre av uttrykkene under og bruk figuren til å argumentere hvorfor de gir en eksplisitt formel for antall firkanter i hver figur.
 $$
-\begin{aligned}
+\begin{align*}
 
   1. \quad \quad & (n+2)^2-(n-1)^2 + 2(\frac{n(n+1)}{2}) \\
   2. \quad \quad & 4(n+2) + 2(\frac{n(n+1)}{2}) \\
   3. \quad \quad & (n+2)^2-(n-1)^2 +n(n+1)\\
   4. \quad \quad & (n+2)^2+n
-\end{aligned}
+\end{align*}
 
 $$
 
@@ -1915,13 +1915,13 @@ $$
 Under ser dere de første figurene i et figurtallsmønster.
 Velg ut tre av uttrykkene under og bruk figuren til å argumentere hvorfor de gir en eksplisitt formel for antall firkanter i hver figur.
 $$
-\begin{aligned}
+\begin{align*}
 
   1. \quad \quad & (n+2)^2 \\
   2. \quad \quad & \frac{(n+2)(n+3)}{2}+\frac{(n+1)(n+2)}{2} \\
   3. \quad \quad & (n+3)(n+2)-(3(n+2)-1)\\
   4. \quad \quad & 4+ n(n+4)
-\end{aligned}
+\end{align*}
 
 $$
 
@@ -1961,7 +1961,7 @@ I figuren under vises ett eksempel på hvordan man få alle fire uttrykkene til 
 1.
     1. Vi ser at vi må trekke fra et kvadrattall, så vi må dermed bruke de to trekanttallene våre til å kunne trekke fra kvadratet. Dette kan vi for eksempel illustrere på følgende måte <br>![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-04-25-12-58-11.png)<br>Der gul og grønn illustrerer trekanttallene og røde sirkler er det som skal trekkes vekk. Eller følgende måte<br>![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-04-25-12-58-27.png)<br>Der gul og grønn illustrerer trekanttallene, men at vi har tatt vekk et kvadrattall fra det ene trekanttallet.
     2. Ved å stirre hard kan vi se i første figur at hvis vi ikke trekker vekk kvadratet, så får vi et rektangel med størrelse $n+2$ og $n+1$. Kvadratet vi trekker fra ser vi at har størrelse $(n-1)^2$, som gir uttrykket $(n+2)(n+1)-(n-1)^2$.
-    3. Her må vi bare regne $$ \begin{aligned} 2T_{n+1} - K_{n-1}& =2\frac{(n+1)(n+2)}{2} - (n-1)^2\\& =(n+2)(n+1)-(n-1)^2\end{aligned}$$
+    3. Her må vi bare regne $$ \begin{align*} 2T_{n+1} - K_{n-1}& =2\frac{(n+1)(n+2)}{2} - (n-1)^2\\& =(n+2)(n+1)-(n-1)^2\end{align*}$$
     4. Regner vi videre på uttrykket får vi at det eksplisitte uttrykket kan skrives som $5n+1$. Nå kan vi enkelt lage en figur. Typ fem linjer som er $n$ lange og legge til én en plass.
 2. <br>
     1. Vi kan tolke $2n+1$ på flere måter. Tenker vi trekanttall betyr $2n$ bare at det er to trekanter som øker i tillegg til at $+1$ gir en konstant stigning på én. Dette kan da enkelt tegnes slik (slik at det passer med startverdi) ![](https://raw.githubusercontent.com/Andremartiny/MA-173/84e852cc6984eff8c35e37d2b31ab0c7afdf17c4/img/tallteo/2npluss1rekursivsomtrekant.drawio.svg) <br> Der blåfargen er den ene trekanten, rød er den andre og det hvite er den konstante økningen. <br> Vi kan også merke oss at dette minner om kvadrattallene sin økning, bare at økningen er "neste oddetall i rekka", i tillegg matcher ikke startverdien. Justerer vi litt og lar kun det grønne høre til $F_n$ kan vi uttrykke slik som under. ![](https://raw.githubusercontent.com/Andremartiny/MA-173/84e852cc6984eff8c35e37d2b31ab0c7afdf17c4/img/tallteo/2npluss1somkvardat.drawio.svg)<br>
@@ -2023,19 +2023,19 @@ For eksempel kan det gjøres slik.
 
 Vi begynner med å undersøke følgen og utvide følgen.
 $$
-\begin{aligned}
+\begin{align*}
   F_1 &= 3 \\
   F_2 &= 3+5 \\
   F_3 &= 3+5+7 \\
   F_4 &= 3+5+7+9 \\
   \vdots \\
   F_n &= 3+5+7+9+\ldots + 2n+1
-\end{aligned}
+\end{align*}
 $$
 Vi ser at det er en sum av oddetall, nesten som kvadrattallene. Sammenligner vi dette med $K_n = 1+3+5+\ldots + 2n-1 = n^2$, ser vi at hvert ledd er to større. Det vil si at vi nå kan omforme videre og få
 
 $$
-\begin{aligned}
+\begin{align*}
   F_1 &= (1+2) \\
   F_2 &= (1+2)+(3+2) \\
   F_3 &= (1+2)+(3+2)+(5+2) \\
@@ -2044,7 +2044,7 @@ $$
   F_n &= (1+2)+(3+2)+(5+2) +(7+2)+\ldots + 2n-1 +2 \\
   F_n &= 1+3+5+\ldots + 2n-1 + \underset{n}{\underbrace{2+2+\ldots+2}} \\
   F_n &= n^2 + 2n.
-\end{aligned}
+\end{align*}
 $$
 Det kan tegnes slik
 
@@ -2069,13 +2069,13 @@ Du får vite at et figurtall $F_n$ øker på følgende måte. $F_1 = 2$, $F_2 = 
 
 Vi skriver figurtallene som en sum av tillegg.
 $$
-\begin{aligned} 
+\begin{align*} 
   F_1 & = 2 \\ 
   F_2 & = 2+2 \\
   F_3 &= 2+2+4 \\
   F_4 & = 2+2+4+6 \\
   F_5 & = 2+2+4+6+8 \\ 
-\end{aligned} 
+\end{align*} 
 $$
 Formen på tillegget er nå ganske tydelig, $2(n-1)$. Vi kjenner igjen summen av partallene som rektangeltallene, forskjellen er nå at tillegget alltid er to mindre. Det kan nå for eksempel tegnes slik
 
@@ -2085,7 +2085,7 @@ Der figuren er tegnet rekursivt i seg selv. Figur en er det grønne. $F_2$ er gr
 
 1. Fra undersøkelsen over ser vi nå at figuren stemmer overens med mønsteret.
 2. Undersøkelsene over tar også for seg den rekursive sammenhengen, nemlig at $F_1 = 2$ og $F_{n}= F_{n-1}+ 2(n-1)$, dette er både *vist* og *forklart* over. 
-3. Vi har figurtallene som en sum av tillegg. Vi kan derfor gjøre slik $$\begin{aligned} F_n &= 2+ 2+4+\ldots+2(n-1) \\ &= 2+(4-2)+(6-2)+\ldots+2n-2  \\ &= 2+4+\ldots+2n-(\underset{n-1}{\underbrace{2+2+\ldots+2}}) \\  &= 2(1+2+\ldots+n)- 2(n-1) \\ &= 2T_n-2n+2 = n(n+1)-2n+2.\end{aligned}$$ Et annet alternativ kan være å se i figuren. Vi har et rektangel som er $n\cdot(n+1)$ stort, men mangler de skraverte rutene. Disse utgjør et rektangel som er 2 høyt og $n-1$ bredt, eller totalt $2(n-1)$. Formelen blir dermed $n(n+1)-2(n-1)$.
+3. Vi har figurtallene som en sum av tillegg. Vi kan derfor gjøre slik $$\begin{align*} F_n &= 2+ 2+4+\ldots+2(n-1) \\ &= 2+(4-2)+(6-2)+\ldots+2n-2  \\ &= 2+4+\ldots+2n-(\underset{n-1}{\underbrace{2+2+\ldots+2}}) \\  &= 2(1+2+\ldots+n)- 2(n-1) \\ &= 2T_n-2n+2 = n(n+1)-2n+2.\end{align*}$$ Et annet alternativ kan være å se i figuren. Vi har et rektangel som er $n\cdot(n+1)$ stort, men mangler de skraverte rutene. Disse utgjør et rektangel som er 2 høyt og $n-1$ bredt, eller totalt $2(n-1)$. Formelen blir dermed $n(n+1)-2(n-1)$.
 
 #### Oppgave
 
@@ -2111,7 +2111,7 @@ En figurtallfølge er gitt ved den rekursive sammenhengen $F_{n} = F_{n - 1} + 3
 ##### **Vurderingskriterier**
 
 1. Ved å lese dette som tre trekanter og noe som øker konstant med 2, kan vi enkelt lage en figur. ![](https://raw.githubusercontent.com/Andremartiny/MA-173/8224be54f2a84740541906d79635c2135eb3ccd4/img/tallteo/figur%C3%B8lnming.drawio.svg) <br>
-2. Tolkningen gir oss også en eksplisitt formel. $3T_n +2n-1 = \frac{3n(n+1)}{2}+2n-1.$ Vi kan for eksempel også bruke figurtall som sum knepet og få $$\begin{aligned} F_n  &= -1+(2+3\cdot 1) +(2+3\cdot 2) +\ldots +(2+3\cdot n) \\ &= -1 + 2n + 3T_n , \end{aligned}$$ akkurat som over.
+2. Tolkningen gir oss også en eksplisitt formel. $3T_n +2n-1 = \frac{3n(n+1)}{2}+2n-1.$ Vi kan for eksempel også bruke figurtall som sum knepet og få $$\begin{align*} F_n  &= -1+(2+3\cdot 1) +(2+3\cdot 2) +\ldots +(2+3\cdot n) \\ &= -1 + 2n + 3T_n , \end{align*}$$ akkurat som over.
 
 #### 1.11 Vurdere arbeid med figurtall med hensyn til læreplanens kjerneelementer og didaktikk knyttet til algebraisk tenkning.
 
