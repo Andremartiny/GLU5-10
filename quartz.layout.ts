@@ -107,7 +107,8 @@ export const defaultContentPageLayout: PageLayout = {
     })),
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()), Component.DesktopOnly(Component.StaticText())
+    Component.DesktopOnly(Component.TableOfContents()), Component.DesktopOnly(Component.StaticText()), 
+    Component.Backlinks(),
   ],
 }
 
