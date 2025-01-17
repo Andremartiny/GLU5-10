@@ -64,18 +64,12 @@ Hvis du ønsker å se din personlige oversikt kan du få nøkkel fra André og s
 > >  - [x] Legge til øveoppgaver i alle tema
 > >  - [ ] Legge til løsningsforslag til alle oppgaver
 > >      - [x] Legge inn alle løsningsforslag som finnes i Canvas
+> >  - [ ] Legge inn oppgaver fra vurderingsøktene
 > 
 > > [!abstract]+ Litteratur
-> > - [ ] Legge inn heftet i geometri 
-> >     - [x] Legge inn grovversjon
-> >     - [ ] Gå over alle bildene
-> >         - Eksempel på bilde som må fikses [[Geometri/1.3 Arealet av et parallellogram|arealet av et parallellogram]]
-> >     - [ ] Gå over formatering
-> > - [ ] Legge inn heftet i sannsynlighet og kombinatorikk
-> >     - [x] Legge inn grovversjon av kombinatorikk
-> >     - [ ] Legge inn grovversjon av sannsynlighet
-> >     - [ ] Gå over alle bildene
-> >     - [ ] Gå over formatering
+> > - [x] Legge inn heftet i geometri 
+> > - [ ] Legge inn heftet i sannsynlighet
+> > - [x] Legge inn heftet i kombinatorikk
 > > - [ ] Legge inn heftet i likninger, ulikheter og algebraiske uttrykk
 > >     - [x] Legge inn grovversjon
 > >     - [ ] Gå over alle bildene
@@ -87,7 +81,6 @@ Hvis du ønsker å se din personlige oversikt kan du få nøkkel fra André og s
 > 
 > > [!abstract]+ Funksjonalitet
 > >  - [x] Lage mulighet for å se personlig fremgang i kurset
-> >      - Nøkkel 47588 for å se eksempel
 > >  - [ ] Side der man kan lage egne `null-risk-tester` ved å tilfeldig trekke ut oppgaver basert på selvvalgte læringsmål og nivå.
 >   
 > 

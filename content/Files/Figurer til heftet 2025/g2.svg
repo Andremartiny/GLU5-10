@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100.17696mm"
+   height="61.078251mm"
+   viewBox="0 0 100.17696 61.078251"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:export-bgcolor="#ffffff00" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Lag 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-11.875596,-341.40923)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-157.1625,246.59167)"
+       id="g2"
+       inkscape:export-filename="g2.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         d="m 640,588 c 1.81,-19.663 12.291,-28.221 14.174,-54.48 1.882,-26.26 9.441,-31.777 15.945,-61.29 6.504,-29.513 7.502,-27.949 14.174,-54.48 6.672,-26.531 12.918,-41.518 14.764,-56.75 22.101,-1.847 37.933,4.619 53.819,0 15.886,-4.619 31.965,4.91 51.666,0 19.701,-4.91 36.214,3.112 58.124,0 21.911,-3.112 28.053,1.014 51.667,0 18.237,27.419 18.86,46.134 27.45,60.766 8.589,14.632 15.369,40.979 26.433,58.515 11.064,17.536 34.384,78.215 47.784,105.778 -26.868,3.543 -45.052,-0.578 -70.187,0.362 -25.135,0.94 -35.932,0.093 -55.146,0.285 -19.215,0.191 -41.587,-2.256 -70.187,0.362 -28.6,2.618 -32.415,-0.524 -55.147,0.285 -22.732,0.809 -47.19,-0.415 -66.426,0.343 C 679.67,588.454 664.078,583.747 640,588 Z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path1-20" />
+      <path
+         d="m 640,588 c 16.31,-9.601 35.382,-29.595 46.693,-38.59 11.311,-8.995 42.759,-35.276 60.427,-49.94 17.668,-14.664 33.876,-32.384 52.186,-43.13 18.311,-10.745 39.712,-28.406 60.427,-49.94 20.715,-21.534 35.663,-28.075 54.933,-45.4"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path2-3"
+         sodipodi:nodetypes="csscsc" />
+    </g>
+  </g>
+</svg>
