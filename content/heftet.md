@@ -710,13 +710,7 @@ $3 \mid n \Leftrightarrow 3 \mid T(n).$
 
 ### 4.1.1 Figurnummer og figurtall
 
-Figurene under illustrerer tallfølger som vokser etter bestemte mønstre.
-Vi kaller slike tallfølger, naturlig nok, gjerne *figurtallmønster*
-eller bare *figurtall.* Antallet ringer i figuren, altså tallet den
-representerer, kalles **figurtallet**. Den enkelte figur er gitt et navn
-bestående av en stor bokstav og et tall i senket skrift. Tallet er
-**figurnummeret**. Figur[nummeret]{.underline} viser altså til hvilken
-figur det er snakk om, mens figur[tallet]{.underline} viser til verdien
+Figurene under illustrerer tallfølger som vokser etter bestemte mønstre. Vi kaller slike tallfølger, naturlig nok, gjerne *figurtallmønster* eller bare *figurtall.* Antallet ringer i figuren, altså tallet den representerer, kalles **figurtallet**. Den enkelte figur er gitt et navn bestående av en stor bokstav og et tall i senket skrift. Tallet er **figurnummeret**. Figur[nummeret]{.underline} viser altså til hvilken figur det er snakk om, mens figur[tallet]{.underline} viser til verdien
 (antallet ringer i den aktuelle figuren).
 
 Se på det øverste figurtallmønsteret. Det illustrerer tallfølgen
