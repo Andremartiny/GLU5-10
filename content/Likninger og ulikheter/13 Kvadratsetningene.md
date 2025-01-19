@@ -1,6 +1,7 @@
 ---
 title: 📄 Kvadratsetningene
 ---
+Gå tilbake til [[Likninger og ulikheter/11.4 Grafisk løsning|Likningssett - Grafisk løsning]].
 
 Rent algebraisk er ikke disse setningene særlig overraskende. De kan «begrunnes» ved rett frem regning. Vi skal se på dem 
 

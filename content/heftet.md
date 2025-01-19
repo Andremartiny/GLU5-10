@@ -1376,29 +1376,7 @@ $$T_{n} = T_{n - 1} + n,\ \ T_{1} = 1.$$
 
   ------------------------------------------------------------------------------
   **Strategi**                        **Eksempel**
-  ----------------------------------- ------------------------------------------
-  Justere opp og ned                  $12 + 16 = 10 + 18$
 
-  Fast differanse                     $16 - 12 = 14 - 10$
-
-  Dobling og halvering                $12 \cdot 8 = 24 \cdot 4 = 48 \cdot 2$
-
-  Utvide eller forkorte               $213\ :5 = 426\ :10$
-
-                                      $81\ :18 = 9\ :2$
-
-  Utnytte kommutativitet              $36 \cdot 4 = 4 \cdot 36$
-
-  Utnytte assosiativitet              $6 \cdot 13 = 2 \cdot (3 \cdot 13)$
-
-  Utnytte distributivitet             $6 \cdot 13 = 6 \cdot 10 + 6 \cdot 3$
-
-                                      $18 \cdot 23 = 20 \cdot 23 - 2 \cdot 23$
-
-  Multiplikasjon med $5$              $13 \cdot 5 = (13 \cdot 10)\ :2$
-
-  Divisjon med $20$                   $260\ :20 = (260\ :10)\ :2$
-  ------------------------------------------------------------------------------
 
 ## 5.2 Begrunnelser og illustrasjoner av noen av strategiene
 
@@ -4091,8 +4069,7 @@ Som vi påpekte over, er det også ni andre måter å få tre kron på, men på
 grunn av hvordan vi regner ut arealet gir den kommutative egenskap oss
 at arealet blir nøyaktig like stort. Dermed blir sannsynligheten for å
 få tre kron antall måter vi kan stokke om tre kron og to mynt på,
-multiplisert med sannsynligheten for å få først tre kron og så to mynt,
-altså
+altå
 $10 \cdot \frac{6^{3} \cdot 4^{2}}{10^{5}} = \frac{6^{3} \cdot 4^{2}}{10^{4}} = 0.3456$.
 Vi får nå følgende svar:
 
