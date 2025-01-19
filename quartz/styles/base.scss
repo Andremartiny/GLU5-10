@@ -237,14 +237,14 @@ a {
 }
 
 input[type="checkbox"] {
-  transform: translateY(2px);
+  // transform: translateY(2px);
   color: var(--secondary);
-  border: 1px solid var(--dark);
+  border: 1px solid #fafafa3d;
   border-radius: 3px;
-  background-color: var(--dark);
+  background-color: #fafafa3d;
   position: relative;
   margin-inline-end: 0.2rem;
-  margin-inline-start: -1.4rem;
+  // margin-inline-start: -1.4rem;
   appearance: none;
   width: 16px;
   height: 16px;

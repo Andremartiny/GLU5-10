@@ -48,7 +48,7 @@ function saveStudentID() {
   document.addEventListener("DOMContentLoaded", () => {
     const studentID = localStorage.getItem("studentID")
     if (studentID) {
-      document.getElementById("student-id").value = studentID
+      // document.getElementById("student-id").value = studentID
       personalizeTable(studentID)
     }
   })
