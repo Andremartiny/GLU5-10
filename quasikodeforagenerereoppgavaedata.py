@@ -40,11 +40,17 @@ def process_markdown_files(root_folder):
                 
                 # Add consecutive lines starting with '>'
                 if IsATask:
-                    if line.startswith(">"):
-                        hidden_tasks_content.append(line)
-                    else:
+                    if line.startswith("> [!abstract]"):
                         IsATask = False
                         hidden_tasks_content.append("\n")  # Add an empty line
+                    if line.startswith(">"):
+                        hidden_tasks_content.append(line)
+
+                    else:
+                        
+                        IsATask = False
+                        hidden_tasks_content.append("\n")  # Add an empty line
+            
 
     # Write the collected content to HIDDENTASKS.md
     with open("HIDDENTASKS.md", 'w', encoding='utf-8') as hidden_file:

@@ -47,6 +47,8 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 <script src="files\randomoppgave.js"></script>
 
 
+
+
 > [!hidden] 1.1 Mild 1
 > Forklar og gi eksempler på begrepene. Målet er å lage *korte og presise *forklaringer.
 
