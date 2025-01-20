@@ -47,45 +47,45 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 <script src="files\randomoppgave.js"></script>
 
 
-
 > [!hidden] 1.1 Mild 1
 > Forklar og gi eksempler på begrepene. Målet er å lage *korte og presise *forklaringer.
 
-> [!hidden] 1.2 Medium 1
-> Begrunn algebraisk og ved hjelp av figurer at
->     1. summen av to partall er et partall
->     2. summen av to oddetall er et partall
->     3. summen av et partall og et oddetall er et oddetall
+> [!hidden] 1.2 Medium  1
+> Begrunn algebraisk og ved hjelp av figurer at summen av to partall er et partall
 
-> [!hidden] 1.2 Medium 2
-> Begrunn algebraisk og ved hjelp av figurer at
-> 1. produktet av to naturlige tall der minst ett er et partall, er et partall
-> 2. produktet av to oddetall er et oddetall
+> [!hidden] 1.2 Medium  2
+> Begrunn algebraisk og ved hjelp av figurer at produktet av to naturlige tall der minst ett er et partall, er et partall
 
-> [!hidden] 1.2 Medium 3
+> [!hidden] 1.2 Medium  3
 > Begrunn at summen av et odde antall påfølgende naturlige tall er delelig med tallet tilsvarende antall ledd i summen. (Altså at summen av tre påfølgende er delelig med tre, summen av fem påfølgende delelig med fem og så videre.)
 
-> [!hidden] 1.2 Medium 4
-> Gjelder det samme for summen av et *par* antall påfølgende naturlige tall? Begrunn.
+> [!hidden] 1.2 Medium  4
+> Avgjør om summen av et partall antall påfølgende naturlige tall er delelig med tallet tilsvarende antall ledd i summen.
 
-> [!hidden] 1.2 Medium 5
+> [!hidden] 1.2 Medium  5
 >  Et kvadrattall er et naturlig tall på formen $n^{2}$. Kan et kvadrattall være et primtall? Begrunn.
 
-> [!hidden] 1.2 Spicy 1
+> [!hidden] 1.2 Medium 6
+>  Begrunn algebraisk og ved hjelp av figurer at summen av et partall og et oddetall er et oddetall.
+
+> [!hidden] 1.2 Medium 8
+>  Begrunn algebraisk og ved hjelp av figurer at produktet av to oddetall er et oddetall.
+
+> [!hidden] 1.2 Spicy  1
 > Begrunn eller motbevis påstanden: *Seks er en faktor i ethvert produkt av tre påfølgende naturlige tall.*
 
-> [!hidden] 1.2 Spicy 2
+> [!hidden] 1.2 Spicy  2
 > Primtallsfaktoriser $126$ og $210$. Bruk faktoriseringen til å finne tallenes minste felles multiplum ($\text{mfm}$) og største felles faktor ($\text{sff}$). Gi så et generisk eksempel som begrunner sammenhengen $ab = \text{sff}(a,b) \cdot \text{mfm}(a.b)$, altså at produktet av to tall svarer til produktet av deres $\text{sff}$ og $\text{mfm}$.
 
-> [!hidden] 1.2 Spicy 3
+> [!hidden] 1.2 Spicy  3
 >  $47$ og $74$ er begge tosifra tall laget av de samme sifrene, nemlig $4$ og $7$. Lag flere slike tosifra tall, og undersøk hva som skjer om man deler summen av tallene på summen av sifrene. Begrunn det du finner.
 
-> [!hidden] 1.2 Spicy 4
+> [!hidden] 1.2 Spicy  4
 >  Inndelingen av naturlige tall i par og odde er en inndeling etter delelighet med $2$. Noen tall gir $0$ i rest (to er en faktor), de øvrige gir $1$ i rest. Med andre ord: Alle naturlige tall er enten på formen $2n$ eller $2n + 1$. 
 >  Vis at alle kvadrattall er på formen $4n^2$ eller $4n^2+1$.
 >  
 
-> [!hidden] 1.2 Spicy 5
+> [!hidden] 1.2 Spicy  5
 > Tilsvarende inndeling kan vi gjøre for delelighet med $3$. Noen gir $0$ i rest, noen $1$ og de øvrige $2$ i rest. Altså: De naturlige tallene er enten *i* tregangen, én mer enn et tall i tregangen, eller to mer enn et tall i tregangen. Vis at ingen kvadrattall (tall på formen $n^{2}$) er to mer enn et tall i tregangen.
 
 > [!hidden] 1.2 Spicy Vurdering uke 2
@@ -169,17 +169,12 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 
 > [!hidden] 1.3 Spicy 1
 > Gjør beregningene i den aktuelle basen (uten å oversette til base ti, altså)
-> 1. $123_{fem} + 321_{fem}$
-> 2. $321_{fire} - 123_{fire}$
-> 3. $32_{åtte} \cdot 24_{åtte}$
-> 4. $4A3_{tolv}\ :3_{tolv}$
-> 5. Lag egne regnestykker.
+> $123_{fem} + 321_{fem}$
 
 > [!hidden] 1.3 Spicy 2
 > Finn basen $b$ uten gjett og sjekk.
-> 1.  $143_{b} = 48_{ti}$
-> 2. $153_{b} = 69_{ti}$
-> 3. $313_{b} = 55_{ti}$
+> 
+> $143_{b} = 48_{ti}$
 
 > [!hidden] 1.3 Spicy 3
 > Forklar hvordan man enkelt kan finne basen $b$ til tall på formen $121_{b}$ dersom man kjenner tallets verdi i base ti.
@@ -189,6 +184,37 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 
 > [!hidden] 1.3 Spicy 5
 > Når vi uttrykker tall i titallsystemet er et tall delelig med to bare dersom siste siffer er delelig med to. Uttrykt i femtallsystemet, derimot, er et tall delelig med to bare dersom tverrsummen er delelig med to. Begrunn dette. Forsøk også å generalisere: I hvilke baser gjelder siste-siffer-regelen, og i hvilke gjelder tverrsum-regelen?
+
+> [!hidden] 1.3 Spicy 6
+> 
+> Gjør beregningene i den aktuelle basen (uten å oversette til base ti, altså)
+> 
+> $321_{fire} - 123_{fire}$
+
+> [!hidden] 1.3 Spicy 7
+> Gjør beregningene i den aktuelle basen (uten å oversette til base ti, altså)
+>  
+>  $32_{åtte} \cdot 24_{åtte}$
+
+> [!hidden] 1.3 Spicy 8
+> Gjør beregningene i den aktuelle basen (uten å oversette til base ti, altså)
+> 
+> $4A3_{tolv}\ :3_{tolv}$
+
+> [!hidden] 1.3 Spicy 9
+> Lag egne regnestykker
+
+> [!hidden] 1.3 Spicy 10
+> 
+> Finn basen $b$ uten gjett og sjekk.
+> 
+> $153_{b} = 69_{ti}$
+
+> [!hidden] 1.3 Spicy 11
+> 
+> Finn basen $b$ uten gjett og sjekk.
+> 
+> $313_{b} = 55_{ti}$
 
 > [!hidden] 1.3 Spicy Vurdering uke 3
 > 1. Gjør om $455{seks}$ til base fem. Vis hvordan du går frem.
@@ -673,20 +699,20 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 
 > [!hidden] 3.2 Mild 1
 > Alfa s. 282
-> 1. 3.68
-> 2. 3.69
-> 3. 3.70 a)--f)
+> Oppgave 3.68
+
+> [!hidden] 3.2 Mild 2
+> Alfa s. 282
+> Oppgave 3.69
+
+> [!hidden] 3.2 Mild 3
+> Alfa s. 282
+> Oppgave 3.70 a)--f)
 
 > [!hidden] 3.2 Mild Vurdering uke 3
 > Løs ulikheten $2(5+x) \leq 6$.
 
 > [!hidden] 3.2 Medium 1
-> Alfa s. 282
-> 1. 3.68
-> 2. 3.69
-> 3. 3.70 a)--f)
-
-> [!hidden] 3.2 Medium 2
 > Henrik skal klatre og må låne klatreutstyr. Han har 500 kroner og utstyret koster 100kr i tillegg til 50 kr timen. Når Henrik er ferdig har han fortsatt penger igjen. Sett opp og løs en ulikhet som viser hvor lenge Henrik kan ha klatret?
 
 > [!hidden] 3.2 Medium Vurdering uke 3
@@ -715,14 +741,23 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 
 > [!hidden] 3.3 Medium 1
 > Alfa s. 281. Løs på så mange måter du greier.
-> 1. 3.60
+> Oppgave 3.60
 > 2. 3.63
 > 3. 3.64
 
 > [!hidden] 3.3 Medium 2
-> Gjør NOKUT-oppgaven under (V2023): <br>
+> Alfa s. 281. Løs på så mange måter du greier.
+> Oppgave  3.63
+> 3. 3.64
 
 > [!hidden] 3.3 Medium 3
+> Alfa s. 281. Løs på så mange måter du greier.
+> Oppgave 3.64
+
+> [!hidden] 3.3 Medium 4
+> Gjør NOKUT-oppgaven under (V2023): <br>
+
+> [!hidden] 3.3 Medium 5
 >  Gjør NOKUT-oppgaven under (H2022): 
 
 > [!hidden] 3.3 Medium Vurdering uke 3
@@ -1071,11 +1106,23 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > ![](https://raw.githubusercontent.com/Andremartiny/MA-173/d212e07743cf745d709cae90791078f352200517/img/likn/figurergeo.drawio.svg)
 
 > [!hidden] 3.9 Mild 1
-> Ved hjelp av en illustrasjon, gjengi formlene for arealet av 
-> 1. et rektangel
-> 2. et parallellogram
-> 3. en trekant
-> 4. et trapes
+> Ved hjelp av en illustrasjon, gjengi formlene for arealet av et rektangel.
+> 
+> Det må komme tydelig frem hvordan de ulike parameterne er koblet til bildet.
+
+> [!hidden] 3.9 Mild 2
+> Ved hjelp av en illustrasjon, gjengi formlene for arealet av et parallellogram.
+> 
+> 
+> Det må komme tydelig frem hvordan de ulike parameterne er koblet til bildet.
+
+> [!hidden] 3.9 Mild 3
+> Ved hjelp av en illustrasjon, gjengi formlene for arealet av en trekant.
+> 
+> Det må komme tydelig frem hvordan de ulike parameterne er koblet til bildet.
+
+> [!hidden] 3.9 Mild 4
+> Ved hjelp av en illustrasjon, gjengi formlene for arealet av et trapes.
 > 
 > Det må komme tydelig frem hvordan de ulike parameterne er koblet til bildet.
 
@@ -1102,12 +1149,28 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Det må komme tydelig hvorfor formlene er riktige i forklaringen.
 
 > [!hidden] 3.11 Mild 1
-> Ved hjelp av en illustrasjon, gjengi formlene for volumet av 
-> 1. et rett prisme
-> 2. et skjevt prisme
-> 3. prismer med trekantede grunnflater
-> 4. en sylinder
-> 5. en pyramide
+> Ved hjelp av en illustrasjon, gjengi formlene for volumet av et rett prisme.
+>  
+> Det må komme tydelig frem hvordan de ulike parameterne er koblet til bildet.
+
+> [!hidden] 3.11 Mild 2
+> Ved hjelp av en illustrasjon, gjengi formlene for volumet av et skjevt prisme.
+>  
+> Det må komme tydelig frem hvordan de ulike parameterne er koblet til bildet.
+
+> [!hidden] 3.11 Mild 3
+> Ved hjelp av en illustrasjon, gjengi formlene for volumet av prismer med trekantede grunnflater.
+>  
+> Det må komme tydelig frem hvordan de ulike parameterne er koblet til bildet.
+
+> [!hidden] 3.11 Mild 4
+> Ved hjelp av en illustrasjon, gjengi formlene for volumet av en sylinder.
+> 
+>  
+> Det må komme tydelig frem hvordan de ulike parameterne er koblet til bildet.
+
+> [!hidden] 3.11 Mild 5
+> Ved hjelp av en illustrasjon, gjengi formlene for volumet av en pyramide.
 >  
 > Det må komme tydelig frem hvordan de ulike parameterne er koblet til bildet.
 
@@ -1285,29 +1348,41 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 
 > [!hidden] 4.8 Mild 1
 > Alfa s. 119. Kun beregningene på mildt nivå.
-> 1. 1.41 a, b, c og d
-> 2. 1.42
-> 3. 1.45
+> Oppgave 1.41 a, b, c og d
+
+> [!hidden] 4.8 Mild 2
+> Alfa s. 119. Kun beregningene på mildt nivå.
+> Oppgave 1.42
+
+> [!hidden] 4.8 Mild 3
+> Alfa s. 119. Kun beregningene på mildt nivå.
+> Oppgave 1.45
 
 > [!hidden] 4.8 Medium 1
 > Alfa s. 119 
-> 1. 1.41 a, b, c og d
-> 2. 1.42
+> Oppgave 1.41 a, b, c og d
 
 > [!hidden] 4.8 Medium 2
+> Alfa s. 119
+> Oppgave 1.42
+
+> [!hidden] 4.8 Medium 3
 > Ta utgangspunkt i de tre multiplikasjonene $7 \cdot \frac{4}{5}$,
 >    $\frac{2}{3} \cdot 12$ og $\frac{2}{3} \cdot \frac{4}{5}$.
 > 1.  Forklar i hvert tilfelle hvordan vi kan forstå eller tolke multiplikasjonen.
 > 2. Gi en passende kontekst til hver multiplikasjon. (Lag gjerne flere kontekster slik at flere av betydningene av brøk dekkes.)
 > 3. Vis ved illustrasjon og ordforklaring _hvorfor_ vi regner som vi gjør. Forsøk å knytte forklaringene til kontekstene.
 
-> [!hidden] 4.8 Medium 3
+> [!hidden] 4.8 Medium 4
 > Vis ved hjelp av ordforklaring og illustrasjon at brøkmultiplikasjon
 
 > [!hidden] 4.9 Mild 1
 > Alfa s. 119. Kun beregningene på grunnleggende.
-> 1. 1.41 e, f og g
-> 2. 1.46
+> Oppgave 1.41 e, f og g.
+
+> [!hidden] 4.9 Mild 2
+> Alfa s. 119. Kun beregningene på grunnleggende. 
+> Oppgave 1.46.
 
 > [!hidden] 4.9 Spicy 1
 > Velg en divisjon med brøk.
@@ -1320,14 +1395,36 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > [!hidden] 4.10 Spicy 1
 > Vis algebraisk hvorfor regneregelen for divisjon med brøk er som den er.
 
-> [!hidden] 4.11 Spicy Regn ut.
-> 1. $\displaystyle{\frac{3}{2}\left( 7 + \frac{3\  + \ \frac{1}{5}}{\frac{2}{3}} \right) - 1}$
-> 2. $\displaystyle{\frac{\left( \frac{4}{7}\  \cdot \ 2\ \frac{3}{5} \right)\  - \ 3}{\frac{2}{3}} + 8}$
-> 3. $\displaystyle{\frac{\frac{4}{3}\  + \ 5}{\frac{3}{4}\  + \ \frac{3}{5}} + \frac{7}{2}\left( 1 - \frac{8}{3} \right)}$
-> 4. $\displaystyle{\left( \frac{\left( 2\ \ :\ \frac{2}{3} \right)\  \cdot \ \frac{3}{2}}{1\  + \ \frac{3}{2}} - \frac{4}{5} \right) \cdot \left( \frac{4}{5} - 2 \right)}$
-> 5. $\displaystyle{\frac{\frac{-3}{4}+\frac{1}{3}}{\frac{1}{6}}+ 2\left( \frac{5}{3}-\frac{2}{6} \right)}$
-> 6. $\displaystyle{\left(\frac{\left(\frac{1}{7}-\frac{1}{2}\right)}{\left(\frac{1}{2}+\frac{3}{7}\right)}\right)+ 2\left( \frac{1}{2}-\frac{8}{26} \right)}$
-> 7. $\displaystyle{\left(\frac{\left( 2:\frac{1}{6} \right)\cdot 5}{2-\frac{4}{3}}- 10\right)\cdot \left( \frac{5}{8}-\frac{1}{2} \right)}$
+> [!hidden] 4.11 Spicy 1
+> Regn ut
+> 
+> $\displaystyle{\frac{3}{2}\left( 7 + \frac{3\  + \ \frac{1}{5}}{\frac{2}{3}} \right) - 1}$
+
+> [!hidden] 4.11 Spicy 2
+> Regn ut
+> $\displaystyle{\frac{\left( \frac{4}{7}\  \cdot \ 2\ \frac{3}{5} \right)\  - \ 3}{\frac{2}{3}} + 8}$
+
+> [!hidden] 4.11 Spicy 3
+> Regn ut
+>  $\displaystyle{\frac{\frac{4}{3}\  + \ 5}{\frac{3}{4}\  + \ \frac{3}{5}} + \frac{7}{2}\left( 1 - \frac{8}{3} \right)}$
+> 
+
+> [!hidden] 4.11 Spicy 4
+> Regn ut
+> $\displaystyle{\left( \frac{\left( 2\ \ :\ \frac{2}{3} \right)\  \cdot \ \frac{3}{2}}{1\  + \ \frac{3}{2}} - \frac{4}{5} \right) \cdot \left( \frac{4}{5} - 2 \right)}$
+
+> [!hidden] 4.11 Spicy 5
+> Regn ut
+> $\displaystyle{\frac{\frac{-3}{4}+\frac{1}{3}}{\frac{1}{6}}+ 2\left( \frac{5}{3}-\frac{2}{6} \right)}$
+
+> [!hidden] 4.11 Spicy 6
+> Regn ut
+> $\displaystyle{\left(\frac{\left(\frac{1}{7}-\frac{1}{2}\right)}{\left(\frac{1}{2}+\frac{3}{7}\right)}\right)+ 2\left( \frac{1}{2}-\frac{8}{26} \right)}$
+> 
+
+> [!hidden] 4.11 Spicy 7
+> Regn ut
+> $\displaystyle{\left(\frac{\left( 2:\frac{1}{6} \right)\cdot 5}{2-\frac{4}{3}}- 10\right)\cdot \left( \frac{5}{8}-\frac{1}{2} \right)}$
 
 > [!hidden] 4.12 Mild 1
 > Utdyp og forklar: _desimaltall er en skrivemåte for brøker der
@@ -1337,14 +1434,26 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 
 > [!hidden] 4.12 Mild 3
 > Alfa s. 139
-> 1. 1.65
-> 2. 1.66
-> 3. 1.67
+> Oppgave 1.65.
+
+> [!hidden] 4.12 Mild 4
+> Alfa s. 139
+> Oppgave 1.66.
+
+> [!hidden] 4.12 Mild 5
+> Alfa s. 139
+> Oppgave 1.67.
 
 > [!hidden] 4.12 Medium Alfa s. 140
 > 1. 1.68
 > 2. 1.69
 > 3. 1.70
+
+> [!hidden] 4.12 Medium Alfa s. 140
+> Oppgave 1.69
+
+> [!hidden] 4.12 Medium Alfa s. 140
+> 1.70
 
 > [!hidden] 4.13 Mild 1
 > Forklar og gi eksempler på endelig, periodisk og uendelig
@@ -1367,6 +1476,31 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 2. $0,0202$
 > 3. $3,333$
 
+> [!hidden] 4.13 Medium 3
+> Gjør om til desimaltall. Fremgangsmåte, strategi eller begrunnelse for omgjøringen må komme tydelig frem.
+> 
+> $\frac{4}{15}$ 
+
+> [!hidden] 4.13 Medium 4
+> Gjør om til desimaltall. Fremgangsmåte, strategi eller begrunnelse for omgjøringen må komme tydelig frem.
+> 
+> $\frac{7}{2}$ 
+
+> [!hidden] 4.13 Medium 5
+> Gjør om til desimaltall. Fremgangsmåte, strategi eller begrunnelse for omgjøringen må komme tydelig frem.
+> 
+> $\frac{12}{30}$ 
+
+> [!hidden] 4.13 Medium 6
+> Gjør om til desimaltall. Fremgangsmåte, strategi eller begrunnelse for omgjøringen må komme tydelig frem.
+> 
+> $\frac{14}{450}$ 
+
+> [!hidden] 4.13 Medium 7
+> Gjør om til desimaltall. Fremgangsmåte, strategi eller begrunnelse for omgjøringen må komme tydelig frem.
+> 
+> $\frac{3}{40}$
+
 > [!hidden] 4.13 Spicy 1
 >  Alle brøkene som svarer til endelige desimaltall, har en felles egenskap. forklar hvilken det er, og gi en begrunnelse for at det er slik.
 
@@ -1374,22 +1508,37 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Brøkene som ikke svarer til endelige desimaltall, gir periodiske desimaltall. Begrunn hvorfor det er slik.
 
 > [!hidden] 4.14 Spicy Alfa s. 140.
-> 1. 1.73
-> 2. 1.74
+> Oppgave 1.73
+
+> [!hidden] 4.14 Spicy Alfa s. 140.
+> Oppgave 1.74
 >
 
 > [!hidden] 4.14 Spicy Gjør om til brøk.
-> 1. $0,\overline{45}$
-> 2. $0,0\overline{45}$
-> 3. $0,\overline{123}$
-> 4. $0,123\overline{45}$
-> 5. $1,001001001\ldots$
+> $0,\overline{45}$
 
 > [!hidden] 4.14 Spicy Gjør om til brøk.
-> 1. $0,111\ldots$
-> 2. $0,222\ldots$
-> 3. $0,333\ldots$
-> 4. Og så videre.
+> $0,0\overline{45}$
+
+> [!hidden] 4.14 Spicy Gjør om til brøk.
+> $0,\overline{123}$
+
+> [!hidden] 4.14 Spicy Gjør om til brøk.
+> $0,123\overline{45}$
+> 
+
+> [!hidden] 4.14 Spicy Gjør om til brøk.
+> $1,001001001\ldots$
+
+> [!hidden] 4.14 Spicy Gjør om til brøk.
+> $0,111\ldots$
+
+> [!hidden] 4.14 Spicy Gjør om til brøk.
+> $0,222\ldots$
+> 
+
+> [!hidden] 4.14 Spicy Gjør om til brøk.
+> $0,333\ldots$
 
 > [!hidden] 4.14 Spicy Gjør om til desimaltall.
 > 1.  $\frac{6}{7}$
@@ -1397,16 +1546,44 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 3. $\frac{3}{14}$
 > 4. $\frac{1}{44}$ 
 
+> [!hidden] 4.14 Spicy Gjør om til desimaltall.
+> $\frac{5}{11}$
+
+> [!hidden] 4.14 Spicy Gjør om til desimaltall.
+> $\frac{3}{14}$
+
+> [!hidden] 4.14 Spicy Gjør om til desimaltall.
+> $\frac{1}{44}$ 
+
 > [!hidden] 4.15 Mild Alfa s. 143
-> 1. 1.77
-> 2. 1.78
-> 3. 1.79
-> 4.  1.80
-> 5.  1.81
-> 6.  1.82
-> 7.  1.83
-> 8.  1.84
-> 9.  1.85
+> Oppgave 1.77
+
+> [!hidden] 4.15 Mild Alfa s. 143
+> Oppgave 1.78.
+> 
+
+> [!hidden] 4.15 Mild Alfa s. 143
+> Oppgave 1.79.
+> 
+
+> [!hidden] 4.15 Mild Alfa s. 143
+> Oppgave 1.80.
+>
+
+> [!hidden] 4.15 Mild Alfa s. 143
+> Oppgave 1.81.
+
+> [!hidden] 4.15 Mild Alfa s. 143
+> Oppgave1.82.
+
+> [!hidden] 4.15 Mild Alfa s. 143
+> Oppgave 1.83.
+
+> [!hidden] 4.15 Mild Alfa s. 143
+> Oppgave 1.84.
+
+> [!hidden] 4.15 Mild Alfa s. 143
+> Oppgave 1.85.
 
 > [!hidden] 4.15 Mild Alfa s. 144
 > 1. 1.87
@@ -1415,8 +1592,10 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 4. 1.90
 
 > [!hidden] 4.15 Medium Alfa s. 143--144:
-> 1. 1.77
-> 2. 1.91
+> Oppgave 1.77.
+
+> [!hidden] 4.15 Medium Alfa s. 143--144:
+> Oppgave 1.91.
 
 > [!hidden] 4.15 Medium Velg egne tall. Finn, ved hjelp av flere strategier, og begrunn dem i hvert tilfelle
 > 1. en prosentdel av et tall (hva er $x$ prosent av $y$?)
@@ -1448,14 +1627,32 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 >  $\frac{4}{5}$. 
 >  Vis at trikset alltid funker. (Hint: Det kan lønne seg å bruke at dersom $\frac{2}{3} < \frac{4}{5}$, så er $2 \cdot 5 < 3 \cdot 4$.)
 > [!hidden] 4.17 Mild Regn ut.
-> 1. $12 - ( - 3)$
-> 2. $- 12 + ( - 3)$
-> 3.  $- ( - 12 + ( - 3))$
-> 4. $1 - ( - 12 + ( - 3))$
-> 5. $(5 - 7) - ( - 3 + 2)$
-> 6. $- 20 - ( - 13)$
-> 7. $- \left( ( - 23) - ( - 3) \right) - (( - 81) - ( - 19))$
-> 8. $\left( ( - 23) - 3 \right) - (( - 81) + ( - 19))$
+> $12 - ( - 3)$
+
+> [!hidden] 4.17 Mild Regn ut.
+> $- 12 + ( - 3)$
+
+> [!hidden] 4.17 Mild Regn ut.
+> $- ( - 12 + ( - 3))$
+>
+
+> [!hidden] 4.17 Mild Regn ut.
+> $1 - ( - 12 + ( - 3))$
+> 
+
+> [!hidden] 4.17 Mild Regn ut.
+>  $(5 - 7) - ( - 3 + 2)$
+
+> [!hidden] 4.17 Mild Regn ut.
+>  $- 20 - ( - 13)$
+>
+
+> [!hidden] 4.17 Mild Regn ut.
+>  $- \left( ( - 23) - ( - 3) \right) - (( - 81) - ( - 19))$
+>
+
+> [!hidden] 4.17 Mild Regn ut.
+> $\left( ( - 23) - 3 \right) - (( - 81) + ( - 19))$
 
 > [!hidden] 4.17 Medium 1
 > Lag regnetabeller som med utgangspunkt i de naturlige tallene, viser hvordan addisjon og subtraksjon må oppføre seg for å gi en meningsfull utvidelse til negative tall.
@@ -1467,12 +1664,25 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Illustrer forklaringa fra forrige oppgave på tallinjer.
 
 > [!hidden] 4.18 Mild Regn ut.
-> 1. $- 3 \cdot 5$
-> 2. $- 3 \cdot (5 - 1)$
-> 3. $- 3 \cdot \left( - (5 - 1) \right)$
-> 4.  $2 \cdot \frac{12 - 15}{- 2}$
-> 5. $- \frac{3}{2} \cdot \left( 5 - \frac{4}{- 9} \right)$
-> 6. $\left( ( - 18) \cdot ( - 2) \cdot \left( - \frac{1}{3} \right) \right)\ :( - 12)$
+> $- 3 \cdot 5$
+
+> [!hidden] 4.18 Mild Regn ut.
+> $- 3 \cdot (5 - 1)$
+> 
+
+> [!hidden] 4.18 Mild Regn ut.
+> $- 3 \cdot \left( - (5 - 1) \right)$
+> 
+
+> [!hidden] 4.18 Mild Regn ut.
+> $2 \cdot \frac{12 - 15}{- 2}$
+> 
+
+> [!hidden] 4.18 Mild Regn ut.
+> $- \frac{3}{2} \cdot \left( 5 - \frac{4}{- 9} \right)$
+
+> [!hidden] 4.18 Mild Regn ut.
+> $\left( ( - 18) \cdot ( - 2) \cdot \left( - \frac{1}{3} \right) \right)\ :( - 12)$
 
 > [!hidden] 4.18 Medium 1
 > Lag en multiplikasjonstabell for $0$--$10$. Utvid tabellen til
