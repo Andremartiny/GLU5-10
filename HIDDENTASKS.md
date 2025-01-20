@@ -41,6 +41,12 @@
 > [!hidden] 1.2 Spicy 5
 >  Et kvadrattall er et naturlig tall på formen $n^{2}$. Kan et kvadrattall være et primtall? Begrunn.
 
+> [!hidden] 1.2 Spicy Vurdering uke 2
+>  1, 4, 9, 16 og 25 er eksempler på *kvadrattall:* naturlige tall som kan skrives $n^2$. Vis algebraisk at ingen kvadrattall er på formen $4m+2$.
+
+> [!hidden] 1.2 Spicy Vurdering uke 3
+> Uten å regne det ut, hvordan kan vi vite hvor mange 0’ere, det vil være på slutten av produktet av tallene 1, 2, 3, 4, 5, 6, 7, 8, 9 og 10?
+
 > [!hidden] 1.3 Mild 1
 > Forklar hvordan et posisjonssystem er bygd opp. Gi eksempler med ulike baser.
 
@@ -107,6 +113,11 @@
 
 > [!hidden] 1.3 Medium 12
 
+> [!hidden] 1.3 Medium Vurdering uke 3
+> 1. Forklar kort hva et posisjonssystem er.
+> 2. Gjør om $139_{ti}$ til base syv.
+> 3. $333_{fire}$ til base seks uten å regne ut i base ti først.
+
 > [!hidden] 1.3 Spicy 1
 > Forklar hvordan et posisjonssystem er bygd opp. Gi eksempler med ulike baser.
 
@@ -125,6 +136,11 @@
 
 > [!hidden] 1.3 Spicy 5
 > Gjør om $144_{ti}$ til base tolv
+
+> [!hidden] 1.3 Spicy Vurdering uke 3
+> 1. Forklar kort hva et posisjonssystem er.
+> 2. Gjør om $139_{ti}$ til base syv.
+> 3. $333_{fire}$ til base seks uten å regne ut i base ti først.
 
 > [!hidden] 1.4 Mild Oppgave
 > Gjengi delelighetskriteriene.
@@ -535,6 +551,9 @@
 > [!hidden] 3.1 Mild 5
 > Se også ligningsoppgaver i tidligere nasjonale deleksamener.
 
+> [!hidden] 3.1 Mild Vurdering uke 3
+> Løs likningen $\frac{3x-5}{2} = 17$. på to måter, formelt og uformelt.
+
 > [!hidden] 3.1 Medium 1
 >  Alfa s. 279
 >  1. 3.40 a)--d). Løs likningene på flere måter der det virker naturlig.
@@ -563,11 +582,17 @@
 > [!hidden] 3.1 Medium 6
 > Se også ligningsoppgaver i tidligere nasjonale deleksamener.
 
+> [!hidden] 3.1 Medium Vurdering uke 3
+> Løs likningen $\frac{3x-5}{2} = 17$. på to måter, formelt og uformelt.
+
 > [!hidden] 3.2 Mild 1
 > Alfa s. 282
 > 1. 3.68
 > 2. 3.69
 > 3. 3.70 a)--f)
+
+> [!hidden] 3.2 Mild Vurdering uke 3
+> Løs ulikheten $2(5+x) \leq 6$.
 
 > [!hidden] 3.2 Medium 1
 > Alfa s. 282
@@ -577,6 +602,10 @@
 
 > [!hidden] 3.2 Medium 2
 > Henrik skal klatre og må låne klatreutstyr. Han har 500 kroner og utstyret koster 100kr i tillegg til 50 kr timen. Når Henrik er ferdig har han fortsatt penger igjen. Sett opp og løs en ulikhet som viser hvor lenge Henrik kan ha klatret?
+
+> [!hidden] 3.2 Medium Vurdering uke 3
+> Løs ulikheten $2(5+x) \leq 6$.
+
 > [!hidden] 3.3 Mild 1
 > Alfa s. 281 - 3.60. Løs på så mange måter du greier.1. 
 
@@ -586,6 +615,17 @@
 > [!hidden] 3.3 Mild 3
 > Hvis du betaler 125 kroner med til sammen 13 fem- og tyvekroninger, hvor mange av hver har du betalt med?
 
+> [!hidden] 3.3 Mild Vurdering uke 3
+> Under ser du to likninger med to ukjente.
+> 
+> $2(x - y) = y - 11$
+> 
+> $3(1 - x) + 2y = 2$.
+> 
+> Løs likningssettet ved hjelp av
+> 1. innsettingsmetoden og
+> 2. addisjonsmetoden.
+
 > [!hidden] 3.3 Medium 1
 > Alfa s. 281 - 3.60. Løs på så mange måter du greier.1. 
 
@@ -594,6 +634,17 @@
 
 > [!hidden] 3.3 Medium 3
 > Hvis du betaler 125 kroner med til sammen 13 fem- og tyvekroninger, hvor mange av hver har du betalt med?
+
+> [!hidden] 3.3 Medium Vurdering uke 3
+> Under ser du to likninger med to ukjente.
+> 
+> $2(x - y) = y - 11$
+> 
+> $3(1 - x) + 2y = 2$.
+> 
+> Løs likningssettet ved hjelp av
+> 1. innsettingsmetoden og
+> 2. addisjonsmetoden.
 
 > [!hidden] 3.4 Medium 1
 > Alfa s. 279 oppgave 3.40. Løs likningene på flere måter der det virker naturlig. Forklar og begrunn stegene i strategiene du bruker.
@@ -616,6 +667,10 @@
 > [!hidden] 3.4 Medium 7
 > Løs NOKUT-oppgaven under (V2023) <br> ![[Files/3.4NOKUTV2023.png]]
 
+> [!hidden] 3.4 Medium Vurdering uke 3
+> 1. En elev spør deg hva som egentlig foregår når vi "flytter og bytter" i likninger. Gi en kort og forståelig forklaring.
+> 2. Den samme eleven er fornøyd med forklaringa di, og hoster opp en ny didaktisk utfordring til deg: "Hvorfor snur vi ulikhetstegnet når vi multipliserer med et negativt tall?" Gi en kort og forståelig forklaring.
+
 > [!hidden] 3.4 Spicy 1
 > Alfa s. 279 oppgave 3.40. Løs likningene på flere måter der det virker naturlig. Forklar og begrunn stegene i strategiene du bruker.
 
@@ -636,6 +691,17 @@
 
 > [!hidden] 3.4 Spicy 12
 > V2020 <br>![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/likn/V2020%20(2).png)
+
+> [!hidden] 3.4 Spicy Vurdering uke 3 
+> En lærer ber elevene løse likningen
+> 
+> $$
+> \frac{6}{\frac{2x-1}{3}+1} = \frac{3}{4}.
+> $$
+> 
+> Læreren observerer at elevene bruker ulike strategier. Avgjør for hver av de tre stategiene i)-iii) nedenfor om den er riktig eller feil. Begrunn svaret ditt ved å beskrive hva eleven i hvert tilfelle gjør riktig eller feil.
+> 
+> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-03-24-15-05-43.png)
 
 > [!hidden] 3.5 Mild 1
 > Løs likningen:
@@ -1402,7 +1468,7 @@
 > 2. $9^{\frac{3}{n}} = 27$
 > 3. $n^{\frac{3}{2}} = 125$.
 
-> [!hidden] 5.1 Mild 
+> [!hidden] 5.1 Mild 1
 > På onsdager kjøper Henrik kaffe i kaffebaren på UiA. Han velger alltid mellom sort kaffe, kaffe latte, cappuccino og *flat white*. Han kan også velge mellom størrelsene liten, medium og stor. Hvor mange valgmuligheter har han?
 
 > [!hidden] 5.1 Mild 2
@@ -1414,15 +1480,20 @@
 > [!hidden] 5.1 Mild 4
 > André skal lage pizza med guttungen sin Philip. Først ber han Philip om å velge om de skal ha tynn eller tykk bunn. Deretter spør han Philip om de skal ta skinke eller peperoni på pizzaen. Til spør han Philip om de skal ha, mais, ananas, mais *og* ananas, eller ingenting mer på pizzaen. Hvor mange forskjellige pizzaer kan de lage?
 
+> [!hidden] 5.1 Mild Vurdering uke 3
+> Du skal reise til København med vennegjengen. Du skal ta buss til Oslo og deretter ta fly fra Oslo. Du kan velge mellom tre forskjellige busselskap og tre forskjellige flyselskap. Hvor mange forskjellige reisevalg har du?
+
 > [!hidden] 5.1 Medium 1
-> Forklar, ved hjelp av en illustrasjon, hvorfor følgende situasjon beskriver et sammensatt valg. *Henrik skal kjøpe mat og drikke i kantina. Han velger å kjøpe en suppemeny, der han kan velge mellom tre forskjellige typer supper og seks forskjellige typer drikke*.
-> 
+> På onsdager kjøper Henrik kaffe i kaffebaren på UiA. Han velger alltid mellom sort kaffe, kaffe latte, cappuccino og *flat white*. Han kan også velge mellom størrelsene liten, medium og stor. Hvor mange valgmuligheter har han?
 
 > [!hidden] 5.1 Medium 2
 > På torsdager klatrer André og Henrik. De drar enten på klatresenteret på odderøya eller på grim. Der kan de også velge å enten buldre, eller topptau eller klatre på led. Hvor mange muligheter har de å velge mellom?
 
 > [!hidden] 5.1 Medium 3
 > Når Henrik skal velge klær om morgenen følger han sin daglige rutine. Han legger frem seks forskjellige sorte bukser og seks forskjellige sorte t-skjorter. Deretter slår han en terning for å avgjøre hvilken bukse han skal bruke og så slår han terningen på nytt for å velge hvilken t-skjorte han skal bruke. Avgjør hvor mange forskjellige kombinasjoner av sorte bukser og sorte t-skjorter Henrik kan bruke. 
+
+> [!hidden] 5.1 Medium Vurdering uke 3
+> Du skal reise til København med vennegjengen. Du skal ta buss til Oslo og deretter ta fly fra Oslo. Du kan velge mellom tre forskjellige busselskap og tre forskjellige flyselskap. Hvor mange forskjellige reisevalg har du?
 
 > [!hidden] 5.2 Mild 1
 > Ved hjelp av et eksempel og en illustrasjon, forklar addisjonssetningen for mengder. 
@@ -1433,6 +1504,9 @@
 > 1. I en klasse er det 18 elever som har fransk og 22 elever som har tysk. Hvor mange elever er det som har begge deler dersom det er 32 stykker i klassen?
 > 2. I en klasse er det 22 elever som har fransk og 30 elever som har tysk. Hvor mange elever er det i klassen dersom det er 10 stykker som har begge deler?
 > 3. I en klasse er det 25 elever som har tysk og 6 elever som har både tysk og fransk. Hvor elever er det som har *kun* tysk, dersom det er 40 stykker i klassen?
+
+> [!hidden] 5.2 Mild Vurdering uke 3
+> Ved hjelp av et eksempel og en illustrasjon, forklar addisjonssetningen for mengder.
 
 > [!hidden] 5.2 Medium 1
 > Ved hjelp av et eksempel og en illustrasjon, forklar addisjonssetningen for mengder. 
@@ -1460,6 +1534,9 @@
 > Det er $30$ tall under $121$ som er delelig på 4 fordi ${121 \over 4} = 30+ \text{én i rest}$. <br>Hvor mange tall under 121 er delelig på enten 4, 11 eller 59? Besvarelsen må inneholde en illustrasjon som får fram hvordan du har løst problemet.
 > - Illustrer problemet i et Venn-diagram og bruk dette til å forklare addisjonssetningen.  
 
+> [!hidden] 5.2 Medium Vurdering uke 3
+> Ved hjelp av et eksempel og en illustrasjon, forklar addisjonssetningen for mengder.
+
 > [!hidden] 5.3 Mild Avgjør om situasjonene under kan tenkes som (u)ordnede utvalg m/u tilbakelegg
 > 1. Du skal velge ut en komité fra en 20 lærerstudenter. Komitéen skal bestå av 4 studenter.
 > 2. En klasse med 25 elever skal velge tillitsvalgt. De skal velge to tillitsvalgte. Første elev skal være hovedtillitsvalgt, neste skal være stedfortreder.
@@ -1470,6 +1547,13 @@
 > 7. Du skal trekke ut fire gutter fra en klasse på 16 gutter og 17 jenter. Hvor mange måter kan du gjøre det på?
 > 8. Syv studenter bor i et kollektiv sammen. Den første uke trakker de lodd om hvem som skal lage mat, gjøre rent fellesarealet og vaske badet. Ingen får mer enn én jobb. Hvor mange mulige utfall kan trekningen ha?
 
+> [!hidden] 5.3 Mild Vurdering uke 3
+> Avgjør om situasjonene under kan tenkes som ordnede eller uordnede utvalg og om utvalgene er med eller uten tilbakelegg:
+> 1. I bedriftsidrettslaget er det 20 medlemmer som spiller basket. På hvor mange måter kan det velges to personer som skal sitte i styret av basketballavdelingen?
+> 2. I en klasse på 18 elever skal det velges ut en elevrådsleder og en vara. På hvor mange måter kan det gjøres på?
+> 3. I en klasse er det 12 gutter og 10 jenter. På hvor mange måter kan man velge ut 4 gutter?
+> 4. En student ved lærerutdanninga har møtt opp på alle obligatoriske undervisninger. Nå gjenstår det fire obligatoriske seminarer, og studenten vil komme over fraværsgrensa på 70% selv om de ikke møter på noen av seminarene. Studenten har derfor konkludert med at de står fritt til å velge om de vil møte opp eller ikke for hver av de fire seminarene. På hvor mange utvalg av seminarer kan de velge å gå på?
+
 > [!hidden] 5.3 Medium 1
 > Løs oppgavene fra mild
 
@@ -1479,6 +1563,13 @@
 >  2. ordna utvalg uten tilbakelegg,
 >  3. uordna utvalg uten tilbakelegg,
 >  4. uordna utvalg med tilbakelegg.
+
+> [!hidden] 5.3 Medium Vurdering uke 3
+> Avgjør om situasjonene under kan tenkes som ordnede eller uordnede utvalg og om utvalgene er med eller uten tilbakelegg:
+> 1. I bedriftsidrettslaget er det 20 medlemmer som spiller basket. På hvor mange måter kan det velges to personer som skal sitte i styret av basketballavdelingen?
+> 2. I en klasse på 18 elever skal det velges ut en elevrådsleder og en vara. På hvor mange måter kan det gjøres på?
+> 3. I en klasse er det 12 gutter og 10 jenter. På hvor mange måter kan man velge ut 4 gutter?
+> 4. En student ved lærerutdanninga har møtt opp på alle obligatoriske undervisninger. Nå gjenstår det fire obligatoriske seminarer, og studenten vil komme over fraværsgrensa på 70% selv om de ikke møter på noen av seminarene. Studenten har derfor konkludert med at de står fritt til å velge om de vil møte opp eller ikke for hver av de fire seminarene. På hvor mange utvalg av seminarer kan de velge å gå på?
 
 > [!hidden] 5.4 Medium 1
 > Vi har et rutenett med $2 \times 5$ ruter. Vi skal først fargelegge fire ruter røde og så to gule.
@@ -1506,6 +1597,13 @@
 > 4. Du har to elever, Henrik og André, som har kommet i en stor krangel i friminuttet og du har bestemt og holde de unna hverandre i timen. Derfor må Henrik og André to ikke havne på samme gruppe. Hvis det er 12 elever i klassen. På hvor mange måter kan du dele inn i fire grupper på 3, slik at Henrik og André ikke havner på samme gruppe?
 > 5. Henrik og André blir venner igjen og håper at de kommer på gruppe sammen. I hvor mange av gruppesammensetningene av fire grupper på tre er André og Henrik på samme gruppe? 
 
+> [!hidden] 5.4 Medium Vurdering uke 3
+> Fem jenter er med i en kanonballturnering. Det er kun tre som skal spille hver omgang og de bestemmer seg for å trekke om hvem som skal spille neste omgang. De legger fem lapper i en hatt, der tre av hattene sier _Spille_. Deretter stiller de seg på rekke og trekker en etter en.
+> 1. Avgjør hvor mange ulike lagoppstillinger de kan ende opp med?
+> 2. Avgjør hvor mange av de ulike lagoppstillingene gir at førstemann i rekka får spille?
+> 3. Avgjør hvor mange utfall som gir at andremann får lov til å spille?
+> 4. Avgjør hvor mange utfall som gir at femtemann eller tredjemann får lov til å spille?
+
 > [!hidden] 5.4 Spicy 1
 > Vi har et rutenett med $2 \times 5$ ruter. Vi skal først fargelegge fire ruter røde og så to gule.
 > 1. Hvor mange måter kan vi gjøre det på?
@@ -1520,6 +1618,13 @@
 
 > [!hidden] 5.4 Spicy 3
 > En lærer skal velge ut tre par til en komite. Det skal være tre par, en gutt og en jente i hvert par. Hvert av parene får en unik oppgave de skal ha ansvar for. Hvor mange måter kan læreren velge ut komiteen når det er 12 gutter og 15 jenter i klassen?
+
+> [!hidden] 5.4 Spicy Vurdering uke 3
+> Fem jenter er med i en kanonballturnering. Det er kun tre som skal spille hver omgang og de bestemmer seg for å trekke om hvem som skal spille neste omgang. De legger fem lapper i en hatt, der tre av hattene sier _Spille_. Deretter stiller de seg på rekke og trekker en etter en.
+> 1. Avgjør hvor mange ulike lagoppstillinger de kan ende opp med?
+> 2. Avgjør hvor mange av de ulike lagoppstillingene gir at førstemann i rekka får spille?
+> 3. Avgjør hvor mange utfall som gir at andremann får lov til å spille?
+> 4. Avgjør hvor mange utfall som gir at femtemann eller tredjemann får lov til å spille?
 
 > [!hidden] 5.5 Mild 1
 >  Ved hjelp av et eksempel forklar begrepene utfallsrom, utfall og hendelse. 
@@ -1545,13 +1650,13 @@
 > [!hidden] 5.5 Medium 5
 > Du er på hytta og kaster fire femmere på første kast. Med to kast igjen bestemmer du deg for å gå for yatzy. Sett opp et utfallsrom som gir en uniform sannsynlighetsmodell og finn sannsynligheten for at du får yatzy ved hjelp av modellen.
 
-> [!hidden] 5.6. Mild 1
+> [!hidden] 5.6 Mild 1
 > Forklar, ved hjelp av en passende illustrasjon, addisjonssetningen for sannsynligheter.
 
-> [!hidden] 5.6. Medium 1
+> [!hidden] 5.6 Medium 1
 > Forklar, ved hjelp av en passende illustrasjon, addisjonssetningen for sannsynligheter.
 
-> [!hidden] 5.6. Medium 2
+> [!hidden] 5.6 Medium 2
 > Du skal trekke to kort fra en kortstokk.
 >    1. Hva er sannsynligheten for å trekke to hjerter, eller to bildekort? Lag en illustrasjon av problemet, som viser hvordan addisjonsprinsippet brukes.
 >    2. Hva er sannsynligheten for å trekke to hjerter, eller trekke en femmer og en sekser? Lag en illustrasjon av problemet, som viser hvordan addisjonsprinsippet brukes.
