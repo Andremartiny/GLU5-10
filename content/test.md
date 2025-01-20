@@ -47,6 +47,7 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 <script src="files\randomoppgave.js"></script>
 
 
+
 > [!hidden] 1.1 Mild 1
 > Forklar og gi eksempler på begrepene. Målet er å lage *korte og presise *forklaringer.
 
@@ -71,24 +72,21 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 >  Et kvadrattall er et naturlig tall på formen $n^{2}$. Kan et kvadrattall være et primtall? Begrunn.
 
 > [!hidden] 1.2 Spicy 1
-> Begrunn algebraisk og ved hjelp av figurer at
->     1. summen av to partall er et partall
->     2. summen av to oddetall er et partall
->     3. summen av et partall og et oddetall er et oddetall
+> Begrunn eller motbevis påstanden: *Seks er en faktor i ethvert produkt av tre påfølgende naturlige tall.*
 
 > [!hidden] 1.2 Spicy 2
-> Begrunn algebraisk og ved hjelp av figurer at
-> 1. produktet av to naturlige tall der minst ett er et partall, er et partall
-> 2. produktet av to oddetall er et oddetall
+> Primtallsfaktoriser $126$ og $210$. Bruk faktoriseringen til å finne tallenes minste felles multiplum ($\text{mfm}$) og største felles faktor ($\text{sff}$). Gi så et generisk eksempel som begrunner sammenhengen $ab = \text{sff}(a,b) \cdot \text{mfm}(a.b)$, altså at produktet av to tall svarer til produktet av deres $\text{sff}$ og $\text{mfm}$.
 
 > [!hidden] 1.2 Spicy 3
-> Begrunn at summen av et odde antall påfølgende naturlige tall er delelig med tallet tilsvarende antall ledd i summen. (Altså at summen av tre påfølgende er delelig med tre, summen av fem påfølgende delelig med fem og så videre.)
+>  $47$ og $74$ er begge tosifra tall laget av de samme sifrene, nemlig $4$ og $7$. Lag flere slike tosifra tall, og undersøk hva som skjer om man deler summen av tallene på summen av sifrene. Begrunn det du finner.
 
 > [!hidden] 1.2 Spicy 4
-> Gjelder det samme for summen av et *par* antall påfølgende naturlige tall? Begrunn.
+>  Inndelingen av naturlige tall i par og odde er en inndeling etter delelighet med $2$. Noen tall gir $0$ i rest (to er en faktor), de øvrige gir $1$ i rest. Med andre ord: Alle naturlige tall er enten på formen $2n$ eller $2n + 1$. 
+>  Vis at alle kvadrattall er på formen $4n^2$ eller $4n^2+1$.
+>  
 
 > [!hidden] 1.2 Spicy 5
->  Et kvadrattall er et naturlig tall på formen $n^{2}$. Kan et kvadrattall være et primtall? Begrunn.
+> Tilsvarende inndeling kan vi gjøre for delelighet med $3$. Noen gir $0$ i rest, noen $1$ og de øvrige $2$ i rest. Altså: De naturlige tallene er enten *i* tregangen, én mer enn et tall i tregangen, eller to mer enn et tall i tregangen. Vis at ingen kvadrattall (tall på formen $n^{2}$) er to mer enn et tall i tregangen.
 
 > [!hidden] 1.2 Spicy Vurdering uke 2
 >  1, 4, 9, 16 og 25 er eksempler på *kvadrattall:* naturlige tall som kan skrives $n^2$. Vis algebraisk at ingen kvadrattall er på formen $4m+2$.
@@ -119,20 +117,22 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 3. $93A_{elleve}$
 
 > [!hidden] 1.3 Medium 1
-> Forklar hvordan et posisjonssystem er bygd opp. Gi eksempler med ulike baser.
+>  Gjør om til base ti.
+>  
+>  $4321_{fem}$
 
 > [!hidden] 1.3 Medium 2
->  Hvilke siffer trengs i et posisjonssystem med base syv? Forklar.
+> Gjør om $224_{ti}$ til base tre
 
 > [!hidden] 1.3 Medium 3
-> Hvilke siffer treng i et posisjonssystem med base tolv? Forklar.
+> Gjør om til base to.
+> 
+> $17_{ti}$
 
 > [!hidden] 1.3 Medium 4
-> Skriv de første tjuefem tallene (eller mer) i base ...
-> 1. To
-> 2. Tre
-> 3. Fem
-> 4. Tolv
+> Gjør om til base ti.
+> 
+>  $666_{syv}$
 
 > [!hidden] 1.3 Medium 5
 > Gjør om $144_{ti}$ til base tolv
@@ -168,37 +168,42 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 3. $333_{fire}$ til base seks uten å regne ut i base ti først.
 
 > [!hidden] 1.3 Spicy 1
-> Forklar hvordan et posisjonssystem er bygd opp. Gi eksempler med ulike baser.
+> Gjør beregningene i den aktuelle basen (uten å oversette til base ti, altså)
+> 1. $123_{fem} + 321_{fem}$
+> 2. $321_{fire} - 123_{fire}$
+> 3. $32_{åtte} \cdot 24_{åtte}$
+> 4. $4A3_{tolv}\ :3_{tolv}$
+> 5. Lag egne regnestykker.
 
 > [!hidden] 1.3 Spicy 2
->  Hvilke siffer trengs i et posisjonssystem med base syv? Forklar.
+> Finn basen $b$ uten gjett og sjekk.
+> 1.  $143_{b} = 48_{ti}$
+> 2. $153_{b} = 69_{ti}$
+> 3. $313_{b} = 55_{ti}$
 
 > [!hidden] 1.3 Spicy 3
-> Hvilke siffer treng i et posisjonssystem med base tolv? Forklar.
+> Forklar hvordan man enkelt kan finne basen $b$ til tall på formen $121_{b}$ dersom man kjenner tallets verdi i base ti.
 
 > [!hidden] 1.3 Spicy 4
-> Skriv de første tjuefem tallene (eller mer) i base ...
-> 1. To
-> 2. Tre
-> 3. Fem
-> 4. Tolv
+> Finn sifrene $A$ og $B$ når $AB_{fem} = 17_{ti}$ og $AB_{syv} = 23_{ti}$.
 
 > [!hidden] 1.3 Spicy 5
-> Gjør om $144_{ti}$ til base tolv
+> Når vi uttrykker tall i titallsystemet er et tall delelig med to bare dersom siste siffer er delelig med to. Uttrykt i femtallsystemet, derimot, er et tall delelig med to bare dersom tverrsummen er delelig med to. Begrunn dette. Forsøk også å generalisere: I hvilke baser gjelder siste-siffer-regelen, og i hvilke gjelder tverrsum-regelen?
 
 > [!hidden] 1.3 Spicy Vurdering uke 3
-> 1. Forklar kort hva et posisjonssystem er.
-> 2. Gjør om $139_{ti}$ til base syv.
-> 3. $333_{fire}$ til base seks uten å regne ut i base ti først.
+> 1. Gjør om $455{seks}$ til base fem. Vis hvordan du går frem.
+> 2. Regn ut i den aktuelle basen:
+>     1. $12332_{åtte} + 5665_{åtte}$  
+>     2. $3132_{fire} : 12_{fire}$
 
 > [!hidden] 1.4 Mild Oppgave
 > Gjengi delelighetskriteriene.
 
 > [!hidden] 1.4 Medium Oppgave
-> Gjengi delelighetskriteriene.
+> Begrunn hvert av kriteriene algebraisk ved hjelp av generisk eksempel.
 
 > [!hidden] 1.4 Spicy Oppgave
-> Gjengi delelighetskriteriene.
+> Begrunn hvert av kriteriene ved å uttrykke et generelt tall på utvida form.
 
 > [!hidden] 1.5 Mild 1
 > Finn summen av de naturlige tallene fra 1 til 9 ved hjelp av Gauss-trikset.
@@ -221,21 +226,39 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Finn summen av partallene fra 6 til 16.
 
 > [!hidden] 1.5 Medium 1
-> Finn summen av de naturlige tallene fra 1 til 9 ved hjelp av Gauss-trikset.
+> Utled det eksplisitte uttrykket for summen av de $n$ første naturlige tallene, det vil si trekanttall nummer $n,$ ved hjelp av Gauss-trikset
+> 1. ved hjelp av figur
+> 2. algebraisk
 
 > [!hidden] 1.5 Medium 2
->  Finn summen av de naturlige tallene fra 5 til 16.
+>  Undersøk summen av par av nabo-trekanttall (trekanttall (3 og 4) eller (6 og 7) er for eksempler på nabo-trekanttall).
+>  1. Beskriv en antakelse du får,
+>  2. begrunn den geometrisk
+>  3. og algebraisk
 
 > [!hidden] 1.5 Medium 3
->  Undersøk summen av par av nabo-trekanttall (trekanttall (3 og 4) eller (6 og 7) er for eksempler på nabo-trekanttall).
-> 1. Beskriv en antakelse du får,
-> 2. begrunn den geometrisk
+> Utled det eksplisitte uttrykket for summen av de $n$ første partallene, det vil si rektangeltall nummer $n,$ ved hjelp av Gauss-trikset
+> 1. ved hjelp av figur
+> 2. algebraisk
 
 > [!hidden] 1.5 Medium 4
-> Alle gjestene i et selskap skal håndhilse med hverandre. Hvordan avhenger antall håndtrykk av antall gjester?
+> Utled det eksplisitte uttrykket for summen av de $n$ første oddetallene, det vil si kvadrattall nummer $n,$ ved hjelp av Gauss-trikset
+> 1. ved hjelp av figur
+> 2. algebraisk
 
 > [!hidden] 1.5 Spicy 1
-> Finn summen av de naturlige tallene fra 1 til 9 ved hjelp av Gauss-trikset.
+> Utled det eksplisitte uttrykket for summen av de $n$ første femkanttallene, sekskanttallene, syvkanttallene...., det vil si k-kanttall nummer $n,$ ved hjelp av Gauss-trikset
+> 1. ved hjelp av figur
+> 2. algebraisk
+> 
+> Gjør så mange k-kanttall du trenger. Formålet skal være å forstå teknikken!
+> Legg merke til at:
+> 
+> 1. femkanttallene er følgen, $1, 5, 12, 22\ldots$
+> 2. sekskanttallene er følgen, $1, 6, 15, 28, \ldots$
+> 3. syvkanttallene er følgen, $1, 7, 18, 34,\ldots$
+> 4. $\vdots$
+> Se [følgene i tabellen på wikipedia](https://en.wikipedia.org/wiki/Polygonal_number#Table_of_values).
 
 > [!hidden] 1.6 Mild 1
 > Utled det eksplisitte uttrykket for rektangeltall $n$ ved hjelp av strategien *figurtall-som-sum.* Vis i en figur hvordan tilleggene danner et rektangel.
@@ -250,22 +273,28 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Finn summen av partallene fra 6 til 16.
 
 > [!hidden] 1.6 Medium 1
-> Utled det eksplisitte uttrykket for rektangeltall $n$ ved hjelp av strategien *figurtall-som-sum.* Vis i en figur hvordan tilleggene danner et rektangel.
+> Illustrer femkanttallene opp til $P_{4}$, og utled eksplisitt uttrykk for $P_{n}$ ved hjelp av strategien *figurtall-som-sum.*
 
 > [!hidden] 1.6 Medium 2
-> Utled det eksplisitte uttrykket for kvadrattall $n$ ved hjelp av strategien *figurtall-som-sum.* Vis i en figur hvordan tilleggene danner et kvadrat.
+> Illustrer sekskanttallene opp til $H_{4}$, og utled eksplisitt uttrykk for $H_{n}$ ved hjelp av strategien *figurtall-som-sum.*
 
 > [!hidden] 1.6 Medium 3
-> Finn summen av oddetallene fra 5 til 13.
+> Illustrer syvkanttallene opp til $S_{4}$, og utled eksplisitt uttrykk for $S_{n}$ ved hjelp av strategien *figurtall-som-sum.*
 
 > [!hidden] 1.6 Medium 4
-> Finn summen av partallene fra 6 til 16.
+> Undersøk tilleggene for polygontallene (trekant- kvadrat-, femkanttallene og så videre). Forsøk å generalisere mønsteret du finner.
+>     1. Argumenter for mønsteret ved å vise til figurene.
+>     2. Lag et algebraisk uttrykk som beskriver mønsteret tilleggene følger. (Hvis $n$ står for figurnummer, kan du for eksempel la $m$ stå for antall kanter i polygonen.)
 
 > [!hidden] 1.6 Spicy 1
-> Utled det eksplisitte uttrykket for rektangeltall $n$ ved hjelp av strategien *figurtall-som-sum.* Vis i en figur hvordan tilleggene danner et rektangel.
+> Under ser du figurtall én til fire. Finn eksplisitt sammenheng ved hjelp av strategien *figurtall-som-sum-knepet*.
+>  
+>  ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/tallteo/image1.png)
 
 > [!hidden] 1.6 Spicy 2
-> Utled det eksplisitte uttrykket for kvadrattall $n$ ved hjelp av strategien *figurtall-som-sum.* Vis i en figur hvordan tilleggene danner et kvadrat.
+> Under ser du figurtall én til fire. Finn eksplisitt sammenheng ved hjelp av strategien *figurtall-som-sum-knepet*.
+> 
+> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/tallteo/image2.png)
 
 > [!hidden] 1.7 Mild 1
 > Illustrer femkanttallene opp til $F_3$, og utled eksplisitt uttrykk for $F_n$ ved å bruke stirre-hardt-metoden.
@@ -280,16 +309,20 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Illustrer åttekanttallene opp til... og så videre, til du har kontroll på teknikken.
 
 > [!hidden] 1.7 Medium 1
-> Illustrer femkanttallene opp til $F_3$, og utled eksplisitt uttrykk for $F_n$ ved å bruke stirre-hardt-metoden.
+> Under ser du figurtall én til fire. Finn eksplisitt sammenheng ved å bruke stirre-hardt-metoden.
+> 
+> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/tallteo/image1.png)
 
 > [!hidden] 1.7 Medium 2
-> Illustrer sekskanttallene opp til $S_3$, og utled eksplisitt uttrykk for $S_n$ ved bruke stirre-hardt-metoden Merk at tallrekken som tilhører sekskanttallene er $1, 6, 15, 28,  \ldots$.
+>  Under ser du figurtall én til fire. Finn eksplisitt sammenheng ved å bruke stirre-hardt-metoden. <br> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/tallteo/image2.png)
 
 > [!hidden] 1.7 Medium 3
-> Illustrer syvkanttallene opp til $S_3$, og utled eksplisitt uttrykk for $S_n$ ved bruke stirre-hardt-metoden. Merk at tallrekken som tilhører syvkanttallene er $1, 7, 18, 34, \ldots$.
+>  Under ser du figurtall én til tre. Finn eksplisitt sammenheng ved å bruke stirre-hardt-metoden. <br> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/d17a5209d55077de9b3ff1db15f2e086d2936193/img/tallteo/fig25.drawio.svg)
+> 
+> 
 
 > [!hidden] 1.7 Medium 4
-> Illustrer åttekanttallene opp til... og så videre, til du har kontroll på teknikken.
+> Under ser du figurtall én til tre. Finn eksplisitt sammenheng ved å bruke stirre-hardt-metoden. <br> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/d17a5209d55077de9b3ff1db15f2e086d2936193/img/tallteo/figurtall18.drawio.svg)
 
 > [!hidden] 1.8 Mild 1 
 > Illustrer trekanttallene opp til $T_3$, og utled et rekursivt uttrykk for $T_n$. Pek også på den rekursive sammenhengen i figurene du har tegnet.
@@ -301,13 +334,13 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 >  Illustrer kvadrattallene opp til $K_3$, og utled et rekursivt uttrykk for $K_n$. Pek også på den rekursive sammenhengen i figurene du har tegnet.
 
 > [!hidden] 1.8 Medium 1 
-> Illustrer trekanttallene opp til $T_3$, og utled et rekursivt uttrykk for $T_n$. Pek også på den rekursive sammenhengen i figurene du har tegnet.
+> Illustrer femkanttallene opp til $F_3$, og utled et rekursivt uttrykk for $F_n$. Pek også på den rekursive sammenhengen i figurene du har tegnet.
 
 > [!hidden] 1.8 Medium 2
->  Illustrer rektangeltallene opp til $R_3$, og utled et rekursivt uttrykk for $R_n$. Pek også på den rekursive sammenhengen i figurene du har tegnet.
+> Illustrer sekskanttallene opp til $S_3$, og utled et rekursivt uttrykk for $S_n$. Merk at tallrekken som tilhører sekskanttallene er $1, 6, 15, 28,  \ldots$. Pek også på den rekursive sammenhengen i figurene du har tegnet.
 
 > [!hidden] 1.8 Medium 3
->  Illustrer kvadrattallene opp til $K_3$, og utled et rekursivt uttrykk for $K_n$. Pek også på den rekursive sammenhengen i figurene du har tegnet.
+> Illustrer syvkanttallene opp til $S_3$, og utled et rekursivt uttrykk for $S_n$. Merk at tallrekken som tilhører syvkanttallene er $1, 7, 18, 34, \ldots$. Pek også på den rekursive sammenhengen i figurene du har tegnet.
 
 > [!hidden] 1.8 Medium 4
 > Illustrer åttekanttallene opp til... og så videre, til du har kontroll på teknikken.
@@ -317,7 +350,9 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/tallteo/image1.png)
 
 > [!hidden] 1.8 Spicy 2
->  Illustrer rektangeltallene opp til $R_3$, og utled et rekursivt uttrykk for $R_n$. Pek også på den rekursive sammenhengen i figurene du har tegnet.
+> Under ser du figurtall én til fire. Beskriv et rekursivt uttrykk som beskriver mønsteret figurene følger. Det må komme tydelig frem hvordan det rekursive uttrykket henger sammen med figurene.
+> 
+> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/tallteo/image2.png)
 
 > [!hidden] 1.9 Medium 1
 > Finn rekursivt uttrykk for trekanttallene $T_n$, der $T_1 =1$, $T_2 = 3$ og $T_3 = 6$ ved hjelp av strategien differanse mellom eksplisitte uttrykk. Merk: Det eksplisitte uttrykket for trekanttallene er $T_n = \frac{{n(n+1)}}{2}$.
@@ -329,13 +364,13 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Finn rekursivt uttrykk for rektangeltallene $R_n$, der $R_1 =2$, $R_2 = 6$ og $R_3 = 12$ ved hjelp av strategien differanse mellom eksplisitte uttrykk. Merk: Det eksplisitte uttrykket for rektangeltallene er $R_n = n(n+1)$.
 
 > [!hidden] 1.9 Spicy 1
-> Finn rekursivt uttrykk for trekanttallene $T_n$, der $T_1 =1$, $T_2 = 3$ og $T_3 = 6$ ved hjelp av strategien differanse mellom eksplisitte uttrykk. Merk: Det eksplisitte uttrykket for trekanttallene er $T_n = \frac{{n(n+1)}}{2}$.
+> Finn rekursivt uttrykk for sekskanttallene $H_n$, der $H_1 =1$, $H_2 = 6$ og $H_3 = 15$ ved hjelp av strategien differanse mellom eksplisitte uttrykk. Merk: Det eksplisitte uttrykket for sekskanttallene er $H_n = {n(2n-1)}$.
 
 > [!hidden] 1.9 Spicy 2
-> Finn rekursivt uttrykk for kvadrattallene $K_n$, der $K_1 =1$, $K_2 = 4$ og $K_3 = 9$ ved hjelp av strategien differanse mellom eksplisitte uttrykk. Merk: Det eksplisitte uttrykket for kvadrattallene er $K_n = n^2$
+> Illustrer femkanttallene opp til $F_3$, og utled rekursivt uttrykk for $F_n$ ved hjelp av strategien differanse mellom eksplisitte uttrykk. Merk at tallrekken som tilhører femkanttallene er $1, 5, 12, 22, \ldots$ og at det eksplisitte uttrykket for sekskanttallene er $F_n = \frac{{3n^2-n}}{2}$.
 
 > [!hidden] 1.9 Spicy 3
-> Finn rekursivt uttrykk for rektangeltallene $R_n$, der $R_1 =2$, $R_2 = 6$ og $R_3 = 12$ ved hjelp av strategien differanse mellom eksplisitte uttrykk. Merk: Det eksplisitte uttrykket for rektangeltallene er $R_n = n(n+1)$.
+>  Illustrer syvkanttallene opp til $S_3$, og utled rekursivt uttrykk for $S_n$ ved hjelp av strategien differanse mellom eksplisitte uttrykk. Merk at tallrekken som tilhører syvkanttallene er $1, 7, 18, 34, \ldots$. og at det eksplisitte uttrykket for sekskanttallene er $S_n = \frac{{5n^2-3n}}{2}$.
 
 > [!hidden] 1.10 Mild 1
 >  Se på figurtallene under.
@@ -369,15 +404,16 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 2. Hvilke uttrykk stemmer? Argumenter ved hjelp av figuren og ved å omforme uttrykkene. <br>![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-04-03-20-19-18.png) <br> i. $3(n - 1) + 3$ <br> ii. $(n - 1) + n + (n + 1)$<br> iii. $3n$<br> iv. $\frac{(n + 1)(n + 2)}{2} - \frac{(n - 2)(n - 1)}{2}$ <br> v. $3(n + 1) - 3$
 
 > [!hidden] 1.10 Spicy 1
-> Dekomponer figuren på minst tre måter. Illustrer dekomponeringene i figurene, og beskriv dem algebraisk slik at det er en tydelig sammenheng mellom illustrasjon og uttrykk.
-> 
-> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/tallteo/image2.png)
-> 
+> La $H_{n} = 2 \cdot T_{n + 1} - K_{n - 1}$.
+>     1. Illustrer $H_{1}$ til $H_{4}$ ved hjelp av trekant- og kvadrattall.
+>     2. Finn eksplisitt uttrykk for $H_{n}$ ved å betrakte geometrisk.
+>     3. Bekreft uttrykket du fant i b. ved å regne ut $2 \cdot T_{n + 1} - K_{n - 1}$.
+>     4. Bruk uttrykket fra 2. og 3. til å lage et nytt figurmønster som matcher formen på uttrykket (stirre-hardt-metoden bare baklengs, altså).
 
 > [!hidden] 1.10 Spicy 2
-> Under ser du trekantramme nummer fire, samt fem forslag til eksplisitt uttrykk for trekantramme nummer $n$. 
-> 1. Hvordan ser de foregående rammene ut? 
-> 2. Hvilke uttrykk stemmer? Argumenter ved hjelp av figuren og ved å omforme uttrykkene. <br>![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-04-03-20-19-18.png) <br> i. $3(n - 1) + 3$ <br> ii. $(n - 1) + n + (n + 1)$<br> iii. $3n$<br> iv. $\frac{(n + 1)(n + 2)}{2} - \frac{(n - 2)(n - 1)}{2}$ <br> v. $3(n + 1) - 3$
+>  En figurtallfølge er gitt ved den rekursive sammenhengen $F_{n} = F_{n - 1} + 2n + 1$, der $F_{1} = 2$.
+>      1. Illustrer figur 1-4 slik at det går tydelig frem hvordan figuren vokser.
+>      2. Finn eksplisitt uttrykk.
 
 > [!hidden] 1.10 Spicy 3
 >  Den $n$-te figuren i et figurtallmønster har eksplisitt uttrykk $G_{n} = 2n^{2} - (n - 1)^{2} + \frac{n(n + 1)}{2}$.
@@ -388,8 +424,7 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Lag figurtall og finn rekursivt uttrykk til følgende eksplisitte sammenheng: $n^{2} + 3n + 1$. Tips: Forsøk å omforme uttrykket slik at du finner uttrykk du kjenner fra før, sånn som trekanttall, kvadrattall eller kvadratsetninga. Hvor mange figurtall klarer du å lage?
 
 > [!hidden] 1.10 Spicy 5
-> Du får vite at et figurtall $F_n$ øker på følgende måte. $F_1 = 2$, $F_2 = 7$, $F_3 = 14$, $F_4 = 23$ og $F_5 = 34$. Lag en figur som følger mønsteret til $F_n$. Begrunn sammenhengen mellom figuren og tallfølgen.
-> [!hidden] 2.1 Medium  Alfa s. 346–347.
+> Du får vite at et figurtall $F_n$ øker på følgende måte. $F_1 = 2$, $F_2 = 7$, $F_3 = 14$, $F_4 = 23$ og $F_5 = 34$. Lag en figur som følger mønsteret til $F_n$. Begrunn sammenhengen mellom figuren og tallfølgen.> [!hidden] 2.1 Medium  Alfa s. 346–347.
 > 1. 4.9
 > 2. 4.12
 > 3. 4.13
@@ -408,7 +443,6 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 >     3. 4.15
 >     4. 4.17
 >     5. **Bonus** (ut over læringsmålet): 4.18 og 4.19
-
 > [!hidden] 2.3 Medium 1
 > La en andregradsfunksjon ha formen $f(x)=ax^2+c$. Forklar og vis i et koordinatsystem hva som skjer når
 >    a. parameten $a$ endres
@@ -416,10 +450,8 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 
 > [!hidden] 2.3 Medium 2
 > Vi kan tenke på en kvadratisk funksjon $ax^2+bx+c$ som en lineær funksjon $bx+c$ som er gitt et kvadratisk tillegg $ax^2$. Skisser en graf, og forklar hvorfor det kvadratiske uttrykket gir en buet graf. 
-
 > [!hidden] 2.4 Medium 1
-> En omvendt proporsjonal funksjon er en funksjon på formen $f(x) = {a\over x}$. Forklar og skisser hvordan grafen til $f(x) = {100\over x}$ oppfører seg. Bruk skissen til å forklare hvordan endringer i parameteren \(a\) påvirker grafens utseende, også når $a<0$.
-> [!hidden] 2.5 Medium 1
+> En omvendt proporsjonal funksjon er en funksjon på formen $f(x) = {a\over x}$. Forklar og skisser hvordan grafen til $f(x) = {100\over x}$ oppfører seg. Bruk skissen til å forklare hvordan endringer i parameteren \(a\) påvirker grafens utseende, også når $a<0$.> [!hidden] 2.5 Medium 1
 > Gitt $4x - 7 = - 5x + 3$.
 > 1. Løs likningen.
 > 2. Forklar hva det vil si at tallet du fant er løsning av likningen.
@@ -453,22 +485,19 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Lag tekstoppgaver/finn passende kontekster til likningene. Tolk og vis i koordinatsystem.<br>a. $170x + 900 = 230x + 200$<br>b. $3 - \frac{1}{2}t = 1$
 
 > [!hidden] 2.5 Spicy 1
-> Gitt $4x - 7 = - 5x + 3$.
-> 1. Løs likningen.
-> 2. Forklar hva det vil si at tallet du fant er løsning av likningen.
-> 3. Tolk VS og HS som funksjonsuttrykk, og skisser grafene.
-> 4. Forklar sammenhengen mellom 2. og 3.
+> La $f(x) = \frac{12}{x}$ og $g(x) = 3x - \frac{1}{2}$.<br>
+> 1. Skisser grafene.<br>
+> 2. Finn eventuelle skjæringspunkt ved regning.
 
 > [!hidden] 2.5 Spicy 2
->  Gitt $3(x - 7) = - \frac{1}{2}x + 3$.
->  1. Løs likningen.
->  2. Forklar hva det vil si at tallet du fant er løsning av likningen.
->  3.  Tolk VS og HS som funksjonsuttrykk, og skisser grafene.
->  4.  Forklar sammenhengen mellom 2. og 3.
+>  La $f(x) = - 6x + b$ og $g(x) = x^{2} - 4x$.<br>
+>  1.  Bestem $b$ slik at $f$ og $g$ skjærer hverandre i $x = 1$ og $x = - 3$.<br>
+>  2. Skisser grafene.
 
 > [!hidden] 2.5 Spicy 3
-> Forklar ved hjelp av et eget eksempel, hva som menes med løsningen av en lineær likning. Forklar både algebraisk og grafisk, og pek på sammenhengen mellom dem.
-
+> En fjernstyrt bli som kjører 12 m/s bruker 3/2 sekunder på å nå topphastigheten. Frem til det er strekningen den tilbakelegger gitt ved $s(t) = 4t^{2}$, der $t$ er tiden målt i sekunder. Fra og med 3/2 sek., holder bilen 12 m/s.<br>
+> 1. Skisser situasjonen i et koordinatsystem.<br>
+> 2. Finn funksjonsuttrykket som beskriver tilbakelagt strekning fra og med 3/2 sek.
 > [!hidden] 2.6 Mild 1
 > Ta utgangspunkt i en funksjonssammenheng (velg selv), og bruk den til å forklare begrepene.
 
@@ -476,7 +505,9 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Sammenhengen mellom sidelengden og arealet av et kvadrat er en funksjonssammenheng. Bruk eksemplet til å forklare begrepene.
 
 > [!hidden] 2.6 Medium 1
-> Ta utgangspunkt i en funksjonssammenheng (velg selv), og bruk den til å forklare begrepene.
+> Sammenhengen mellom sidelengden og arealet av et kvadrat er en funksjonssammenheng.<br>
+> 1. Bruk eksemplet til å forklare begrepene.<br>
+> 2. Arealfunksjonen er her uttrykt som en situasjonsbeskrivelse.<br> Uttrykk den også som tabell, funksjonsuttrykk og graf.
 
 > [!hidden] 2.6 Medium 2
 > Sammenhengen mellom grader målt i Fahrenheit og grader målt i Celsius er en funksjonssammenheng.<br>
@@ -496,7 +527,6 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 
 > [!hidden] 2.6 Medium 4
 > Oppgavene 4.1--4.5, s. 335 i Alfa er også ok oppgaver av typen «er y funksjon av x i *dette* tilfellet?»
-
 > [!hidden] 2.7 Medium 1
 > Alfa s. 335--336: oppgavene 4.6--4.8
 
@@ -540,7 +570,10 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Gi et eksempel på en omvendt proporsjonal funksjon, og forklart kort, med utgangspunkt i eksemplet ditt, hva som kjennetegner en omvendt proporsjonal funksjon.
 
 > [!hidden] 2.8 Medium 1
-> Gi et eksempel på en lineær funksjon, og forklart kort, med utgangspunkt i eksemplet ditt, hva som kjennetegner en lineær funksjon.
+> Avgjør og begrunn hva slags funksjon det er snakk om i hvert tilfelle. Begrunnelsen må vise til både en graf og et funksjonsuttrykk.<br>
+> 1.  Sammenhengen mellom sidene i et rektangel med fast areal.<br>
+> 2. Sammenhengen radius og areal i en sirkel.<br>
+> 3. Sammenhengen mellom tid og avstand hjemmefra for en person som holder jevn fart.
 
 > [!hidden] 2.8 Spicy 1Lineære funksjoner.
 > 
@@ -604,35 +637,39 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Løs likningen $\frac{3x-5}{2} = 17$. på to måter, formelt og uformelt.
 
 > [!hidden] 3.1 Medium 1
->  Alfa s. 279
->  1. 3.40 a)--d). Løs likningene på flere måter der det virker naturlig.
->  2. 3.46 Løs likningene på flere måter der det virker naturlig, ikke bare slik boka spør etter.
->  3. 3.47 Løs likningene på flere måter der det virker naturlig, ikke bare slik boka spør etter.
+> Alfa s. 279
+> 1.  3.40 e)--f). Løs likningene på flere måter der det virker naturlig.
+> 2. 3.48 a)
 
 > [!hidden] 3.1 Medium 2
-> Løs likningen på tre måter: ved hjelp av strategiene _holde over_ og _arbeide baklengs,_ og på «vanlig» måte.
-> $$
-> \frac{3x + 5}{7} = 2
-> $$
+> Løs likningene.
+> 1. $\frac{4(x - 1)}{3} - 2x = \frac{3x}{5}$
+> 2. $\frac{5}{2}(2x + 1) = \frac{x - 1}{3} + 7$
 
 > [!hidden] 3.1 Medium 3
-> Arne og Berit har $45$ klinkekuler til sammen. Berit har tre flere enn Arne. Hvor mange klinkekuler har hver av dem?
-> 1.  Løs ved hjelp av en illustrasjon.
-> 2. Løs ved hjelp av en likning.
+> Løs likningen på tre måter: ved hjelp av strategiene _holde over_ og _arbeide baklengs,_ og på «vanlig» måte.
+> $$
+> \frac{20}{\left( \frac{4x - 2}{3} \right) - 2} = 5
+> $$
 
 > [!hidden] 3.1 Medium 4
-> Arne og Berits samlede alder er $18$. For tre år siden var Berit dobbelt så gammel som Arne. Hvor gamle er hver av dem?
-> 1. Løs ved hjelp av en illustrasjon.
-> 2. Løs ved hjelp av en likning.
+> På et klassetrinn er det $70$ elever. Alle deltar i en idrett. Antallet elever på håndball er tre mer enn det dobbelte av antallet på fotball. De som spiller basket, er tre færre enn halvparten av dem som spiller fotball. Ingen elever deltar på mer enn én idrett.
+> 1. Finn ut hvor mange som spiller hva ved hjelp av en illustrasjon.
+> 2. Sett opp og løs en likning som passer situasjonen. Vis tydelig hvordan likningen samsvarer med situasjonen.
 
 > [!hidden] 3.1 Medium 5
-> Se også ligningsoppgaver i tidligere nasjonale deleksamener.
+> Blant 163 spurte mennesker, svarte alle at de spiser enten taco, nudler eller foie gras på fredager. Det er 35 flere som spiser taco enn nudler, og antallet som spiser foie gras er det tredobbelte av én mer enn antallet som spiser nudler.
+> 1.  Fullfør og bruk illustrasjonen under til å finne ut hvor mange som spiser hva.
+> 2. Sett opp og løs likningen situasjonen svarer til.
+> 
+> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-03-24-15-14-26.png)
 
 > [!hidden] 3.1 Medium 6
 > Se også ligningsoppgaver i tidligere nasjonale deleksamener.
 
 > [!hidden] 3.1 Medium Vurdering uke 3
-> Løs likningen $\frac{3x-5}{2} = 17$. på to måter, formelt og uformelt.
+> 1. Løs likningen $\displaystyle\frac{14}{3-\frac{4x-1}{3}}= 7$ på en uformell måte. Løs likningen deretter formelt.
+> 2. På en skole kan elevene velge én idrett. Det er 26 flere i svømming enn i turn, og det er dobbelt så mange i klatring som i svømming. I alt er det 370 elever på skolen. Hvor mange er det elever er det på de tre idrettsgrenene? Løs problemet på to måter.
 
 > [!hidden] 3.2 Mild 1
 > Alfa s. 282
@@ -653,7 +690,8 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Henrik skal klatre og må låne klatreutstyr. Han har 500 kroner og utstyret koster 100kr i tillegg til 50 kr timen. Når Henrik er ferdig har han fortsatt penger igjen. Sett opp og løs en ulikhet som viser hvor lenge Henrik kan ha klatret?
 
 > [!hidden] 3.2 Medium Vurdering uke 3
-> Løs ulikheten $2(5+x) \leq 6$.
+> 1. Løs ulikheten $\displaystyle \frac{{-x+1}}{2} \leq \frac{{x+11}}{11}$.
+> 2. Henrik plukker ofte jordbær som sommerjobb. Han får muligheten til å velge mellom 5 kroner per kurv han plukker pluss et grunnhonorar på 100 kroner dagen, eller 3 kroner per kurv og 150 kroner ekstra per dag. Henrik lurer på hvor mange kurver han må plukke om dagen for at det skal lønne seg å velge alternativet som gir 5 kroner per kurv. Sett opp en ulikhet som samsvarer med situasjonen og løs ulikheten for å hjelpe Henrik.
 
 > [!hidden] 3.3 Mild 1
 > Alfa s. 281 - 3.60. Løs på så mange måter du greier.1. 
@@ -676,24 +714,20 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 2. addisjonsmetoden.
 
 > [!hidden] 3.3 Medium 1
-> Alfa s. 281 - 3.60. Løs på så mange måter du greier.1. 
+> Alfa s. 281. Løs på så mange måter du greier.
+> 1. 3.60
+> 2. 3.63
+> 3. 3.64
 
 > [!hidden] 3.3 Medium 2
-> For 17 flasker får du 43 kroner i pant. Noen av flaskene gir 2 og noen 3 kroner i pant. Hvor mange av hver type pantet du?
+> Gjør NOKUT-oppgaven under (V2023): <br>
 
 > [!hidden] 3.3 Medium 3
-> Hvis du betaler 125 kroner med til sammen 13 fem- og tyvekroninger, hvor mange av hver har du betalt med?
+>  Gjør NOKUT-oppgaven under (H2022): 
 
 > [!hidden] 3.3 Medium Vurdering uke 3
-> Under ser du to likninger med to ukjente.
-> 
-> $2(x - y) = y - 11$
-> 
-> $3(1 - x) + 2y = 2$.
-> 
-> Løs likningssettet ved hjelp av
-> 1. innsettingsmetoden og
-> 2. addisjonsmetoden.
+> 1. To tall har følgende to egenskaper: Egenskap 1: Divisjon av det største tallet med det andre gir $1$ og $1$ i rest. Egenskap 2: Tar du differansen mellom tallene og deretter deler differansen på 3 får du 3 mindre enn en tredjedel av det største tallet. Avgjør ved hjelp av en formell strategi hvilke to tall det er snakk om.
+> 2. André panter $30$ flasker, og får $72$ kroner. Noen flasker gir to og resten tre kroner i pant. Uten bruk av likninger eller gjett og sjekk, avgjør hvor mange flasker André pantet av hver type.
 
 > [!hidden] 3.4 Medium 1
 > Alfa s. 279 oppgave 3.40. Løs likningene på flere måter der det virker naturlig. Forklar og begrunn stegene i strategiene du bruker.
@@ -721,19 +755,19 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 2. Den samme eleven er fornøyd med forklaringa di, og hoster opp en ny didaktisk utfordring til deg: "Hvorfor snur vi ulikhetstegnet når vi multipliserer med et negativt tall?" Gi en kort og forståelig forklaring.
 
 > [!hidden] 3.4 Spicy 1
-> Alfa s. 279 oppgave 3.40. Løs likningene på flere måter der det virker naturlig. Forklar og begrunn stegene i strategiene du bruker.
+> H2023 <br>![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/likn/elevsvar1.png)
 
 > [!hidden] 3.4 Spicy 2
-> Alfa s. 279 oppgave 3.46. Løs likningene på flere måter der det virker naturlig, ikke bare slik boka spør etter. Forklar og begrunn stegene i strategiene du bruker.
+> H2023 <br>![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/likn/elevsvar2.png)
 
 > [!hidden] 3.4 Spicy 5
-> Alfa s. 282 oppgave 3.69. Undersøk og begrunn, gjerne på flere måter hvis mulig.
+> V2022 <br>![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/likn/elevsvar5.png)
 
 > [!hidden] 3.4 Spicy 6
 > H2021 <br>![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/likn/elevsvar7.png)
 
 > [!hidden] 3.4 Spicy 7
-> Løs NOKUT-oppgaven under (V2023) <br> ![[Files/3.4NOKUTV2023.png]]
+> V2021 <br>![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/likn/elevsvar8.png)
 
 > [!hidden] 3.4 Spicy 9
 > H2019, kun f og g <br>![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/likn/elevsvar10.png)
@@ -785,59 +819,58 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > En svært nyttig øvelse: Lag likninger til hverandre. Likningene må lages slik at du selv hvordan de kan løses og hva løsningene er.
 
 > [!hidden] 3.5 Medium 1
-> Løs likningen:
-> $x^{2} + 2x = 15$
+> Løs likningene:
+> 
+> $\frac{10}{3} - x = x^{2}$
 
 > [!hidden] 3.5 Medium 2
-> Løs likningen:
+> Løs likningene:
 > 
-> $x^{2} + 12x = 64$
+> $4x^{2} + 20x = 144$
 
 > [!hidden] 3.5 Medium 3
-> Løs likningen:
+> Løs likningene:
 > 
-> $x^{2} + 12x = - 27$
+> $3x^{2} - 2x = 1$
 
 > [!hidden] 3.5 Medium 5
-> Løs likningen:
+> Løs likningene:
 > 
-> $x^{2} + 8x = 105$
+> $x^{2} + 5x = 14$
 
 > [!hidden] 3.5 Medium 6
-> Løs likningen:
+> Løs likningene:
 > 
-> $x^{2} - 14x = - 48$
+> $x^{2} - 5x = 14$
 
 > [!hidden] 3.5 Medium 7
 > En svært nyttig øvelse: Lag likninger til hverandre. Likningene må lages slik at du selv hvordan de kan løses og hva løsningene er.
 
 > [!hidden] 3.5 Spicy 1
-> Løs likningen:
-> $x^{2} + 2x = 15$
+> Løs likningene:
+> 
+> $x^{2} - 6x = 5$
 
 > [!hidden] 3.5 Spicy 2
-> Løs likningen:
+> Løs likningene:
 > 
-> $x^{2} + 12x = 64$
+> $x^{2} + 5x = 2$
 
 > [!hidden] 3.5 Spicy 3
-> Løs likningen:
+> Løs likningene:
 > 
-> $x^{2} + 12x = - 27$
+> $x^{2} + \sqrt{2}x = 4$
 
 > [!hidden] 3.5 Spicy 4
-> Løs likningen:
+> Løs likningene:
 > 
-> $2x^{2} + 20x = 48$
+>  $1 + x = x^{2}$
 
 > [!hidden] 3.5 Spicy 5
-> Løs likningen:
-> 
-> $x^{2} + 8x = 105$
+> En svært nyttig øvelse: Lag likninger til hverandre. Likningene må lages slik at du selv hvordan de kan løses og hva løsningene er.
 
 > [!hidden] 3.5 Spicy  **Bonus** (ikke aktuell til vurdering)**:** 
 > Enhver andregradslikning kan skrives $ax^{2} + bx + c = 0$, dersom man rydder og samler alle ledd på venstre side. Bruk fullstendige kvadraters metode på den generelle likninga til å utlede andregradsformelen, det vil si formelen som gir løsningene på enhver andregradslikning, $x = \frac{- b \pm \sqrt{b^{2} - 4ac}}{2a}$.
-
 > [!hidden] 3.6 Mild 1
 > Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
 > 
@@ -884,49 +917,49 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > $(3xy-\frac{5}{2}x)^2$
 
 > [!hidden] 3.6 Medium 1
-> Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
+> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
 > 
-> $(x+1)^2$
+> $x^2-9$
 
 > [!hidden] 3.6 Medium 2
-> Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
+> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
 > 
-> $(y-3)^2$
+> $16-y^2$
 
 > [!hidden] 3.6 Medium 3
-> Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
->  
->  $(3y+3)^2$
+> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> 
+> $9+x^2+6x$
 
 > [!hidden] 3.6 Medium 4
-> Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
->  
-> $(a+5)(a-5)$
+> 
+> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> 
+> $16-8k+k^2$
 
 > [!hidden] 3.6 Medium 5
-> Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
+> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
 > 
-> $(x+2y)^2$
+> $4k^2+16-16k$
 
 > [!hidden] 3.6 Medium 6
-> Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
+> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
 > 
-> $(3x-2)(3x+2)$
+> $25y^2-16x^2$
 
 > [!hidden] 3.6 Medium 7
-> Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
+> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
 > 
-> $(\frac{n}{2}+8)^2$
+> $25n^2+4+20n$
 
 > [!hidden] 3.6 Medium 8
-> Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
+> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
 > 
-> $(\frac{2x}{3}+\frac{3}{2})(\frac{2x}{3}-\frac{3}{2})$
+> $x^2+2ax+a^2$
 
 > [!hidden] 3.6 Medium 9
-> Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
-> 
-> $(3xy-\frac{5}{2}x)^2$
+> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> $x^2-6ax+9a^2$
 
 > [!hidden] 3.6 Medium 10
 > Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
@@ -944,64 +977,64 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > $4n^2-1$
 
 > [!hidden] 3.6 Spicy 1
-> Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
+> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
 > 
-> $(x+1)^2$
+> $4(4x^2 - b^2)$,
 
 > [!hidden] 3.6 Spicy 2
-> Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
+> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
 > 
-> $(y-3)^2$
+> $9x^2 4y^2 +1 - 12xy$,
 
 > [!hidden] 3.6 Spicy 3
-> Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
->  
->  $(3y+3)^2$
+> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> 
+> $10x^2 + 3(2x^2-y(8x-3y))$,
 
 > [!hidden] 3.6 Spicy 4
-> Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
->  
-> $(a+5)(a-5)$
+> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> 
+> $x^4-9y^2$
 
 > [!hidden] 3.6 Spicy 5
-> Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
+> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
 > 
-> $(x+2y)^2$
+> $3x(\frac{3}{4}x+4y)+2^4y^2$
 
 > [!hidden] 3.6 Spicy 6
-> Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
+> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
 > 
-> $(3x-2)(3x+2)$
+> $\frac{1}{4}x^2y^2-5x(xy-5x)$
 
 > [!hidden] 3.6 Spicy 7
-> Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
+> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
 > 
-> $(\frac{n}{2}+8)^2$
+> $b^2(9+a(\frac{a}{9}+2))$
 
 > [!hidden] 3.6 Spicy 8
-> Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
+> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
 > 
-> $(\frac{2x}{3}+\frac{3}{2})(\frac{2x}{3}-\frac{3}{2})$
+> $5(x(\frac{5}{4}x-y)+y(x-\frac{4}{5}y))$
 
 > [!hidden] 3.6 Spicy 9
-> Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
+> Uttrykket under mangler et ledd for å bli et fullstendig kvadrat. Lag fullstendige kvadrater av uttrykkene (noen kan ha to løsninger).
 > 
-> $(3xy-\frac{5}{2}x)^2$
+> $x^2+6x$
 
 > [!hidden] 3.6 Spicy 10
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Uttrykket under mangler et ledd for å bli et fullstendig kvadrat. Lag fullstendige kvadrater av uttrykkene (noen kan ha to løsninger).
 > 
-> $4a^2+9b^2-12ab$
+> $x^2+25$
 
 > [!hidden] 3.6 Spicy 11
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Uttrykket under mangler et ledd for å bli et fullstendig kvadrat. Lag fullstendige kvadrater av uttrykkene (noen kan ha to løsninger).
 > 
-> $y^2+4y+4$
+> $7(7-2a)$
 
 > [!hidden] 3.6 Spicy 12
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Uttrykket under mangler et ledd for å bli et fullstendig kvadrat. Lag fullstendige kvadrater av uttrykkene (noen kan ha to løsninger).
 > 
-> $4n^2-1$
+> $-4y+1$
 
 > [!hidden] 3.6 Spicy 13
 > Uttrykket under mangler et ledd for å bli et fullstendig kvadrat. Lag fullstendige kvadrater av uttrykkene (noen kan ha to løsninger).
@@ -1027,7 +1060,15 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Forklar begrepene *størrelse, måltall og måleenhet* ved å gi et 3-dimensjonalt eksempel.
 
 > [!hidden] 3.8 Medium 1
-> Forklar begrepene *størrelse, måltall og måleenhet* ved å gi et 1-dimensjonalt eksempel.
+> Ved å bruke begrepene *størrelse, måltall og måleenhet*, forklar hva det vil si at
+> 1. figuren under har areal $3m^2$
+> 2. figuren under har areal $16cm^2$
+> 3. figuren under har volum $28cm^3$
+> 4. figuren under har areal $3,\!5m^2$
+> 5. figuren under har areal $13,3cm^2$
+> 6. figuren under har volum $28,8cm^3$
+> 
+> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/d212e07743cf745d709cae90791078f352200517/img/likn/figurergeo.drawio.svg)
 
 > [!hidden] 3.9 Mild 1
 > Ved hjelp av en illustrasjon, gjengi formlene for arealet av 
@@ -1039,13 +1080,7 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Det må komme tydelig frem hvordan de ulike parameterne er koblet til bildet.
 
 > [!hidden] 3.9 Medium 1
-> Ved hjelp av en illustrasjon, gjengi formlene for arealet av 
-> 1. et rektangel
-> 2. et parallellogram
-> 3. en trekant
-> 4. et trapes
-> 
-> Det må komme tydelig frem hvordan de ulike parameterne er koblet til bildet.
+> Ved hjelp av en illustrasjon, forklar formlene for arealet av et rektangel
 
 > [!hidden] 3.9 Medium 2
 > Ved hjelp av en illustrasjon, forklar formlene for arealet av  et parallellogram
@@ -1062,9 +1097,9 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Det må komme tydelig frem hvordan de ulike parameterne er koblet til bildet.
 
 > [!hidden] 3.10 Medium 1
-> Ved hjelp av en illustrasjon, gjengi formelen for arealet av en sirkel.
+> Ved hjelp av en illustrasjon, forklar formelen for arealet av en sirkel.
 > 
-> Det må komme tydelig frem hvordan de ulike parameterne er koblet til bildet.
+> Det må komme tydelig hvorfor formlene er riktige i forklaringen.
 
 > [!hidden] 3.11 Mild 1
 > Ved hjelp av en illustrasjon, gjengi formlene for volumet av 
@@ -1077,14 +1112,7 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Det må komme tydelig frem hvordan de ulike parameterne er koblet til bildet.
 
 > [!hidden] 3.11 Medium 1
-> Ved hjelp av en illustrasjon, gjengi formlene for volumet av 
-> 1. et rett prisme
-> 2. et skjevt prisme
-> 3. prismer med trekantede grunnflater
-> 4. en sylinder
-> 5. en pyramide
->  
-> Det må komme tydelig frem hvordan de ulike parameterne er koblet til bildet.
+> Ved hjelp av en illustrasjon, forklar formlene for volumet av et rett prisme
 
 > [!hidden] 3.11 Medium 2
 > Ved hjelp av en illustrasjon, forklar formlene for volumet av et skjevt prisme
@@ -1108,13 +1136,15 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Under ser du et område som opprinnelig var et kvadrat med sidelengde $x$. Det er trukket fra tre halvsirkler fra kvadratet. Hva er det gjenværende arealet?<br>![](https://raw.githubusercontent.com/Andremartiny/MA-173/f4fe054ae1e8c41496c2d12d5af365a7a2f5b3d1/img/geo/figur2.svg)
 
 > [!hidden] 3.12 Spicy 1
->  Hvis et trapes har areal $A$. Forklar ved hjelp av formelen til et trapes hvorfor arealet til trapeset blir $\frac{49}{9}A$ hvis vi forstørrer lengdene i trapeset med $\frac{7}{3}$.
+> Arkene i A-formatet (A1, A2, A3, A4, A5, osv) har den egenskapen at når du halverer de ved å brette de på langsiden, så vil de bevare forholdet mellom sidelengdene. Det vil si at hvis sidelengdene i A4 er *a* og *b,* så er i A5 *b/2* og *a* og forholdet mellom sidelengdene vil være like. Vis at dette forholdet, vil være $\sqrt 2$.
 
 > [!hidden] 3.12 Spicy 2
-> Under ser du en figur i grønt. Figuren er laget ved å ta et kvadrat med sidelengde $2r$ og trekke vekk sirkelsektorer med radius $r$. Til slutt er det lagt på en sirkel med radius $r$ og sentrum i det ene hjørnet av kvadratet. Hva er arealet til figuren?<br>![](https://raw.githubusercontent.com/Andremartiny/MA-173/f4fe054ae1e8c41496c2d12d5af365a7a2f5b3d1/img/geo/figur3.svg)
+> Hvor stor er summen av de små omkretsene i forhold til den store i figuren under?<br>![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/geo/image3.png)
 
 > [!hidden] 3.12 Spicy 3
-> Under ser du et område som opprinnelig var et kvadrat med sidelengde $x$. Det er trukket fra tre halvsirkler fra kvadratet. Hva er det gjenværende arealet?<br>![](https://raw.githubusercontent.com/Andremartiny/MA-173/f4fe054ae1e8c41496c2d12d5af365a7a2f5b3d1/img/geo/figur2.svg)
+> Under ser du en figur som er laget av sirkelsektorer og trekanter. Figuren er lagd ved å dele sirkelen med sentrum i $A$ inn i seks like deler $B$, $C$, $D$, $E$, $F$ og $G$. Sirkelen har radius $r$.
+> 1. Avgjør og begrunn hva omkretsen av figuren er
+> 2. Avgjør arealet av figuren.<br>![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-04-25-13-59-55.png)
 
 > [!hidden] 3.13 Mild 1
 > Forenkle uttrykket $6z-2-2z + 4$.
@@ -1132,25 +1162,35 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > $$
 
 > [!hidden] 3.13 Medium 1
-> Forenkle uttrykket $6z-2-2z + 4$.
-
-> [!hidden] 3.13 Medium 2
-> Hvis at $4x(x+1)+5x -2x(2x+3)$ kan skrives som $3x$.
-
-> [!hidden] 3.13 Spicy 1
-> Forenkle uttrykket $6z-2-2z + 4$.
-
-> [!hidden] 3.13 Spicy 2
-> Hvis at $4x(x+1)+5x -2x(2x+3)$ kan skrives som $3x$.
-
-> [!hidden] 3.13 Spicy 3
-> Regn ut $10 + 2(5y-5)$.
-
-> [!hidden] 3.13 Spicy 4
 > Forenkle uttrykket 
 > $$
-> \frac{1}{2x-2}\cdot \frac{4x-4}{3}.
+> \frac{1}{x-1+\frac{1}{x+1}}- \frac{1}{x}
 > $$
+
+> [!hidden] 3.13 Medium 2
+> Forenkle uttrykket 
+> 
+> $\displaystyle2\cdot \frac{ \frac{2h-5}{(h+7)(h-8)}}{\frac{4h-10}{h-8}}$
+
+> [!hidden] 3.13 Spicy 1
+> Hvilket av uttrykkene har ikke samme verdi som de andre?
+> 1. $(1+\sqrt 2)^2$
+> 2. $\sqrt 8 + \sqrt 9$
+> 3. $\frac{1+\sqrt2}{\sqrt 2 - 1}$
+> 4. $3+2\sqrt 2$
+> 5. $\frac{\sqrt 2 + 9}{2-\sqrt 2}$
+
+> [!hidden] 3.13 Spicy 2
+> Forenkle uttrykket 
+> $$
+> \begin{align*} \frac{\bigg(\dfrac{z^2-16}{z^2+z-12}\bigg)}{\Bigg(\dfrac{z+4}{z(3-\frac{9}{z})}\Bigg)}  \end{align*}
+> $$ 
+
+> [!hidden] 3.13 Spicy 3
+> Uttrykket $x^3 + x^2 y + 3 x^2 + 3 x y^2 + 7 x y + 3 y^3 + 4 y^2$ har $(x+y)$ som en faktor. Faktoriser ut $(x+y)$ fra uttrykket. 
+
+> [!hidden] 3.13 Spicy 4
+> Vis at $(pq-1)(pr-1)(rq-1)-(pr+pq+rq) = (pqr)^2$ kan omformes til $\frac{1}{pr}+\frac{1}{pq}+\frac{1}{qr} = -1$.
 
 > [!hidden] 3.13 Spicy 5
 > Vis at 
@@ -1165,7 +1205,13 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Forklar kort, og gi eksempler på tilsvarende strukturer for subtraksjon. 
 
 > [!hidden] 4.1 Medium 1
-> Forklar kort, og gi eksempler på hver av de additive strukturene *økning, komplettering, forening, sammenlikning* og *oppheving av minskning*. 
+> Avgjør hvilken additiv struktur situasjonene svarer til. Spesifiser også hva som er ukjent der det er relevant. Merk at én og samme situasjon kan tolkes både som addisjon og subtraksjon.
+>    1. Arne hadde litt penger i lommeboka. Han samler og panter flasker for 167 kroner. Nå har han 527 kroner. Hvor mye hadde han fra før?
+>    2. I bilen på vei til butikken for å pante, satte Arne opp farta med 12 km/t til 73 km/t. Hvor høy fart holdt han før fartsøkninga?
+>    3. Forrige gang Arne pantet, fikk han 234 kroner. Hvor mye mer var det enn denne gang?
+>    4. For å få råd til egen pantemaskin, mangler Arne 12 364 kroner. Hvor mye koster en pantemaskin?
+>    5. Arne innser at prosjekt «egen pantemaskin» ikke lar seg gjennomføre uten hjelp. Han slår seg sammen med Anne. De har til sammen 9 530. Hvor mange penger har Anne?
+>    6. Etter en tids hardt innsamlingsarbeid, kjøper Arne og Anne omsider en pantemaskin. De sitter da igjen med 421 kroner. Hvor mye penger hadde før de kjøpte maskinen?
 
 > [!hidden] 4.2 Mild 1
 > Forklar kort, og gi eksempler på hver av de multiplikative strukturene *like grupper, rate, sammenlikning, kombinatorisk situasjon* og *rektangulært arrangement*. 
@@ -1189,11 +1235,7 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 2. multiplikasjon 
 
 > [!hidden] 4.3 Medium 1
-> Forklar kort, og gi eksempler på kommutativ og assosiativ egenskap for 
-> 1. addisjon
-> 2. multiplikasjon 
-
-> [!hidden] 4.4 Mild 1
+> Lag illustrasjoner som viser at egenskapene gjelder. > [!hidden] 4.4 Mild 1
 >  Gjør beregningene ved hjelp av strategier (som ikke er oppstilt regning).
 >   1. $126-311$
 >   2. $126+37$
@@ -1212,22 +1254,12 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 6. $\frac{5}{4}\cdot 120$
 
 > [!hidden] 4.4 Medium 1
->  Gjør beregningene ved hjelp av strategier (som ikke er oppstilt regning).
->   1. $126-311$
->   2. $126+37$
->   3. $136:8$
->   4. $461:20$
->   5. $34\cdot160$
->   6. $17\cdot 19$
+> Gjør oppgavene fra middels. Begrunn, og dersom hensiktsmessig, illustrer strategien slik at det går tydelig frem at den alltid funker.
 
 > [!hidden] 4.4 Medium 2
-> Vis hvordan én eller flere av de tre egenskapene (kommutativitet, assosiativitet og distributivitet) kan brukes som regnestrategier.
-> 1. $12\cdot 26$
-> 2. $376+39$
-> 3. $14\cdot 7$
-> 4. $113\cdot 6$
-> 5. $15\cdot 8 + 30$
-> 6. $\frac{5}{4}\cdot 120$
+> Fra Nasjonal deleksamen 30.11.22: 
+> 
+> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/tall/image1.png)
 
 > [!hidden] 4.5 Mild Oppgave
 > 1. Forklar hva naturlige, hele, rasjonale og irrasjonale tall er.
@@ -1246,7 +1278,7 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Alfa s. 108. Bare beregningene, ikke lage regnefortellinger og
 
 > [!hidden] 4.7 Medium 1
-> Alfa s. 108. Bare beregningene, ikke lage regnefortellinger og
+> Alfa s. 108.
 
 > [!hidden] 4.7 Medium 2
 > Velg en addisjon og en subtraksjon av brøker med ulike nevnere.
@@ -1258,10 +1290,9 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 3. 1.45
 
 > [!hidden] 4.8 Medium 1
-> Alfa s. 119. Kun beregningene på mildt nivå.
+> Alfa s. 119 
 > 1. 1.41 a, b, c og d
 > 2. 1.42
-> 3. 1.45
 
 > [!hidden] 4.8 Medium 2
 > Ta utgangspunkt i de tre multiplikasjonene $7 \cdot \frac{4}{5}$,
@@ -1279,15 +1310,15 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 2. 1.46
 
 > [!hidden] 4.9 Spicy 1
-> Alfa s. 119. Kun beregningene på grunnleggende.
-> 1. 1.41 e, f og g
-> 2. 1.46
+> Velg en divisjon med brøk.
+> 1.  Lag en passende kontekst som gir _målingsdivisjon_. Bruk konteksten til å forklare og illustrere hvorfor delingsregelen er som den er.
+> 2. Lag en passende kontekst som gir _delingsdivisjon_. Bruk konteksten til å forklare og illustrere hvorfor delingsregelen er som den er.
 
 > [!hidden] 4.10 Medium 1
 > Forklar ved hjelp av et generisk eksempel hvorfor divisjon med en brøk svarer til å gange med den omvendte brøken.
 
 > [!hidden] 4.10 Spicy 1
-> Forklar ved hjelp av et generisk eksempel hvorfor divisjon med en brøk svarer til å gange med den omvendte brøken.
+> Vis algebraisk hvorfor regneregelen for divisjon med brøk er som den er.
 
 > [!hidden] 4.11 Spicy Regn ut.
 > 1. $\displaystyle{\frac{3}{2}\left( 7 + \frac{3\  + \ \frac{1}{5}}{\frac{2}{3}} \right) - 1}$
@@ -1322,16 +1353,25 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 >  Hvilke brøker svarer til endelige og hvilke svarer til periodiske
 
 > [!hidden] 4.13 Medium 1
-> Forklar og gi eksempler på endelig, periodisk og uendelig
+> Gjør om til desimaltall. Fremgangsmåte, strategi eller begrunnelse for omgjøringen må komme tydelig frem.
+> 1. $\frac{6}{5}$
+> 2. $\frac{4}{15}$ 
+> 3. $\frac{7}{2}$ 
+> 4. $\frac{12}{30}$ 
+> 5.  $\frac{14}{450}$ 
+> 6.  $\frac{3}{40}$
 
 > [!hidden] 4.13 Medium 2
->  Hvilke brøker svarer til endelige og hvilke svarer til periodiske
+> Gjør om til brøk maksimalt forkortet brøk. Fremgangsmåte, strategi eller begrunnelse for omgjøringen må komme tydelig frem.
+> 1. $0,21$
+> 2. $0,0202$
+> 3. $3,333$
 
 > [!hidden] 4.13 Spicy 1
-> Forklar og gi eksempler på endelig, periodisk og uendelig
+>  Alle brøkene som svarer til endelige desimaltall, har en felles egenskap. forklar hvilken det er, og gi en begrunnelse for at det er slik.
 
 > [!hidden] 4.13 Spicy 2
->  Hvilke brøker svarer til endelige og hvilke svarer til periodiske
+> Brøkene som ikke svarer til endelige desimaltall, gir periodiske desimaltall. Begrunn hvorfor det er slik.
 
 > [!hidden] 4.14 Spicy Alfa s. 140.
 > 1. 1.73
@@ -1346,11 +1386,10 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 5. $1,001001001\ldots$
 
 > [!hidden] 4.14 Spicy Gjør om til brøk.
-> 1. $0,\overline{45}$
-> 2. $0,0\overline{45}$
-> 3. $0,\overline{123}$
-> 4. $0,123\overline{45}$
-> 5. $1,001001001\ldots$
+> 1. $0,111\ldots$
+> 2. $0,222\ldots$
+> 3. $0,333\ldots$
+> 4. Og så videre.
 
 > [!hidden] 4.14 Spicy Gjør om til desimaltall.
 > 1.  $\frac{6}{7}$
@@ -1383,7 +1422,6 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 1. en prosentdel av et tall (hva er $x$ prosent av $y$?)
 > 2. en del av et tall uttrykt som prosent del (hvor stor prosentdel utgjør $x$ av $y$?)
 > 3. det hele når del og prosentdel er kjent (hvis $x$ utgjør $y$ prosent, hva er da $100$ %?)
-
 > [!hidden] 4.16 Spicy 1
 > Alfa s. 143: 
 > 1.86
@@ -1409,7 +1447,6 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 >  Her er et snedig triks for å finne en brøk som ligger mellom to andre brøker: Lag brøken der teller er summen av de to brøkenes tellere, og nevneren summen av de to brøkenes nevnere. Eksempel: Brøken $\frac{2\  + \ 4}{3\  + \ 5}$ ligger mellom $\frac{2}{3}$ og
 >  $\frac{4}{5}$. 
 >  Vis at trikset alltid funker. (Hint: Det kan lønne seg å bruke at dersom $\frac{2}{3} < \frac{4}{5}$, så er $2 \cdot 5 < 3 \cdot 4$.)
-
 > [!hidden] 4.17 Mild Regn ut.
 > 1. $12 - ( - 3)$
 > 2. $- 12 + ( - 3)$
@@ -1476,25 +1513,22 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 7. 3.38
 
 > [!hidden] 4.19 Medium 2
-> Alfa s. 239-241 
-> 1. 3.23
-> 2. 3.25
-> 3. 3.29 a og b
+> Begrunn avgjørelsene deres for *hvert* alternativ i oppgavene under. (Ikke for vår, men for din egen lærings skyld.)
+>  1. Hvilke(t) alternativ er $4^{7} \cdot 2^{4}$ lik? A. $4^{11}$ B. $8^{6}$ C. $8^{11}$ D. $4^{9}$ E. $2^{18}$
+>  2. Hvilke(t) alternativ er $2^{16} + 2^{16} + 2^{16} + \ldots + 2^{16}$ (16 ledd) lik? A. $4^{10}$ B. $2^{19}$ C. $16^{2}$ D. $2^{5} \cdot 8^{5}$ E. $2^{32}$
+>  3. Hvilke(t) alternativ er $10^{12}\ :20^{6}$ lik? A. $\frac{10^{12}}{2 \cdot 10^{6}}$ B. $1$ C. $5^{6}$ D. $10^{(12 - 6)}\ :2^{6}$ E. $25^{3}$
+>  4. Hvilke(t) alternativ er $9^{- 6} \cdot 3^{12}$ lik? A. $9^{4}$ B. $1$ C. $81^{- 3} \cdot 81^{3}$ D. $9^{- 6 + 6}$ E. $\frac{1}{6^{9}} \cdot 3^{12}$
 
 > [!hidden] 4.19 Spicy 1
-> Forkort uttrykkene så langt som mulig (det betyr, blant annet, å bruke primtallsbaser. For eksempel at $25$ skal skrives som $5^2$)
-> 1. $2^5\cdot 3^8 \cdot 2^9 \cdot 9$.
-> 2. $4\cdot 16 \cdot 6 \cdot3^2$.
-> 3. $4^2 \cdot 9^2 \cdot 16^2 \cdot 27^3$.
-> 4. $2\cdot 3\cdot 4 \cdot 5 \cdot 6 \cdot 7 \cdot 8 \cdot 9 \cdot 10$.
-> 5. $12\cdot 16\cdot 18 \cdot 20 \cdot 21 \cdot 25 \cdot 24$.
-> 6. $(2^2 + 4)\cdot 32 \cdot 3 \cdot 9 \cdot 27$.
+> Alfa s. 239--341
+> 1. 3.28
+> 2. 3.37
 
 > [!hidden] 4.19 Spicy 2
-> Alfa s. 239-241 
-> 1. 3.23
-> 2. 3.25
-> 3. 3.29 a og b
+> Regn ut ved hjelp av potensregler.
+> 1. $2 \cdot \sqrt{100} \cdot 5^{- 1} \cdot 8^{- \frac{2}{3}}$
+> 2. ${\sqrt[13]{5^{\frac{2}{3}} \cdot 5^{\frac{3}{2}}}}^{\ 6}$
+> 3. $\frac{\left( \frac{2}{5}\  \cdot {\ 125}^{\frac{2}{5}} \right)^{5}}{2}$
 
 > [!hidden] 4.19 Spicy 3
 > Avgjør og begrunn om uttrykkene har lik verdi.
@@ -1516,7 +1550,6 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 1. $2 = 32^{\frac{1}{n}}$
 > 2. $9^{\frac{3}{n}} = 27$
 > 3. $n^{\frac{3}{2}} = 125$.
-
 > [!hidden] 5.1 Mild 1
 > På onsdager kjøper Henrik kaffe i kaffebaren på UiA. Han velger alltid mellom sort kaffe, kaffe latte, cappuccino og *flat white*. Han kan også velge mellom størrelsene liten, medium og stor. Hvor mange valgmuligheter har han?
 
@@ -1533,16 +1566,24 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Du skal reise til København med vennegjengen. Du skal ta buss til Oslo og deretter ta fly fra Oslo. Du kan velge mellom tre forskjellige busselskap og tre forskjellige flyselskap. Hvor mange forskjellige reisevalg har du?
 
 > [!hidden] 5.1 Medium 1
-> På onsdager kjøper Henrik kaffe i kaffebaren på UiA. Han velger alltid mellom sort kaffe, kaffe latte, cappuccino og *flat white*. Han kan også velge mellom størrelsene liten, medium og stor. Hvor mange valgmuligheter har han?
+> Forklar, ved hjelp av en illustrasjon, hvorfor følgende situasjon beskriver et sammensatt valg. *Henrik skal kjøpe mat og drikke i kantina. Han velger å kjøpe en suppemeny, der han kan velge mellom tre forskjellige typer supper og seks forskjellige typer drikke*.
+> 
 
 > [!hidden] 5.1 Medium 2
-> På torsdager klatrer André og Henrik. De drar enten på klatresenteret på odderøya eller på grim. Der kan de også velge å enten buldre, eller topptau eller klatre på led. Hvor mange muligheter har de å velge mellom?
+> Gi et eksempel på et sammensatt valg.
+> -  Bruk eksempelet til å illustrere og forklare produktregelen. 
 
 > [!hidden] 5.1 Medium 3
-> Når Henrik skal velge klær om morgenen følger han sin daglige rutine. Han legger frem seks forskjellige sorte bukser og seks forskjellige sorte t-skjorter. Deretter slår han en terning for å avgjøre hvilken bukse han skal bruke og så slår han terningen på nytt for å velge hvilken t-skjorte han skal bruke. Avgjør hvor mange forskjellige kombinasjoner av sorte bukser og sorte t-skjorter Henrik kan bruke. 
+> I oppgavene under skal du løse problemene. Deretter skal du ta utgangspunkt i situasjonene til å forklare og illustrere hvorfor produktregelen må gjelde generelt.
+> 1. På onsdager kjøper Henrik kaffe i kaffebaren på UiA. Han velger alltid mellom sort kaffe, kaffe latte, cappuccino og *flat white*. Han kan også velge mellom størrelsene liten, medium og stor. Hvor mange valgmuligheter har han?
+> 2. På torsdager klatrer André og Henrik. De drar enten på klatresenteret på odderøya eller på grim. Der kan de også velge å enten buldre, eller topptau eller klatre på led. Hvor mange muligheter har de å velge mellom?
+> 3. Når Henrik skal velge klær om morgenen følger han sin daglige rutine. Han legger frem seks forskjellige sorte bukser og seks forskjellige sorte t-skjorter. Deretter slår han en terning for å avgjøre hvilken bukse han skal bruke og så slår han terningen på nytt for å velge hvilken t-skjorte han skal bruke. Avgjør hvor mange forskjellige kombinasjoner av sorte bukser og sorte t-skjorter Henrik kan bruke. 
+> 4. André skal lage pizza med guttungen sin Philip. Først ber han Philip om å velge om de skal ha tynn eller tykk bunn. Deretter spør han Philip om de skal ta skinke eller peperoni på pizzaen. Til slutt spør han Philip om de skal ha, mais, ananas, mais *og* ananas, eller ingenting mer på pizzaen. Hvor mange forskjellige pizzaer kan de lage?
 
 > [!hidden] 5.1 Medium Vurdering uke 3
-> Du skal reise til København med vennegjengen. Du skal ta buss til Oslo og deretter ta fly fra Oslo. Du kan velge mellom tre forskjellige busselskap og tre forskjellige flyselskap. Hvor mange forskjellige reisevalg har du?
+> _Du skal reise til København med vennegjengen. Du skal ta buss til Oslo og deretter ta fly fra Oslo. Du kan velge mellom tre forskjellige busselskap og tre forskjellige flyselskap. Hvor mange forskjellige reisevalg har du?_
+> 1. Løs oppgaven ved hjelp av produktregelen.
+> 2. Bruk oppgaven til å illustrere og forklare hvorfor produktregelen må gjelde generelt.
 
 > [!hidden] 5.2 Mild 1
 > Ved hjelp av et eksempel og en illustrasjon, forklar addisjonssetningen for mengder. 
@@ -1558,14 +1599,13 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Ved hjelp av et eksempel og en illustrasjon, forklar addisjonssetningen for mengder.
 
 > [!hidden] 5.2 Medium 1
-> Ved hjelp av et eksempel og en illustrasjon, forklar addisjonssetningen for mengder. 
-> 
+>  I en klasse med 50 elever leste alle minst ett språk, fransk eller spansk. 30 tok fransk og 22 tok begge. Hvor mange leste kun spansk? 
 
 > [!hidden] 5.2 Medium 2
-> På en skole må elevene ha minst ett fremmedspråk. De kan enten ha tysk eller fransk. 
-> 1. I en klasse er det 18 elever som har fransk og 22 elever som har tysk. Hvor mange elever er det som har begge deler dersom det er 32 stykker i klassen?
-> 2. I en klasse er det 22 elever som har fransk og 30 elever som har tysk. Hvor mange elever er det i klassen dersom det er 10 stykker som har begge deler?
-> 3. I en klasse er det 25 elever som har tysk og 6 elever som har både tysk og fransk. Hvor elever er det som har *kun* tysk, dersom det er 40 stykker i klassen?
+> På en folkehøgskole er det 148 elever. Skolen har en filmgruppe, en esportgruppe og en sportsgruppe. Det er 66 elever i filmgruppa, 48 elever i esportsgruppa og 71 elever med i sportsgruppa. 13 elever er med i både film- og esportsgruppa, 22 elever kombinerer esport og sport og 17 elever er med i både sport- og filmgruppa. Fem elever var med i alle tre gruppene.
+> 1. Hvor mange elever er ikke med i noen av de tre gruppene?
+> 2. Hvor mange elever er med i nøyaktig to grupper?
+> 3. Hvor mange elever er med i bare filmgruppa?
 
 > [!hidden] 5.2 Medium 3
 > Henrik har en tresifret kombinasjon på sykkellåsen sin. Du får vite at koden inneholder en toer (minst), men er ikke et partall. Avgjør hvor mange gjenværende muligheter det er.
@@ -1584,7 +1624,8 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > - Illustrer problemet i et Venn-diagram og bruk dette til å forklare addisjonssetningen.  
 
 > [!hidden] 5.2 Medium Vurdering uke 3
-> Ved hjelp av et eksempel og en illustrasjon, forklar addisjonssetningen for mengder.
+> 1. På en skole er det 200 elever. På fritiden driver 100 stykker med fotball, 50 driver med håndball, 20 driver med klatring. De som klatrer driver ikke med noen annen idrett på fritiden. I tillegg er det 70 som ikke driver med noen av disse idrettene på fritiden. Hvor mange er det som driver med fotball eller håndball?
+> 2. Illustrer problemet i et Venn-diagram og bruk dette til å forklare addisjonssetningen.
 
 > [!hidden] 5.3 Mild Avgjør om situasjonene under kan tenkes som (u)ordnede utvalg m/u tilbakelegg
 > 1. Du skal velge ut en komité fra en 20 lærerstudenter. Komitéen skal bestå av 4 studenter.
@@ -1614,11 +1655,16 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 >  4. uordna utvalg med tilbakelegg.
 
 > [!hidden] 5.3 Medium Vurdering uke 3
-> Avgjør om situasjonene under kan tenkes som ordnede eller uordnede utvalg og om utvalgene er med eller uten tilbakelegg:
-> 1. I bedriftsidrettslaget er det 20 medlemmer som spiller basket. På hvor mange måter kan det velges to personer som skal sitte i styret av basketballavdelingen?
-> 2. I en klasse på 18 elever skal det velges ut en elevrådsleder og en vara. På hvor mange måter kan det gjøres på?
-> 3. I en klasse er det 12 gutter og 10 jenter. På hvor mange måter kan man velge ut 4 gutter?
-> 4. En student ved lærerutdanninga har møtt opp på alle obligatoriske undervisninger. Nå gjenstår det fire obligatoriske seminarer, og studenten vil komme over fraværsgrensa på 70% selv om de ikke møter på noen av seminarene. Studenten har derfor konkludert med at de står fritt til å velge om de vil møte opp eller ikke for hver av de fire seminarene. På hvor mange utvalg av seminarer kan de velge å gå på?
+> 1. Avgjør om situasjonene under kan tenkes som ordnede eller uordnede utvalg og om utvalgene er med eller uten tilbakelegg:
+>     1. I bedriftsidrettslaget er det 20 medlemmer som spiller basket. På hvor mange måter kan det velges to personer som skal sitte i styret av basketballavdelingen?
+>     2. I en klasse på 18 elever skal det velges ut en elevrådsleder og en vara. På hvor mange måter kan det gjøres på?
+>     3. I en klasse er det 12 gutter og 10 jenter. På hvor mange måter kan man velge ut 4 gutter?
+>     4. En student ved lærerutdanninga har møtt opp på alle obligatoriske undervisninger. Nå gjenstår det fire obligatoriske seminarer, og studenten vil komme over fraværsgrensa på 70% selv om de ikke møter på noen av seminarene. Studenten har derfor konkludert med at de står fritt til å velge om de vil møte opp eller ikke for hver av de fire seminarene. På hvor mange utvalg av seminarer kan de velge å gå på?
+> 2. Ved hjelp av fire eksempler, forklar utvalgene
+>     1. ordna utvalg med tilbakelegg,
+>     2. ordna utvalg uten tilbakelegg,
+>     3. uordna utvalg uten tilbakelegg,
+>     4. uordna utvalg med tilbakelegg.
 
 > [!hidden] 5.4 Medium 1
 > Vi har et rutenett med $2 \times 5$ ruter. Vi skal først fargelegge fire ruter røde og så to gule.
@@ -1654,26 +1700,39 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 4. Avgjør hvor mange utfall som gir at femtemann eller tredjemann får lov til å spille?
 
 > [!hidden] 5.4 Spicy 1
-> Vi har et rutenett med $2 \times 5$ ruter. Vi skal først fargelegge fire ruter røde og så to gule.
-> 1. Hvor mange måter kan vi gjøre det på?
-> 2. Hvordan ville det blitt om vi først velger de to som skal være gule, og så de fire som skal være røde?
-> 3. Hva om vi velger rutene som ikke skal fargelegges, så de fire som skal være røde?
+> En lærer skal ta med seg 16 elever på skolekino. Det er to av elevene, Henrik og André, som nekter å sitte på siden av hverandre. 
+> 1. Hvor mange måter kan de 16 elevene sitte, slik at Henrik og André slipper å sitte på siden av hverandre?
+> 2. I tillegg til Henrik og André, så er det to andre som begynner å krangle i mens læreren kjøper billetter. Hvis du skal ta hensyn til både André og Henrik, samtidig som du tar hensyn til de tre andre elevene. Hvor mange mulige måter å arrangere elevene har du? 
 
 > [!hidden] 5.4 Spicy 2
-> Du flipper en mynt 12 ganger og registrer om det blir kron eller mynt for hvert kast. 
-> 1. Når du har kastet tolv ganger har du fått kron 5 ganger og mynt 7 ganger. På hvor mange måter kan dette ha skjedd (det vil si at for eksempel mynt 7 ganger på rad og så fem kron på rad er én måte og så videre)?
-> 2. På hvor mange måter kan du enten få nøyaktig null, nøyaktig én eller nøyaktig to mynt på?
-> 3. På hvor mange måter kan du få minst 3 mynt på?
+> Du er lærer og skal dele elevene sine inn tilfeldige grupper for å jobbe på vertikale tavler. 
+> 1. Det er 24 elever og du skal dele de inn i tre grupper på 3. Hvor mange måter kan dette gjøres på?
+> 2. Du har to elever, Henrik og André, som har kommet i en stor krangel i friminuttet og du har bestemt og holde de unna hverandre i timen. Derfor må Henrik og André to ikke havne på samme gruppe. Hvis det er 12 elever i klassen. På hvor mange måter kan du dele inn i fire grupper på 3, slik at Henrik og André ikke havner på samme gruppe?
+> 3. Henrik og André blir venner igjen og håper at de kommer på gruppe sammen. I hvor mange av gruppesammensetningene av fire grupper på tre er André og Henrik på samme gruppe? 
+> 4. Det er kun 11 av de 12 elevene som møter opp. Du fjerner ett kort, slik at du får én gruppe på to og tre grupper på tre. Hvor mange ulike grupper, med én gruppe på to og tre grupper på tre, kan du lage?
+> 5. Neste time er det kun 10 av de tolv elevene som møter. Du fjerner nå to kort, ett fra to grupper, slik at du skal lage to grupper på to og tre grupper på tre. Hvor mange forskjellige gruppesammensettinger kan du nå ende opp med?
 
 > [!hidden] 5.4 Spicy 3
-> En lærer skal velge ut tre par til en komite. Det skal være tre par, en gutt og en jente i hvert par. Hvert av parene får en unik oppgave de skal ha ansvar for. Hvor mange måter kan læreren velge ut komiteen når det er 12 gutter og 15 jenter i klassen?
+> Noen av studentene i MA-173 har overbevist seg om at det er nyttig å lære seg kombinatorikk for å bli god i poker. For å komme i gang, undersøker de noen grunnleggende situasjoner. <br><br>Man har alltid av 2 kort på hånden når man spiller poker. På slutten av et pokerspill er det alltid 5 kort på bordet. 
+> 1. Hvor mange ulike hender med 2 kort kan man ha?
+> 2. Når du har fått dine to kort på hendene. Hvor mange ulike kombinasjoner av fem kort på bordet kan dukke opp? <br><br>En pokerhånd består av fem kort.
+> 3. Hvor mange ulike pokerhender finnes det?
+> 4. En veldig god pokerhånd er fire like, da betyr det at du har fire like kort, samt ett ekstra kort. Hvor mange ulike pokerhender gir fire like?<br><br>I en kortstokk omtales ofte, spar, hjerter, kløver og ruter som de fire fargene i kortstokken. Kløver og spar er ofte sorte og hjerter og ruter er ofte røde. For å unngå misforståelser kommer vi til å bruke ordet farge, som de fire fargene forklart over.
+> 5. En annen veldig god hånd er det man kaller en flush. Da har du fem kort i samme farge (for eksempel, hjerter to, hjerter 3, hjerter 6, hjerter 10 og hjerter knekt). Hvor mange ulike hender er en flush?
+> 6. Du har to rutere på hånden, og det er kommet tre kort ut på bordet. To av disse er også rutere.  
 
 > [!hidden] 5.4 Spicy Vurdering uke 3
-> Fem jenter er med i en kanonballturnering. Det er kun tre som skal spille hver omgang og de bestemmer seg for å trekke om hvem som skal spille neste omgang. De legger fem lapper i en hatt, der tre av hattene sier _Spille_. Deretter stiller de seg på rekke og trekker en etter en.
-> 1. Avgjør hvor mange ulike lagoppstillinger de kan ende opp med?
-> 2. Avgjør hvor mange av de ulike lagoppstillingene gir at førstemann i rekka får spille?
-> 3. Avgjør hvor mange utfall som gir at andremann får lov til å spille?
-> 4. Avgjør hvor mange utfall som gir at femtemann eller tredjemann får lov til å spille?
+> Du har skaffet deg en rar kortstokk med tolv kort. Det er
+> -  fire kort, markert 1 til 4 er røde,
+> -  fire kort, markert 1 til 4 er blå og 
+> -  fire kort markert 1 til 4 er grønne. 
+> 
+> Du skal spille mot Henrik og dere trekker begge tre kort til hånden deres.
+> 
+> 1. Hvor mange ulike hender kan _du_ trekke?
+> 2. Hvor mange ulike hender kan _du_ trekke som inneholder nøyaktig to blå kort?<br> <br>Når dere begge har trukket tre kort, sier vi at vi har et spill, der du har tre kort og Henrik har tre kort på hånden. Ulike hender fører til ulike spill.
+> 3. Forklar at det er $\frac{12\cdot11\cdot10}{3!}\cdot \frac{9\cdot8\cdot7}{3!}$ ulike spill kan vi få.
+> 4. Hvor mange ulike spill kan vi få, der minst én av dere har to røde kort på hånden?
 
 > [!hidden] 5.5 Mild 1
 >  Ved hjelp av et eksempel forklar begrepene utfallsrom, utfall og hendelse. 
@@ -1688,10 +1747,10 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Alfa 7.14
 
 > [!hidden] 5.5 Medium 2
-> Ved hjelp av et eksempel forklar hva som menes med en sannsynlighetsmodell. 
+> Alfa 7.15. Besvarelsen skal begrunnes ved å peke på definisjonen av en uniform sannsynlighetsmodell.
 
 > [!hidden] 5.5 Medium 3
-> Ved hjelp av et eksempel forklar hva som menes med en uniform sannsynlighetsmodell.
+> Et forsøk skal utføres ved å kaste en mynt tre ganger og registrere om det blir kron eller mynt. Henrik setter opp utfallsrommet {tre kron,to kron og en mynt,en kron og to mynt,tre mynt}. Avgjør om dette gir opphav til en uniform sannsynlighetsmodell.
 
 > [!hidden] 5.5 Medium 4
 > André har kjøpt inn 6 lyspærer som han legger i en ekse slik at han slipper å måtte kjøpe nye hver gang en pære går. Uten å tenke seg om byttet André tre lyspærer, men puttet de gamle defekte lyspærene sammen med de nye. Neste gang skal han bytte to pærer og tar han bare to tilfeldige pærer ut fra esken. Sett opp et utfallsrom som gir en uniform sannsynlighetsmodell og avgjør, ved hjelp av modellen, hva sannsynligheten er for at André tar med seg en defekt pære.
@@ -1703,7 +1762,9 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Forklar, ved hjelp av en passende illustrasjon, addisjonssetningen for sannsynligheter.
 
 > [!hidden] 5.6 Medium 1
-> Forklar, ved hjelp av en passende illustrasjon, addisjonssetningen for sannsynligheter.
+>  Du skal trekke et kort fra en kortstokk.
+>  1. Hva er sannsynligheten for å trekke en hjerter eller trekke en dame? Lag en illustrasjon av problemet, som viser hvordan addisjonsprinsippet brukes.
+>  2. Hva er sannsynligheten for å trekke en hjerter eller en spar? Lag en illustrasjon av problemet, som viser hvordan addisjonsprinsippet brukes.
 
 > [!hidden] 5.6 Medium 2
 > Du skal trekke to kort fra en kortstokk.
@@ -1746,22 +1807,21 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 3. Hva om vi velger rutene som ikke skal fargelegges, så de fire som skal være røde? 
 
 > [!hidden] 5.9 Spicy 1
-> Anta at sannsynligheten for å få en gutt alltid er 1/2. I en familie som har to barn er det tre muligheter, to gutter, to jenter eller ett av hvert kjønn.
-> 
-> Eleven Per sier at hvis en velger en tilfeldig tobarnsfamilie er det 1/3 sjans for at de har to gutter. Avgjør om Per tenker rett. 
-> - Pek på eventuelle misforståelser eller riktige oppfatninger. Hvis det er noen misforståelser må disse rettes opp slik at Per forstår hva som er feil.<br><br>
+> I en vanlig kortstokk med 52 kort finnes det fire sorter, hjerter, ruter, kløver og spar. I hver sort er det 13 kort, kortene 1 til 10 i tillegg til en knekt, en dame og en konge. Når man spiller bridge får man en hånd bestående av 13 tilfeldige kort.
+> 1. Hvor mange av alle de mulige bridgehendene består av nøyaktig åtte kløver?
+> 2. Hvor mange ulike bridgehender med nøyaktige fem spar er det mulig å dele ut?
+> 3. Hvor mange bridgehender med seks kort i en og samme farge finnes det?
+> 4. Hva er sannsynligheten for å få ei slik hånd?
 
 > [!hidden] 5.9 Spicy 2
-> André og Kristin planlegger å få fem barn.
-> 1. Hva er sannsynligheten for at de får bare gutter?
-> 2. Hva er sannsynligheten for at de får to jenter og tre gutter?
-> 3. Hva er sannsynligheten for at de får minst 2 jenter?
+> Vi trekker ut fem kort av en kortstokk på 52 kort.
+> 1. Hva er sannsynligheten for at det er nøyaktig to spar blant de fem?
+> 2. Hva er sannsynligheten for at alle dem fem kortene er kløver?
+> 3. Hva er sannsynligheten for at ruter knekt er med?
+> 4. Hvor stor sannsynlighet er det for at det er to kort med samme verdi hånden som deles ut?
 
 > [!hidden] 5.9 Spicy 3
-> Vi har et rutenett med $2 \times 5$ ruter. Vi skal først fargelegge fire ruter røde og så to gule.
-> 1. Hvor mange måter kan vi gjøre det på?
-> 2. Hvordan ville det blitt om vi først velger de to som skal være gule, og så de fire som skal være røde?
-> 3. Hva om vi velger rutene som ikke skal fargelegges, så de fire som skal være røde? 
+> Vurder sannsynligheten for hver av kombinasjonstypene du kan få i yatzy (ekskludert enere, toere,...., femmere og seksere).
 
 > [!hidden] 5.9 Spicy 4
 > I poker er det 10 forskjellige hender man kan få, rangert på følgende måte.
@@ -1775,4 +1835,3 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 8. To par
 > 9. Ett par
 > 10. Høyt kort <br><br>Vurder denne rangeringsordningen ved å avgjøre sannsynligheten for hver av hendene. 
-
