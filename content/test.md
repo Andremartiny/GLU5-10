@@ -48,7 +48,6 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 
 
 
-
 > [!hidden] 1.1 Mild 1
 > Forklar og gi eksempler på begrepene. Målet er å lage *korte og presise *forklaringer.
 
@@ -852,9 +851,6 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 
 > $x^{2} - 14x = - 48$
 
-> [!hidden] 3.5 Mild 7 
-> En svært nyttig øvelse: Lag likninger til hverandre. Likningene må lages slik at du selv hvordan de kan løses og hva løsningene er.
-
 > [!hidden] 3.5 Medium 1
 > Løs likningene:
 > 
@@ -880,9 +876,6 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 
 > $x^{2} - 5x = 14$
 
-> [!hidden] 3.5 Medium 7
-> En svært nyttig øvelse: Lag likninger til hverandre. Likningene må lages slik at du selv hvordan de kan løses og hva løsningene er.
-
 > [!hidden] 3.5 Spicy 1
 > Løs likningene:
 > 
@@ -903,11 +896,6 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 
 >  $1 + x = x^{2}$
 
-> [!hidden] 3.5 Spicy 5
-> En svært nyttig øvelse: Lag likninger til hverandre. Likningene må lages slik at du selv hvordan de kan løses og hva løsningene er.
-
-> [!hidden] 3.5 Spicy  **Bonus** (ikke aktuell til vurdering)**:** 
-> Enhver andregradslikning kan skrives $ax^{2} + bx + c = 0$, dersom man rydder og samler alle ledd på venstre side. Bruk fullstendige kvadraters metode på den generelle likninga til å utlede andregradsformelen, det vil si formelen som gir løsningene på enhver andregradslikning, $x = \frac{- b \pm \sqrt{b^{2} - 4ac}}{2a}$.
 > [!hidden] 3.6 Mild 1
 > Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
 > 
@@ -954,132 +942,132 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > $(3xy-\frac{5}{2}x)^2$
 
 > [!hidden] 3.6 Medium 1
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Faktoriser uttrykket under ved hjelp av passende kvadratsetning
 > 
 > $x^2-9$
 
 > [!hidden] 3.6 Medium 2
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Faktoriser uttrykket under ved hjelp av passende kvadratsetning
 > 
 > $16-y^2$
 
 > [!hidden] 3.6 Medium 3
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Faktoriser uttrykket under ved hjelp av passende kvadratsetning
 > 
 > $9+x^2+6x$
 
 > [!hidden] 3.6 Medium 4
 > 
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Faktoriser uttrykket under ved hjelp av passende kvadratsetning
 > 
 > $16-8k+k^2$
 
 > [!hidden] 3.6 Medium 5
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Faktoriser uttrykket under ved hjelp av passende kvadratsetning
 > 
 > $4k^2+16-16k$
 
 > [!hidden] 3.6 Medium 6
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Faktoriser uttrykket under ved hjelp av passende kvadratsetning
 > 
 > $25y^2-16x^2$
 
 > [!hidden] 3.6 Medium 7
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Faktoriser uttrykket under ved hjelp av passende kvadratsetning
 > 
 > $25n^2+4+20n$
 
 > [!hidden] 3.6 Medium 8
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Faktoriser uttrykket under ved hjelp av passende kvadratsetning
 > 
 > $x^2+2ax+a^2$
 
 > [!hidden] 3.6 Medium 9
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Faktoriser uttrykket under ved hjelp av passende kvadratsetning
 > $x^2-6ax+9a^2$
 
 > [!hidden] 3.6 Medium 10
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Faktoriser uttrykket under ved hjelp av passende kvadratsetning
 > 
 > $4a^2+9b^2-12ab$
 
 > [!hidden] 3.6 Medium 11
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Faktoriser uttrykket under ved hjelp av passende kvadratsetning
 > 
 > $y^2+4y+4$
 
 > [!hidden] 3.6 Medium 12
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Faktoriser uttrykket under ved hjelp av passende kvadratsetning
 > 
 > $4n^2-1$
 
 > [!hidden] 3.6 Spicy 1
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Faktoriser uttrykket under ved hjelp av passende kvadratsetning
 > 
 > $4(4x^2 - b^2)$,
 
 > [!hidden] 3.6 Spicy 2
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Faktoriser uttrykket under ved hjelp av passende kvadratsetning
 > 
 > $9x^2 4y^2 +1 - 12xy$,
 
 > [!hidden] 3.6 Spicy 3
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Faktoriser uttrykket under ved hjelp av passende kvadratsetning
 > 
 > $10x^2 + 3(2x^2-y(8x-3y))$,
 
 > [!hidden] 3.6 Spicy 4
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Faktoriser uttrykket under ved hjelp av passende kvadratsetning
 > 
 > $x^4-9y^2$
 
 > [!hidden] 3.6 Spicy 5
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Faktoriser uttrykket under ved hjelp av passende kvadratsetning
 > 
 > $3x(\frac{3}{4}x+4y)+2^4y^2$
 
 > [!hidden] 3.6 Spicy 6
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Faktoriser uttrykket under ved hjelp av passende kvadratsetning
 > 
 > $\frac{1}{4}x^2y^2-5x(xy-5x)$
 
 > [!hidden] 3.6 Spicy 7
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Faktoriser uttrykket under ved hjelp av passende kvadratsetning
 > 
 > $b^2(9+a(\frac{a}{9}+2))$
 
 > [!hidden] 3.6 Spicy 8
-> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> Faktoriser uttrykket under ved hjelp av passende kvadratsetning
 > 
 > $5(x(\frac{5}{4}x-y)+y(x-\frac{4}{5}y))$
 
 > [!hidden] 3.6 Spicy 9
-> Uttrykket under mangler et ledd for å bli et fullstendig kvadrat. Lag fullstendige kvadrater av uttrykkene (noen kan ha to løsninger).
+> Uttrykket under mangler et ledd for å bli et fullstendig kvadrat. Lag fullstendige kvadrater av uttrykket.
 > 
 > $x^2+6x$
 
 > [!hidden] 3.6 Spicy 10
-> Uttrykket under mangler et ledd for å bli et fullstendig kvadrat. Lag fullstendige kvadrater av uttrykkene (noen kan ha to løsninger).
+> Uttrykket under mangler et ledd for å bli et fullstendig kvadrat. Lag fullstendige kvadrater av uttrykket.
 > 
 > $x^2+25$
 
 > [!hidden] 3.6 Spicy 11
-> Uttrykket under mangler et ledd for å bli et fullstendig kvadrat. Lag fullstendige kvadrater av uttrykkene (noen kan ha to løsninger).
+> Uttrykket under mangler et ledd for å bli et fullstendig kvadrat. Lag fullstendige kvadrater av uttrykket.
 > 
 > $7(7-2a)$
 
 > [!hidden] 3.6 Spicy 12
-> Uttrykket under mangler et ledd for å bli et fullstendig kvadrat. Lag fullstendige kvadrater av uttrykkene (noen kan ha to løsninger).
+> Uttrykket under mangler et ledd for å bli et fullstendig kvadrat. Lag fullstendige kvadrater av uttrykket.
 > 
 > $-4y+1$
 
 > [!hidden] 3.6 Spicy 13
-> Uttrykket under mangler et ledd for å bli et fullstendig kvadrat. Lag fullstendige kvadrater av uttrykkene (noen kan ha to løsninger).
+> Uttrykket under mangler et ledd for å bli et fullstendig kvadrat. Lag fullstendige kvadrater av uttrykket.
 > 
 > $x(xy^2+6y)$
 
 > [!hidden] 3.6 Spicy 14
-> Uttrykket under mangler et ledd for å bli et fullstendig kvadrat. Lag fullstendige kvadrater av uttrykkene (noen kan ha to løsninger).
+> Uttrykket under mangler et ledd for å bli et fullstendig kvadrat. Lag fullstendige kvadrater av uttrykk.
 > 
 > $a(x+a)$
 
@@ -1300,7 +1288,7 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 2. multiplikasjon 
 
 > [!hidden] 4.3 Medium 1
-> Lag illustrasjoner som viser at egenskapene gjelder. > [!hidden] 4.4 Mild 1
+> Lag illustrasjoner som viser at egenskapene gjelder.> [!hidden] 4.4 Mild 1
 >  Gjør beregningene ved hjelp av strategier (som ikke er oppstilt regning).
 >   1. $126-311$
 >   2. $126+37$
