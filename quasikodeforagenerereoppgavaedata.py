@@ -31,6 +31,8 @@ def process_markdown_files(root_folder):
                     LVL = line.split()[1] if len(line.split()) > 1 else ""
                     
                 elif line.startswith("> [!abstract]") or line.startswith("> [!abstract]-") or line.startswith("> [!abstract]+"):
+                    if IsATask == True:
+                        hidden_tasks_content.append("\n")  # Add an empty line
                     # Replace > [!abstract] with > [!hidden] LM LVL
                     print(f"{LM} på {LVL}")
                     hidden_line = line.replace("[!abstract]", f"[!hidden] {LM} {LVL}").replace(f"[!hidden] {LM} {LVL}-", f"[!hidden] {LM} {LVL}").replace(f"[!hidden] {LM} {LVL}+", f"[!hidden] {LM} {LVL}")
@@ -38,18 +40,12 @@ def process_markdown_files(root_folder):
                     IsATask = True
                     continue
                 
-                # Add consecutive lines starting with '>'
-                if IsATask:
-                    if line.startswith("> [!abstract]"):
-                        IsATask = False
-                        hidden_tasks_content.append("\n")  # Add an empty line
-                    if line.startswith(">"):
-                        hidden_tasks_content.append(line)
+                elif line.startswith(">") & IsATask:
+                    hidden_tasks_content.append(line)
+                elif IsATask:
+                    hidden_tasks_content.append("\n")  # Add an empty line
+                    IsATask = False
 
-                    else:
-                        
-                        IsATask = False
-                        hidden_tasks_content.append("\n")  # Add an empty line
             
 
     # Write the collected content to HIDDENTASKS.md
