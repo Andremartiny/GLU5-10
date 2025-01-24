@@ -21,6 +21,6 @@ Medium som stiger mot spicy
 4. $\displaystyle2\cdot \frac{ \frac{2h-5}{(h+7)(h-8)}}{\frac{4h-10}{h-8}}$
 5. $\displaystyle\frac{1}{x-1+\frac{x^2}{x+1}}+x$
 6. $\displaystyle \frac{\bigg(\dfrac{z^2-16}{z^2+z-12}\bigg)}{\Bigg(\dfrac{z+4}{z(3-\frac{9}{z})}\Bigg)}$
-7. $\displaystyle 3z(z+1)+ \frac{z^2+4z+4}{3}+{ \frac{(z-2)(z+1)}{\left( 1-\frac{1}{z+2}  \right)(z^2-4) } }$
+7. $\displaystyle 3z(z+1)+ \frac{9z^2+18z+9}{3z+3}+{ \frac{(z-2)(z+1)}{\left( 1-\frac{1}{z+2}  \right)(z^2-4) } }+z$
 
 
