@@ -95,6 +95,9 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > [!hidden] 1.2 Spicy Vurdering uke 3
 > Uten å regne det ut, hvordan kan vi vite hvor mange 0’ere, det vil være på slutten av produktet av tallene 1, 2, 3, 4, 5, 6, 7, 8, 9 og 10?
 
+> [!hidden] 1.2 Spicy Vurdering uke 4
+> 
+
 > [!hidden] 1.3 Mild 1
 > Forklar hvordan et posisjonssystem er bygd opp. Gi eksempler med ulike baser.
 
@@ -168,6 +171,10 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 2. Gjør om $139_{ti}$ til base syv.
 > 3. $333_{fire}$ til base seks uten å regne ut i base ti først.
 
+> [!hidden] 1.3 Medium Vurdering uke 4
+> 1. Gjør om $121_{ti}$ til base tre
+> 2. $101101_{to}$ til base tre.
+
 > [!hidden] 1.3 Spicy 1
 > Gjør beregningene i den aktuelle basen (uten å oversette til base ti, altså)
 > $123_{fem} + 321_{fem}$
@@ -223,14 +230,50 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 >     1. $12332_{åtte} + 5665_{åtte}$  
 >     2. $3132_{fire} : 12_{fire}$
 
+> [!hidden] 1.3 Spicy Vurdering uke 4
+> 1. Gjør om $212{tre}$ til base seks. Vis hvordan du går frem.
+> 2. Regn ut i den aktuelle basen:
+>     1. $12332_{syv} - 5665_{syv}$  
+>     2. $143_{syv} : 13_{syv}$
+
 > [!hidden] 1.4 Mild Oppgave
 > Gjengi delelighetskriteriene.
 
-> [!hidden] 1.4 Medium Oppgave
-> Begrunn hvert av kriteriene algebraisk ved hjelp av generisk eksempel.
+> [!hidden] 1.4 Medium Delelighetskriterier: 2
+> Begrunn delelighets kriteriet for delelighet med 2 ved hjelp av generisk eksempel.
 
-> [!hidden] 1.4 Spicy Oppgave
-> Begrunn hvert av kriteriene ved å uttrykke et generelt tall på utvida form.
+> [!hidden] 1.4 Medium  Delelighetskriterier: 5
+> Begrunn delelighets kriteriet for delelighet med 5 ved hjelp av generisk eksempel.
+
+> [!hidden] 1.4 Medium Delelighetskriterier: 4
+> Begrunn delelighets kriteriet for delelighet med 4 ved hjelp av generisk eksempel.
+
+> [!hidden] 1.4 Medium Delelighetskriterier: 3
+> Begrunn delelighets kriteriet for delelighet med 3 ved hjelp av generisk eksempel.
+
+> [!hidden] 1.4 Medium Delelighetskriterier: 9
+> Begrunn delelighets kriteriet for delelighet med 9 ved hjelp av generisk eksempel.
+
+> [!hidden] 1.4 Medium Delelighetskriterier: 6
+> Begrunn delelighets kriteriet for delelighet med 6 ved hjelp av generisk eksempel.
+
+> [!hidden] 1.4 Spicy Delelighetskriterier: 2
+> Begrunn delelighets kriteriet for delelighet med 2 ved hjelp av tall på utvida form.
+
+> [!hidden] 1.4 Spicy  Delelighetskriterier: 5
+> Begrunn delelighets kriteriet for delelighet med 5 ved hjelp av tall på utvida form.
+
+> [!hidden] 1.4 Spicy Delelighetskriterier: 4
+> Begrunn delelighets kriteriet for delelighet med 4 ved hjelp av tall på utvida form.
+
+> [!hidden] 1.4 Spicy Delelighetskriterier: 3
+> Begrunn delelighets kriteriet for delelighet med 3 ved hjelp av tall på utvida form.
+
+> [!hidden] 1.4 Spicy Delelighetskriterier: 9
+> Begrunn delelighets kriteriet for delelighet med 9 ved hjelp av tall på utvida form.
+
+> [!hidden] 1.4 Spicy Delelighetskriterier: 6
+> Begrunn delelighets kriteriet for delelighet med 6 ved hjelp av tall på utvida form.
 
 > [!hidden] 1.5 Mild 1
 > Finn summen av de naturlige tallene fra 1 til 9 ved hjelp av Gauss-trikset.
@@ -251,6 +294,9 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 
 > [!hidden] 1.5 Mild 6
 > Finn summen av partallene fra 6 til 16.
+
+> [!hidden] 1.5 Mild Vurdering uke 4
+> Avgjør summen av de $10$ første partallene, det vil si rektangeltall nummer  $10$, ved hjelp av Gauss-trikset (doble summen).
 
 > [!hidden] 1.5 Medium 1
 > Utled det eksplisitte uttrykket for summen av de $n$ første naturlige tallene, det vil si trekanttall nummer $n,$ ved hjelp av Gauss-trikset
@@ -286,6 +332,10 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 3. syvkanttallene er følgen, $1, 7, 18, 34,\ldots$
 > 4. $\vdots$
 > Se [følgene i tabellen på wikipedia](https://en.wikipedia.org/wiki/Polygonal_number#Table_of_values).
+
+> [!hidden] 1.5 Spicy Vurdering uke 4
+> 
+> Utled det eksplisitte uttrykket for femkanttall nummer $n$ ved hjelp av Gauss-trikset. Merk at femkanttallene er følgen, $1, 5, 12, 22, \ldots$
 
 > [!hidden] 1.6 Mild 1
 > Utled det eksplisitte uttrykket for rektangeltall $n$ ved hjelp av strategien *figurtall-som-sum.* Vis i en figur hvordan tilleggene danner et rektangel.
@@ -335,6 +385,9 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > [!hidden] 1.7 Mild 4
 > Illustrer åttekanttallene opp til... og så videre, til du har kontroll på teknikken.
 
+> [!hidden] 1.7 Mild Vurdering uke 4
+> Illustrer femkanttallene opp til $F_3$, og utled eksplisitt uttrykk for $F_n$ ved å bruke stirre-hardt-metoden. Merk at tallrekken som tilhører femkanttallene er $1, 5, 12, 22, \ldots$.
+
 > [!hidden] 1.7 Medium 1
 > Under ser du figurtall én til fire. Finn eksplisitt sammenheng ved å bruke stirre-hardt-metoden.
 > 
@@ -350,6 +403,11 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 
 > [!hidden] 1.7 Medium 4
 > Under ser du figurtall én til tre. Finn eksplisitt sammenheng ved å bruke stirre-hardt-metoden. <br> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/d17a5209d55077de9b3ff1db15f2e086d2936193/img/tallteo/figurtall18.drawio.svg)
+
+> [!hidden] 1.7 Medium Vurdering uke 4
+> På figuren under ser du de tre første figurene i en sammensatt figur, der $F_1 = 5$, $F_2 = 13$ og $F_3 = 25$.
+> Finn en eksplisitt formel ved å bruke stirre-hardt-metoden
+>   ![Alt text](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/tallteo/figtall1205.svg)
 
 > [!hidden] 1.8 Mild 1 
 > Illustrer trekanttallene opp til $T_3$, og utled et rekursivt uttrykk for $T_n$. Pek også på den rekursive sammenhengen i figurene du har tegnet.
@@ -663,6 +721,9 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > [!hidden] 3.1 Mild Vurdering uke 3
 > Løs likningen $\frac{3x-5}{2} = 17$. på to måter, formelt og uformelt.
 
+> [!hidden] 3.1 Mild Vurdering uke 4
+> Løs likningen $\frac{-2x+5}{3} = 1$. på to måter, formelt og uformelt.
+
 > [!hidden] 3.1 Medium 1
 > Alfa s. 279
 > 1.  3.40 e)--f). Løs likningene på flere måter der det virker naturlig.
@@ -698,6 +759,10 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 1. Løs likningen $\displaystyle\frac{14}{3-\frac{4x-1}{3}}= 7$ på en uformell måte. Løs likningen deretter formelt.
 > 2. På en skole kan elevene velge én idrett. Det er 26 flere i svømming enn i turn, og det er dobbelt så mange i klatring som i svømming. I alt er det 370 elever på skolen. Hvor mange er det elever er det på de tre idrettsgrenene? Løs problemet på to måter.
 
+> [!hidden] 3.1 Medium Vurdering uke 4
+> 1. Løs likningen på to måter, formelt og uformelt. La det gå klart frem at hvert steg i løsningen din må være riktig. $$3 + \frac{12}{\frac{3x+3}{8}} = 7$$
+> 2. En lærer ga elevene følgende tallgåte: "Tenk på et tall. Legg til fem, og multipliser summen med fire. Trekk så fra seks, og del det du fikk på to. Trekk til slutt fra syv. Hvis du forteller meg tallet du nå har, skal jeg fortelle deg hvilket tall du tenkte på." En elev oppgir åtte. Hvilket tall tenkte hun på? Løs problemet på to måter.  
+
 > [!hidden] 3.2 Mild 1
 > Alfa s. 282
 > Oppgave 3.68
@@ -713,12 +778,19 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > [!hidden] 3.2 Mild Vurdering uke 3
 > Løs ulikheten $2(5+x) \leq 6$.
 
+> [!hidden] 3.2 Mild Vurdering uke 4
+> 
+
 > [!hidden] 3.2 Medium 1
 > Henrik skal klatre og må låne klatreutstyr. Han har 500 kroner og utstyret koster 100kr i tillegg til 50 kr timen. Når Henrik er ferdig har han fortsatt penger igjen. Sett opp og løs en ulikhet som viser hvor lenge Henrik kan ha klatret?
 
 > [!hidden] 3.2 Medium Vurdering uke 3
 > 1. Løs ulikheten $\displaystyle \frac{{-x+1}}{2} \leq \frac{{x+11}}{11}$.
 > 2. Henrik plukker ofte jordbær som sommerjobb. Han får muligheten til å velge mellom 5 kroner per kurv han plukker pluss et grunnhonorar på 100 kroner dagen, eller 3 kroner per kurv og 150 kroner ekstra per dag. Henrik lurer på hvor mange kurver han må plukke om dagen for at det skal lønne seg å velge alternativet som gir 5 kroner per kurv. Sett opp en ulikhet som samsvarer med situasjonen og løs ulikheten for å hjelpe Henrik.
+
+> [!hidden] 3.2 Medium Vurdering uke 4
+> 1. Løs ulikheten $\displaystyle \frac{{3-x}}{4} \leq \frac{{-x}}{5}$
+> 2. André skal kjøpe klær til barna sine. Han trenger én body, og to bukser til Mathias. Totalt koster dette 300 kroner. I tillegg skal han kjøpe noen sokker til Philip. Sokkene koster 35 kroner hver. Han ser at hvis han kjøper for mer enn 1000 kroner så får han 20% rabatt og tenker *Man kan vel aldri få for mange sokker?* Sett opp en ulikhet som samsvarer med situasjonen over og løs den for å finne ut hvor mange par sokker André må kjøpe for å få rabatten.
 
 > [!hidden] 3.3 Mild 1
 > Alfa s. 281 - 3.60. Løs på så mange måter du greier.1. 
@@ -738,6 +810,18 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 
 > Løs likningssettet ved hjelp av
 > 1. innsettingsmetoden og
+> 2. addisjonsmetoden.
+
+> [!hidden] 3.3 Mild Vurdering uke 4
+> 
+> Under ser du to likninger med to ukjente.
+> 
+> $2y = 3(1-2x) - y$,
+> 
+> $\frac{y-3x}{2} = 8$.
+> 
+> Løs likningssettet ved hjelp av
+> 1. grafisk metode og
 > 2. addisjonsmetoden.
 
 > [!hidden] 3.3 Medium 1
@@ -761,9 +845,20 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > [!hidden] 3.3 Medium 5
 >  Gjør NOKUT-oppgaven under (H2022): 
 
+> [!hidden] 3.3 Medium Nokut V24
+> ![[Files/3.3 Løse lineære likningssett med to ukjente, gitt både med og uten kontekst, på ulike måter..png]]
+
 > [!hidden] 3.3 Medium Vurdering uke 3
 > 1. To tall har følgende to egenskaper: Egenskap 1: Divisjon av det største tallet med det andre gir $1$ og $1$ i rest. Egenskap 2: Tar du differansen mellom tallene og deretter deler differansen på 3 får du 3 mindre enn en tredjedel av det største tallet. Avgjør ved hjelp av en formell strategi hvilke to tall det er snakk om.
 > 2. André panter $30$ flasker, og får $72$ kroner. Noen flasker gir to og resten tre kroner i pant. Uten bruk av likninger eller gjett og sjekk, avgjør hvor mange flasker André pantet av hver type.
+
+> [!hidden] 3.3 Medium Vurdering uke 4
+> 
+> På en berg og dalbane er det 40 vogner. I noen vogner sitter det tre personer og i andre fem. Totalt er det 174 med på berg og dalbanen. Bestem hvor mange vogner det sitter tre personer i og hvor mange det sitter fem personer i.
+>   1. Vis hvordan elever kan, uten bruk av likninger kan løse oppgaven.
+>   2. Bruk informasjonen til å lage et likningssett og
+>       1.  Løs oppgaven ved hjelp av innsettingsmetoden.
+>       2. Løs oppgaven ved hjelp av addisjonsmetoden.
 
 > [!hidden] 3.4 Medium 1
 > Alfa s. 279 oppgave 3.40. Løs likningene på flere måter der det virker naturlig. Forklar og begrunn stegene i strategiene du bruker.
@@ -785,6 +880,9 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 
 > [!hidden] 3.4 Medium 7
 > Løs NOKUT-oppgaven under (V2023) <br> ![[Files/3.4NOKUTV2023.png]]
+
+> [!hidden] 3.4 Medium Nokut V24
+> ![[Files/NokutV24.png]]
 
 > [!hidden] 3.4 Medium Vurdering uke 3
 > 1. En elev spør deg hva som egentlig foregår når vi "flytter og bytter" i likninger. Gi en kort og forståelig forklaring.
@@ -821,6 +919,12 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Læreren observerer at elevene bruker ulike strategier. Avgjør for hver av de tre stategiene i)-iii) nedenfor om den er riktig eller feil. Begrunn svaret ditt ved å beskrive hva eleven i hvert tilfelle gjør riktig eller feil.
 > 
 > ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-03-24-15-05-43.png)
+
+> [!hidden] 3.4 Spicy Vurdering uke 4
+> 
+> Under ser du tre elevers løsninger av likningen $3(2x+5)=(12+3x)$. Forklar hvordan elevene kan ha tenkt. Avgjør og begrunn om løsningene er riktige.
+> 
+> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-03-24-15-19-12.png)
 
 > [!hidden] 3.5 Mild 1
 > Løs likningen:
@@ -1214,16 +1318,82 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > \frac{1}{2x-2}\cdot \frac{4x-4}{3}.
 > $$
 
+> [!hidden] 3.13 Mild 5
+> Forenkle uttrykket 
+> $$
+> 2n(n+1)+\frac{(n+1)(2n+4)}{2}.
+> $$
+
+> [!hidden] 3.13 Mild 6
+> Forenkle uttrykket
+> $$
+> 4x(x+9)-2x(2x+3)
+> $$
+
+> [!hidden] 3.13 Mild 7
+> Forenkle uttrykket
+> $$
+> \frac{8}{3x-3}\cdot\frac{9x+9}{4}
+> $$
+
+> [!hidden] 3.13 Mild 8
+> Faktoriser uttrykket
+> $$
+> 2t(t+2)+ \frac{3(t+2)}{2}
+> $$
+
+> [!hidden] 3.13 Mild 9
+> Forenkle uttrykket
+> $$
+> \frac{5n^2-3n}{2} - \frac{5(n-1)^2-3(n-1)}{2}
+> $$
+
+> [!hidden] 3.13 Mild 10
+> Forenkle uttrykket
+> $$
+> n^2-(n-1)^2+\frac{n(n+1)}{2}-\frac{n(n-1)}{2}
+> $$
+
+> [!hidden] 3.13 Medium 0
+> Forenkle uttrykket
+> $$
+> { \frac{1}{1-\frac{1}{n+1}} }- \frac{1}{n}
+> $$
+
 > [!hidden] 3.13 Medium 1
 > Forenkle uttrykket 
 > $$
 > \frac{1}{x-1+\frac{1}{x+1}}- \frac{1}{x}
 > $$
 
+> [!hidden] 3.13 Medium 1.1
+> Forenkle uttrykket
+> $$
+> \frac{2n+1}{1+\frac{n}{n+1}}
+> $$
+
 > [!hidden] 3.13 Medium 2
 > Forenkle uttrykket 
 > 
 > $\displaystyle2\cdot \frac{ \frac{2h-5}{(h+7)(h-8)}}{\frac{4h-10}{h-8}}$
+
+> [!hidden] 3.13 Medium 3
+> Forenkle uttrykket
+> $$
+> 2n(n+1)-1+ \frac{(n+1)^2}{3}+{ \frac{n+1}{1-\frac{1}{n+2}} }
+> $$
+
+> [!hidden] 3.13 Medium 4
+> Forenkle uttrykket
+> $$
+> 3n(n+1)-1+{ \frac{n+1}{1-\frac{1}{n+2}} }
+> $$
+
+> [!hidden] 3.13 Medium 5
+> Forenkle uttrykket
+> $$
+> \frac{1}{x-1-\frac{x^2}{x+1}}
+> $$
 
 > [!hidden] 3.13 Spicy 1
 > Hvilket av uttrykkene har ikke samme verdi som de andre?
@@ -1242,20 +1412,75 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > [!hidden] 3.13 Spicy 3
 > Uttrykket $x^3 + x^2 y + 3 x^2 + 3 x y^2 + 7 x y + 3 y^3 + 4 y^2$ har $(x+y)$ som en faktor. Faktoriser ut $(x+y)$ fra uttrykket. 
 
+> [!hidden] 3.13 Spicy 3.5
+> Forenkle uttrykket
+> $$
+>  3z(z+1)+ \frac{9z^2+18z+9}{3z+3}+{ \frac{(z-2)(z+1)}{\left( 1-\frac{1}{z+2}  \right)(z^2-4) } }+z
+> $$
+
 > [!hidden] 3.13 Spicy 4
 > Vis at $(pq-1)(pr-1)(rq-1)-(pr+pq+rq) = (pqr)^2$ kan omformes til $\frac{1}{pr}+\frac{1}{pq}+\frac{1}{qr} = -1$.
 
 > [!hidden] 3.13 Spicy 5
-> Vis at 
-> $\displaystyle{\sqrt{3+2\sqrt{\sqrt{3+2\sqrt 2} -\sqrt{3-2\sqrt 2}}}-\sqrt{3-2\sqrt{\sqrt{3+2\sqrt 2} -\sqrt{3-2\sqrt 2}}}}$ 
-> 
-> kan omformes til 2. 
+> Forenkle uttrykket
+> $$
+> 2n(n+1)+ \frac{n^2+2n+1}{3}+{\color{} \frac{(n-2)(n+1)}{(1-\frac{1}{n+2} )(n^2-4) } }
+> $$
+
+> [!hidden] 3.14 Medium Nokut H24
+> ![[Files/H24.png]]
+
+> [!hidden] 3.14 Medium Nokut H24
+> ![[Files/H24 6.png]]
+
+> [!hidden] 3.14 Medium Nokut H23
+> ![[Files/H23nokut.png]]
+
+> [!hidden] 3.14 Medium Nokut V23
+> ![[Files/nokutv23.png]]
+
+> [!hidden] 3.14 Medium Nokut V23
+> ![[Files/Nokutv3.png]]
+
+> [!hidden] 3.14 Medium Nokut H21
+> ![[Files/3.14 Tolke algebraiske uttrykk geometrisk, med ord og kontekst.-6.png]]
+
+> [!hidden] 3.14 Medium Nokut H21
+> ![[Files/3.14 Tolke algebraiske uttrykk geometrisk, med ord og kontekst.-7.png]]
+
+> [!hidden] 3.14 Medium H21
+> ![[Files/3.14 Tolke algebraiske uttrykk geometrisk, med ord og kontekst.-8.png]]
+
+> [!hidden] 3.15 Medium NOKUT H24
+> ![[Files/NokutH2411.png]]
+
+> [!hidden] 3.15 Medium Nokut V24
+> ![[Files/V24Nokut.png]]
+
+> [!hidden] 3.15 Medium Nokut V23
+> ![[Files/Pasted image 20250124114059.png]]
+
+> [!hidden] 3.15 Medium Nokut H22
+> ![[Files/3.15 Analysere elevers arbeid med algebraiske uttrykk.-4.png]]
+
+> [!hidden] 3.15 Medium Nokut V22
+> ![[Files/3.15 Analysere elevers arbeid med algebraiske uttrykk.-5.png]]
+
+> [!hidden] 3.15 Medium Nokut
+> ![[Files/3.15 Analysere elevers arbeid med algebraiske uttrykk.-6.png]]
+
+> [!hidden] 3.15 Medium Nokut H21
+> ![[Files/3.15 Analysere elevers arbeid med algebraiske uttrykk.-9.png]]
 
 > [!hidden] 4.1 Mild 1
 > Forklar kort, og gi eksempler på hver av de additive strukturene *økning, komplettering, forening, sammenlikning* og *oppheving av minskning*. 
 
 > [!hidden] 4.1 Mild 2
 > Forklar kort, og gi eksempler på tilsvarende strukturer for subtraksjon. 
+
+> [!hidden] 4.1 Mild Vurdering uke 4
+> 1. Beskriv tre situasjoner som har addisjon som modell med henholdsvis økning, forening og additiv sammenlikning som struktur.
+> 2. Velg én av situasjonene over. Omformuler den slik at det er rimelig å si at den har samme struktur, men med subtraksjon som modell.
 
 > [!hidden] 4.1 Medium 1
 > Avgjør hvilken additiv struktur situasjonene svarer til. Spesifiser også hva som er ukjent der det er relevant. Merk at én og samme situasjon kan tolkes både som addisjon og subtraksjon.
@@ -1266,11 +1491,22 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 >    5. Arne innser at prosjekt «egen pantemaskin» ikke lar seg gjennomføre uten hjelp. Han slår seg sammen med Anne. De har til sammen 9 530. Hvor mange penger har Anne?
 >    6. Etter en tids hardt innsamlingsarbeid, kjøper Arne og Anne omsider en pantemaskin. De sitter da igjen med 421 kroner. Hvor mye penger hadde før de kjøpte maskinen?
 
+> [!hidden] 4.1 Medium Vurdering uke 4
+>
+> 1. I hver situasjon under, argumenter for to additive strukturer det er rimelig å si at situasjonen er et eksempel på. Oppgi i hvert tilfelle addisjons- eller subtraksjonsstykket som passer.
+>     1. Henrik hiver to dartpiler. Første pil treffer $18$, andre pil $17$. Hvor mange poeng fikk han?  
+>     2. André samler enhjørning-klistremerker. En pakke klistremerker koster $349$, men stakkars André har bare $200$ kroner. Hvor mye mer trenger han for å få råd?
+> 2. Lag en oppgave til $150 + {\_\_} =225$ med additiv sammenlikning som struktur.
+
 > [!hidden] 4.2 Mild 1
 > Forklar kort, og gi eksempler på hver av de multiplikative strukturene *like grupper, rate, sammenlikning, kombinatorisk situasjon* og *rektangulært arrangement*. 
 
 > [!hidden] 4.2 Mild 2
 > Forklar kort, og gi eksempler på *delingsdivisjon* og *målingsdivisjon*. 
+
+> [!hidden] 4.2 Mild Vurdering uke 4
+> 1. Forklar kort, og gi eksempler på hver av de multiplikative strukturene *like grupper, rate, sammenlikning, kombinatorisk situasjon* og *rektangulært arrangement*.
+> 2. Forklar kort, og gi eksempler på *delingsdivisjon* og *målingsdivisjon*.
 
 > [!hidden] 4.2 Medium 
 > Avgjør hvilken multiplikativ struktur situasjonene svarer til. Spesifiser også hva som er ukjent der det er relevant. Merk at én og samme situasjon kan tolkes både som multiplikasjon og divisjon.
@@ -1282,13 +1518,34 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 6. Etter å ha betalt for garnet, hadde Arne og Anne 164 kroner igjen som de fordeler likt mellom seg. Hvor mye får hver?
 > 7. Hver fargestripe måler fem centimeter nedover den lengste sida. Hvor mange striper har teppet?
 
+> [!hidden] 4.2 Medium Vurdering uke 4
+> 1. Avgjør og begrunn hvilken multiplikativ struktur situasjonene svarer til.
+>     1.  Antall Twist André spiser på $6,5$ minutter når han spiser $12$ Twist i minuttet.
+>     2. Arealet av en rektangulær terrasse med sider $2,3$ og $4,7$ meter.
+>     3. En strekning på $12 \ \text{km}$ er delt opp i $4$ etapper.  
+> 2. Ta utgangspunkt i situasjon c. Legg til nødvendig informasjon, og omformuler på to måter: slik at du lager én divisjonsoppgave med målingsdivisjon og én med delingsdivisjon. Begrunn hvilken som er hva.  
+
 > [!hidden] 4.3 Mild 1
 > Forklar kort, og gi eksempler på kommutativ og assosiativ egenskap for 
 > 1. addisjon
 > 2. multiplikasjon 
 
+> [!hidden] 4.3 Mild Vurdering
+> 1. Forklar kort, og gi eksempler på kommutativ og assosiativ egenskap for
+>     1. addisjon
+>     2. multiplikasjon
+> 2. Forklar kort og gi et eksempel på distributiv egenskap
+
 > [!hidden] 4.3 Medium 1
-> Lag illustrasjoner som viser at egenskapene gjelder.> [!hidden] 4.4 Mild 1
+> Lag illustrasjoner som viser at egenskapene gjelder.
+
+> [!hidden] 4.3 Medium Vurdering uke 4
+> Lag illustrasjoner med tilhørende forklaring som viser
+> 1. at addisjon er kommutativt
+> 2. at multiplikasjon er kommutativt
+> 3. at den distributive egenskap gjelder
+
+> [!hidden] 4.4 Mild 1
 >  Gjør beregningene ved hjelp av strategier (som ikke er oppstilt regning).
 >   1. $126-311$
 >   2. $126+37$
@@ -1306,6 +1563,13 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > 5. $15\cdot 8 + 30$
 > 6. $\frac{5}{4}\cdot 120$
 
+> [!hidden] 4.4 Mild Vurdering uke 4
+> 
+> Vis hvordan én eller flere av de tre egenskapene (kommutativitet, assosiativitet og distributivitet) kan brukes som regnestrategier.
+> 1. $15\cdot 8$
+> 2. $20\cdot 13$
+> 3. $5\cdot (13 \cdot 2)$
+
 > [!hidden] 4.4 Medium 1
 > Gjør oppgavene fra middels. Begrunn, og dersom hensiktsmessig, illustrer strategien slik at det går tydelig frem at den alltid funker.
 
@@ -1313,6 +1577,13 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > Fra Nasjonal deleksamen 30.11.22: 
 > 
 > ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/tall/image1.png)
+
+> [!hidden] 4.4 Medium Vurdering uke 4
+> 1. Bruk multiplikasjonen $5 \cdot 8$ til å illustrere og gi en kort forklaring av distributiv egenskap.
+> 2. Gjør beregningene under ved hjelp av regnestrategier som ikke innebærer oppstilt regning. Vis tydelig hvordan du tenker.
+> 3. Velg én av strategiene fra 2., og gi en illustrasjon og kort forklaring som viser at strategien alltid funker.
+>     -  $240 : 20$
+>     -  $160 \cdot \frac{3}{4}$
 
 > [!hidden] 4.5 Mild Oppgave
 > 1. Forklar hva naturlige, hele, rasjonale og irrasjonale tall er.
@@ -1765,6 +2036,9 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 > [!hidden] 5.1 Mild Vurdering uke 3
 > Du skal reise til København med vennegjengen. Du skal ta buss til Oslo og deretter ta fly fra Oslo. Du kan velge mellom tre forskjellige busselskap og tre forskjellige flyselskap. Hvor mange forskjellige reisevalg har du?
 
+> [!hidden] 5.1 Mild Vurdering uke 4
+> Du har tre bukser, fem t-skjorter å velge mellom. Bruk produktregelen til å avgjøre hvor mange forskjellige antrekk kan du bruke?
+
 > [!hidden] 5.1 Medium 1
 > Forklar, ved hjelp av en illustrasjon, hvorfor følgende situasjon beskriver et sammensatt valg. *Henrik skal kjøpe mat og drikke i kantina. Han velger å kjøpe en suppemeny, der han kan velge mellom tre forskjellige typer supper og seks forskjellige typer drikke*.
 > 
@@ -1782,6 +2056,13 @@ Her kan du lage en `null-risko-test` ved å velge ut hvilke læringsmål du vil 
 
 > [!hidden] 5.1 Medium Vurdering uke 3
 > _Du skal reise til København med vennegjengen. Du skal ta buss til Oslo og deretter ta fly fra Oslo. Du kan velge mellom tre forskjellige busselskap og tre forskjellige flyselskap. Hvor mange forskjellige reisevalg har du?_
+> 1. Løs oppgaven ved hjelp av produktregelen.
+> 2. Bruk oppgaven til å illustrere og forklare hvorfor produktregelen må gjelde generelt.
+
+> [!hidden] 5.1 Medium Vurdering uke 4
+> Ta utgangspunkt i følgende oppgave:
+> 
+> *Du har tre bukser, fem t-skjorter å velge mellom. Bruk produktregelen til å avgjøre hvor mange forskjellige antrekk kan du bruke?*
 > 1. Løs oppgaven ved hjelp av produktregelen.
 > 2. Bruk oppgaven til å illustrere og forklare hvorfor produktregelen må gjelde generelt.
 
