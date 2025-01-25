@@ -32,6 +32,7 @@ def process_markdown_files(root_folder):
                     
                 elif line.startswith("> [!abstract]") or line.startswith("> [!abstract]-") or line.startswith("> [!abstract]+"):
                     if IsATask == True:
+                        print(line)
                         hidden_tasks_content.append("\n")  # Add an empty line
                     # Replace > [!abstract] with > [!hidden] LM LVL
                     print(f"{LM} på {LVL}")

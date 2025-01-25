@@ -478,6 +478,7 @@
 >     3. 4.15
 >     4. 4.17
 >     5. **Bonus** (ut over læringsmålet): 4.18 og 4.19
+
 > [!hidden] 2.3 Medium 1
 > La en andregradsfunksjon ha formen $f(x)=ax^2+c$. Forklar og vis i et koordinatsystem hva som skjer når
 >    a. parameten $a$ endres
@@ -485,8 +486,11 @@
 
 > [!hidden] 2.3 Medium 2
 > Vi kan tenke på en kvadratisk funksjon $ax^2+bx+c$ som en lineær funksjon $bx+c$ som er gitt et kvadratisk tillegg $ax^2$. Skisser en graf, og forklar hvorfor det kvadratiske uttrykket gir en buet graf. 
+
 > [!hidden] 2.4 Medium 1
-> En omvendt proporsjonal funksjon er en funksjon på formen $f(x) = {a\over x}$. Forklar og skisser hvordan grafen til $f(x) = {100\over x}$ oppfører seg. Bruk skissen til å forklare hvordan endringer i parameteren \(a\) påvirker grafens utseende, også når $a<0$.> [!hidden] 2.5 Medium 1
+> En omvendt proporsjonal funksjon er en funksjon på formen $f(x) = {a\over x}$. Forklar og skisser hvordan grafen til $f(x) = {100\over x}$ oppfører seg. Bruk skissen til å forklare hvordan endringer i parameteren \(a\) påvirker grafens utseende, også når $a<0$.
+
+> [!hidden] 2.5 Medium 1
 > Gitt $4x - 7 = - 5x + 3$.
 > 1. Løs likningen.
 > 2. Forklar hva det vil si at tallet du fant er løsning av likningen.
@@ -533,6 +537,7 @@
 > En fjernstyrt bli som kjører 12 m/s bruker 3/2 sekunder på å nå topphastigheten. Frem til det er strekningen den tilbakelegger gitt ved $s(t) = 4t^{2}$, der $t$ er tiden målt i sekunder. Fra og med 3/2 sek., holder bilen 12 m/s.<br>
 > 1. Skisser situasjonen i et koordinatsystem.<br>
 > 2. Finn funksjonsuttrykket som beskriver tilbakelagt strekning fra og med 3/2 sek.
+
 > [!hidden] 2.6 Mild 1
 > Ta utgangspunkt i en funksjonssammenheng (velg selv), og bruk den til å forklare begrepene.
 
