@@ -2058,6 +2058,10 @@
 > 1. På en skole er det 200 elever. På fritiden driver 100 stykker med fotball, 50 driver med håndball, 20 driver med klatring. De som klatrer driver ikke med noen annen idrett på fritiden. I tillegg er det 70 som ikke driver med noen av disse idrettene på fritiden. Hvor mange er det som driver med fotball eller håndball?
 > 2. Illustrer problemet i et Venn-diagram og bruk dette til å forklare addisjonssetningen.
 
+> [!hidden] 5.2 Medium Vurdering uke 4
+> 1. På en skole var det tre aktiviteter som var veldig typiske, badminton, volleyball og esport. Det var 23 stykker som drev med badminton, 20 stykker som drev med volleyball og 60 som drev med esport. Ingen av de som drev med esport drev med badminton eller volleyball. Det var 13 som drev med både volleyball og badminton. I tillegg var det 100 elever som kun drev med andre aktiviteter på fritiden. Hvor mange elever gikk det på skolen?
+> 2. Ved hjelp av et eksempel, illustrer og forklar addisjonssetningen.
+
 > [!hidden] 5.3 Mild Avgjør om situasjonene under kan tenkes som (u)ordnede utvalg m/u tilbakelegg
 > 1. Du skal velge ut en komité fra en 20 lærerstudenter. Komitéen skal bestå av 4 studenter.
 > 2. En klasse med 25 elever skal velge tillitsvalgt. De skal velge to tillitsvalgte. Første elev skal være hovedtillitsvalgt, neste skal være stedfortreder.
@@ -2075,6 +2079,13 @@
 > 3. I en klasse er det 12 gutter og 10 jenter. På hvor mange måter kan man velge ut 4 gutter?
 > 4. En student ved lærerutdanninga har møtt opp på alle obligatoriske undervisninger. Nå gjenstår det fire obligatoriske seminarer, og studenten vil komme over fraværsgrensa på 70% selv om de ikke møter på noen av seminarene. Studenten har derfor konkludert med at de står fritt til å velge om de vil møte opp eller ikke for hver av de fire seminarene. På hvor mange utvalg av seminarer kan de velge å gå på?
 
+> [!hidden] 5.3 Mild Vurdering uke 4
+> Avgjør om situasjonene under kan tenkes som ordnede eller uordnede utvalg og om utvalgene er med eller uten tilbakelegg:
+> 1. Du trekker fem forskjellige kuler fra en urne som inneholder kuler nummerert fra 1 til 10. Hvor mange ulike utvalg kan du gjøre?
+> 2. Du har en liste med 50 middager som du liker. Hver uke trekker du ut syv middagsretter som utgjør din ukesmeny. Hvor mange forskjellige ukesmenyer kan du lage?
+> 3. Et lag skal spille 12 kamper. Du er interessert i sluttresultatene og registrerer resultatene i en tabell. I tabellen har du tre kolonner, seier, uavgjort og tap. Du setter en $x$ i riktig kolonne for hver kamp som spilles. Avgjør hvor mange måter tabellen kan se ut når de 12 kampene er spilt.
+> 4. Du har konkludert med at du rekker 10 oppgaver hver gang det er en vurderingsøkt. Neste uke er det 40 mulige oppgaver å gjøre. Hvor mange mulige utvalg av oppgaver kan du velge ut?
+
 > [!hidden] 5.3 Medium 1
 > Løs oppgavene fra mild
 
@@ -2091,6 +2102,18 @@
 >     2. I en klasse på 18 elever skal det velges ut en elevrådsleder og en vara. På hvor mange måter kan det gjøres på?
 >     3. I en klasse er det 12 gutter og 10 jenter. På hvor mange måter kan man velge ut 4 gutter?
 >     4. En student ved lærerutdanninga har møtt opp på alle obligatoriske undervisninger. Nå gjenstår det fire obligatoriske seminarer, og studenten vil komme over fraværsgrensa på 70% selv om de ikke møter på noen av seminarene. Studenten har derfor konkludert med at de står fritt til å velge om de vil møte opp eller ikke for hver av de fire seminarene. På hvor mange utvalg av seminarer kan de velge å gå på?
+> 2. Ved hjelp av fire eksempler, forklar utvalgene
+>     1. ordna utvalg med tilbakelegg,
+>     2. ordna utvalg uten tilbakelegg,
+>     3. uordna utvalg uten tilbakelegg,
+>     4. uordna utvalg med tilbakelegg.
+
+> [!hidden] 5.3 Medium Vurdering uke 4
+> 1. Avgjør om situasjonene under kan tenkes som ordnede eller uordnede utvalg og om utvalgene er med eller uten tilbakelegg:
+>     1. Du trekker fem forskjellige kuler fra en urne som inneholder kuler nummerert fra 1 til 10. Hvor mange ulike utvalg kan du gjøre?
+>     2. Du har en liste med 50 middager som du liker. Hver uke trekker du ut syv middagsretter som utgjør din ukesmeny. Hvor mange forskjellige ukesmenyer kan du lage?
+>     3. Et lag skal spille 12 kamper. Du er interessert i sluttresultatene og registrerer resultatene i en tabell. I tabellen har du tre kolonner, seier, uavgjort og tap. Du setter en $x$ i riktig kolonne for hver kamp som spilles. Avgjør hvor mange måter tabellen kan se ut når de 12 kampene er spilt.
+>     4. Du har konkludert med at du rekker 10 oppgaver hver gang det er en vurderingsøkt. Neste uke er det 40 mulige oppgaver å gjøre. Hvor mange mulige utvalg av oppgaver kan du velge ut?
 > 2. Ved hjelp av fire eksempler, forklar utvalgene
 >     1. ordna utvalg med tilbakelegg,
 >     2. ordna utvalg uten tilbakelegg,
@@ -2130,6 +2153,12 @@
 > 3. Avgjør hvor mange utfall som gir at andremann får lov til å spille?
 > 4. Avgjør hvor mange utfall som gir at femtemann eller tredjemann får lov til å spille?
 
+> [!hidden] 5.4 Medium Vurdering uke 4
+> Du skal kaste en mynt seks ganger og noterer resultatene i rekkefølge. For eksempel kan et utfall være $MMMKKK$, altså tre først tre mynt og så tre kron.
+> 1. Hvor mange mulige utfall finnes det?
+> 2. Hvor mange mulige utfall er det som gir like mange kron, som mynt?
+> 3. Hvor mange mulige utfall er det som inneholder minst en mynt?
+
 > [!hidden] 5.4 Spicy 1
 > En lærer skal ta med seg 16 elever på skolekino. Det er to av elevene, Henrik og André, som nekter å sitte på siden av hverandre. 
 > 1. Hvor mange måter kan de 16 elevene sitte, slik at Henrik og André slipper å sitte på siden av hverandre?
@@ -2164,6 +2193,13 @@
 > 2. Hvor mange ulike hender kan _du_ trekke som inneholder nøyaktig to blå kort?<br> <br>Når dere begge har trukket tre kort, sier vi at vi har et spill, der du har tre kort og Henrik har tre kort på hånden. Ulike hender fører til ulike spill.
 > 3. Forklar at det er $\frac{12\cdot11\cdot10}{3!}\cdot \frac{9\cdot8\cdot7}{3!}$ ulike spill kan vi få.
 > 4. Hvor mange ulike spill kan vi få, der minst én av dere har to røde kort på hånden?
+
+> [!hidden] 5.4 Spicy Vurdering uke 4
+> Du har en krukke med 10 baller. 5 er grønne som er nummerert 1-5, 3 er røde som er nummerert 6-8 og 2 er blå som er nummerert 9-10. Du skal trekke tre kuler og vi bryr oss ikke om rekkefølgen på kulene vi trekker ut
+> 1. Hvor mange ulike utvalg kan man trekke?
+> 2. Hvor mange utvalg kan vi trekke der vi har minst én grønn kule?
+> 3. Hvor mange utvalg kan vi trekke der vi har minst to røde kuler?
+> 4. Hvor mange utvalg kan vi trekke der vi kun trekker partall, og ikke har tre forskjellige farger?
 
 > [!hidden] 5.5 Mild 1
 >  Ved hjelp av et eksempel forklar begrepene utfallsrom, utfall og hendelse. 
