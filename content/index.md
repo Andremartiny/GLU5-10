@@ -69,20 +69,16 @@ Hvis du ønsker å se din personlige oversikt kan du få nøkkel fra André og s
 > 
 > > [!abstract]+ Litteratur
 > > - [x] Legge inn heftet i geometri 
-> > - [ ] Legge inn heftet i sannsynlighet
+> > - [x] Legge inn heftet i sannsynlighet
 > > - [x] Legge inn heftet i kombinatorikk
-> > - [ ] Legge inn heftet i likninger, ulikheter og algebraiske uttrykk
-> >     - [x] Legge inn grovversjon
-> >     - [ ] Gå over alle bildene
-> >         - Eksempel på bilde som må fikses [[Likninger og ulikheter/14.3 Løsning ved hjelp av andre kvadratsetning|løsning ved hjelp av andre kvadratsetning]]
-> >     - [ ] Gå over formatering
-> > - [ ] Legge inn heftet i tall
-> > - [ ] Legge inn heftet i funksjoner
+> > - [x] Legge inn heftet i likninger, ulikheter og algebraiske uttrykk
+> > - [x] Legge inn heftet i tall
+> > - [x] Legge inn heftet i funksjoner
 > > - [ ] Legge inn relevante didaktiske ressurser som øvingsoppgaver og lignende
 > 
 > > [!abstract]+ Funksjonalitet
 > >  - [x] Lage mulighet for å se personlig fremgang i kurset
-> >  - [ ] Side der man kan lage egne `null-risk-tester` ved å tilfeldig trekke ut oppgaver basert på selvvalgte læringsmål og nivå.
+> >  - [x] Side der man kan lage egne `null-risk-tester` ved å tilfeldig trekke ut oppgaver basert på selvvalgte læringsmål og nivå.
 >   
 > 
 > > [!abstract]+  Annet
