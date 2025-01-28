@@ -241,7 +241,7 @@ input[type="checkbox"] {
   color: var(--secondary);
   border: 1px solid #fafafa3d;
   border-radius: 3px;
-  background-color: #fafafa3d;
+  background-color: var(--lightgray);
   position: relative;
   margin-inline-end: 0.2rem;
   // margin-inline-start: -1.4rem;

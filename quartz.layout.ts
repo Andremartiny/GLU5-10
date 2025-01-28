@@ -60,6 +60,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
+    Component.Darkmode(),
     Component.DesktopOnly(
     Component.Explorer({
       mapFn: (node) => {
@@ -119,6 +120,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
+    Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
       mapFn: (node) => {
         // dont change name of root node

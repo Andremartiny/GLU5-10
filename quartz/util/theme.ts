@@ -8,6 +8,10 @@ export interface ColorScheme {
   tertiary: string
   highlight: string
   textHighlight: string
+  greencorrect: string
+  redwrong: string
+  scrollbar: string
+  custombakgrunn: string
 }
 
 interface Colors {
@@ -51,7 +55,10 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.lightMode.tertiary};
   --highlight: ${theme.colors.lightMode.highlight};
   --textHighlight: ${theme.colors.lightMode.textHighlight};
-
+  --greencorrect: ${theme.colors.lightMode.greencorrect};
+  --redwrong: ${theme.colors.lightMode.redwrong};
+  --scrollbar: ${theme.colors.lightMode.scrollbar};
+  --custombakgrunn: ${theme.colors.lightMode.custombakgrunn};
   --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
   --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
   --codeFont: "${theme.typography.code}", ${DEFAULT_MONO};
@@ -67,6 +74,11 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.darkMode.tertiary};
   --highlight: ${theme.colors.darkMode.highlight};
   --textHighlight: ${theme.colors.darkMode.textHighlight};
+  
+  --custombakgrunn: ${theme.colors.darkMode.custombakgrunn};
+  --greencorrect: ${theme.colors.darkMode.greencorrect};
+  --redwrong: ${theme.colors.darkMode.redwrong};
+  --scrollbar: ${theme.colors.darkMode.scrollbar};
 }
 `
 }
