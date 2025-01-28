@@ -33,4 +33,19 @@ draft: "true"
 
 
 
+> [!abstract] Nokut V24
+> ![[Files/Uplasserte nokutoppgaver-8.png]]
 
+> [!note]- Løsning 
+> Sensorveiledning
+> ![[Files/Uplasserte nokutoppgaver-9.png]]
+
+
+
+> [!abstract] Nokut V24
+> ![[Files/Uplasserte nokutoppgaver-10.png]]
+
+
+> [!note]- Løsning 
+> ![[Files/Uplasserte nokutoppgaver-11.png]]
+> ![[Files/Uplasserte nokutoppgaver-12.png]]
