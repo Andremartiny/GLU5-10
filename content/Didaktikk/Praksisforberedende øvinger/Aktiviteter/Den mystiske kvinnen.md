@@ -1,12 +1,3 @@
----
-Date: 2023.08.28
-Status: "#draft"
-Links:
-  - "[[../Litteratur/BTC/Høyt engasjerende oppgaver - MOC|Høyt engasjerende oppgaver - MOC]]"
-tags:
-  - highlyengaging
-dg-publish: true
----
 # Den mystiske kvinnen
 
 En mystisk kvinne har reservert tre rom vegg i vegg på et hotell. Da hun sjekker inn, sier hun til resepsjonisten at han alltid vil kunne finne henne på rommet ved siden av det rommet hun var på natten før.
