@@ -27,6 +27,7 @@ function revealRandomCallout(TITTEL) {
     // Change the data-callout attribute to "custom"
     selectedCallout.setAttribute('data-callout', 'custom');
     
+    selectedCallout.setAttribute('class', 'callout custom');
   selectedCallout.style.maxHeight = 'none'; // Adjust max-height to ensure it's fully visible
     // console.log('Changed data-callout to "custom" for:', selectedCallout);
   }
@@ -66,6 +67,7 @@ function resetprocessCheckedCallouts() {
     const callouts = document.querySelectorAll('blockquote[data-callout="custom"]');
     for (let i = 0; i < callouts.length; i++) {
     callouts[i].setAttribute('data-callout', 'hidden');
+    callouts[i].setAttribute('class', 'callout hidden');
     }
     
   document.getElementById('restart').style.display = 'none';
