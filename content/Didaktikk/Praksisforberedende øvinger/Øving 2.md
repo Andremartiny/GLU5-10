@@ -1,6 +1,3 @@
----
-draft:
----
 I vår andre øving skal vi fokusere på:
 
 - BTK kapittel 8 - Elevenes selvstendighet i tenkende klasserom
