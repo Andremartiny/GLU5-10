@@ -23,7 +23,7 @@ Ta på deg matematikkelevhatten og gjør aktiviteten som er koblet til din klass
 - Ta nå av matematikkelevhatten og på matematikklærerhatten. Se tilbake på det du har gjort og det du la merke til. Noter momenter du syns var vanskelig, interessante eller spennende med aktiviteten. Er det noe du tenker er viktig å være bevisst på når man skal bruke denne aktiviteten som lærer?
 - Gå inn på læreplanen i matematikk. Avgjør hvilke trinn, kompetansemål og kjerneelementer denne aktiviteten kan relateres til.
 
-### Litteratur
+### Litteratur 
 
 Nå som du har satt deg inn i den matematiske aktiviteten, skal du også sette deg inn i noe didaktisk litteratur. Når du leser, er ikke målet å ha lest bare for å ha lest. Vi har valgt ut litteraturen fordi vi vil at dere skal sitte igjen med noe. Under finner du flere spørsmål koblet til tekstene du skal lese. Du bær derfor ha noen tanker rundt spørsmålene når du er ferdig å lese!
 
