@@ -139,6 +139,10 @@
 > 1. Gjør om $325_{\text{ti}}$ til base åtte.
 > 2. Gjør om $112_{fire}$ til base seks.
 
+> [!hidden] 1.3 Medium Vurdering uke 6
+> 1. Gjør om $325_{\text{ti}}$ til base ni.
+> 2. Gjør om $112_{fire}$ til base fem.
+
 > [!hidden] 1.3 Spicy 1
 > Gjør beregningene i den aktuelle basen (uten å oversette til base ti, altså)
 > $123_{fem} + 321_{fem}$
@@ -205,6 +209,12 @@
 >     1. a. $\text{A}3_{tolv} \cdot 24_{tolv}$  
 >     2. b. $888_{ni} : \ 7_{ni}$
 
+> [!hidden] 1.3 Spicy Vurdering uke 6
+> 1. Gjør om $455{syv}$ til base seks. Vis hvordan du går frem.
+> 2. Regn ut i den aktuelle basen:
+>     1. $12332_{syv} - 5665_{syv}$  
+>     2. $3135_{åtte} : 11_{åtte}$
+
 > [!hidden] 1.4 Mild Oppgave
 > Gjengi delelighetskriteriene.
 
@@ -270,6 +280,9 @@
 > [!hidden] 1.5 Mild Vurdering uke 5
 > Avgjør summen av de $9$ første naturlige tallene, det vil si trekanttall nummer  $n,$ ved hjelp av Gauss-trikset (doble summen) geometrisk.
 
+> [!hidden] 1.5 Mild Vurdering uke 5
+> Avgjør summen av de $5$ første oddetallene, det vil si kvadrattall nummer  $5$, ved hjelp av Gauss-trikset (doble summen).
+
 > [!hidden] 1.5 Medium 1
 > Utled det eksplisitte uttrykket for summen av de $n$ første naturlige tallene, det vil si trekanttall nummer $n,$ ved hjelp av Gauss-trikset
 > 1. ved hjelp av figur
@@ -294,6 +307,9 @@
 > [!hidden] 1.5 Medium Vurdering uke 5
 > Utled det eksplisitte uttrykket for summen av de $n$ første oddetallene, det vil si kvadrattall nummer $n,$ ved hjelp av Gauss-trikset.
 
+> [!hidden] 1.5 Medium Vurdering uke 6
+> Utled det eksplisitte uttrykket for summen av de $n$ første partallene, det vil si rektangeltall nummer $n,$ ved hjelp av Gauss-trikset.
+
 > [!hidden] 1.5 Spicy 1
 > Utled det eksplisitte uttrykket for summen av de $n$ første femkanttallene, sekskanttallene, syvkanttallene...., det vil si k-kanttall nummer $n,$ ved hjelp av Gauss-trikset
 > 1. ved hjelp av figur
@@ -314,6 +330,10 @@
 
 > [!hidden] 1.5 Spicy Vurdering uke 5
 > 
+
+> [!hidden] 1.5 Spicy Vurdering uke 6
+> 
+> Utled det eksplisitte uttrykket for syvkanttall nummer $n$ ved hjelp av Gauss-trikset. Merk at syvkanttallene er følgen, $1, 7, 18, 34, \ldots$
 
 > [!hidden] 1.6 Mild 1
 > Utled det eksplisitte uttrykket for rektangeltall $n$ ved hjelp av strategien *figurtall-som-sum.* Vis i en figur hvordan tilleggene danner et rektangel.
@@ -344,6 +364,10 @@
 > [!hidden] 1.6 Medium Vurdering uke 5
 > Illustrer sekskanttallene opp til $S_3$, og utled eksplisitt uttrykk for $S_n$ ved hjelp av strategien figurtall-som-sum-knepet. Merk at tallrekken som tilhører sekskanttallene er $1, 6, 15, 28,  \ldots$.
 
+> [!hidden] 1.6 Medium Vurdering uke 6
+> 
+> Illustrer femkanttallene opp til $F_3$, og utled eksplisitt uttrykk for $F_n$ ved hjelp av strategien figurtall-som-sum-knepet. Merk at tallrekken som tilhører femkanttallene er $1, 5, 12, 22, \ldots$.
+
 > [!hidden] 1.6 Spicy 1
 > Under ser du figurtall én til fire. Finn eksplisitt sammenheng ved hjelp av strategien *figurtall-som-sum-knepet*.
 >  
@@ -357,6 +381,13 @@
 > [!hidden] 1.6 Spicy Vurdering uke 5
 > På figuren under ser du de fire første figurene i en sammensatt figur, der $F_1 = 4$, $F_2 = 10$ og $F_3 = 19$.. Finn en eksplisitt formel ved hjelp av figurtall-som-sum-knepet.
 > ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-03-24-14-31-42.png)
+
+> [!hidden] 1.6 Spicy Vurdering uke 6
+> 
+> På figuren under ser du de tre første figurene i en sammensatt figur, der $F_1 = 5$, $F_2 = 13$ og $F_3 = 25$.
+> 
+> Finn en eksplisitt formel ved hjelp av figurtall-som-sum-knepet.
+>   ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/tallteo/figtall1205.svg)
 
 > [!hidden] 1.7 Mild 1
 > Illustrer femkanttallene opp til $F_3$, og utled eksplisitt uttrykk for $F_n$ ved å bruke stirre-hardt-metoden.
@@ -372,6 +403,10 @@
 
 > [!hidden] 1.7 Mild Vurdering uke 4
 > Illustrer femkanttallene opp til $F_3$, og utled eksplisitt uttrykk for $F_n$ ved å bruke stirre-hardt-metoden. Merk at tallrekken som tilhører femkanttallene er $1, 5, 12, 22, \ldots$.
+
+> [!hidden] 1.7 Mild Vurdering uke 6
+> 
+> Illustrer syvkanttallene opp til $S_3$, og utled eksplisitt uttrykk for $S_n$ ved bruke stirre-hardt-metoden. Merk at tallrekken som tilhører syvkanttallene er $1, 7, 18, 34, \ldots$.
 
 > [!hidden] 1.7 Medium 1
 > Under ser du figurtall én til fire. Finn eksplisitt sammenheng ved å bruke stirre-hardt-metoden.
@@ -397,6 +432,11 @@
 > [!hidden] 1.7 Medium Vurdering uke 5
 > På figuren under ser du de fire første figurene i en sammensatt figur, der $F_1 = 4$, $F_2 = 10$ og $F_3 = 19$.. Finn en eksplisitt formel ved å bruke stirre-hardt-metoden.
 >  ![Hustall](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-03-24-14-31-42.png)
+
+> [!hidden] 1.7 Medium Vurdering uke 6
+> På figuren under ser du de tre første figurene i en sammensatt figur, der $F_1 = 8$, $F_2 = 18$ og $F_3 = 32$. Finn en eksplisitt formel ved å bruke stirre-hardt-metoden.
+> 
+> ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-04-21-12-10-31.png)
 
 > [!hidden] 1.8 Mild 1 
 > Illustrer trekanttallene opp til $T_3$, og utled et rekursivt uttrykk for $T_n$. Pek også på den rekursive sammenhengen i figurene du har tegnet.
@@ -432,6 +472,12 @@
 > På figuren under ser du de fire første figurene i en sammensatt figur, der $F_1 = 4$, $F_2 = 10$ og $F_3 = 19$.. Beskriv et rekursivt uttrykk som beskriver mønsteret figurene følger. 
 > ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-03-24-14-31-42.png)
 
+> [!hidden] 1.8 Spicy Vurdering uke 5
+> 
+> På figuren under ser du de tre første figurene i en sammensatt figur, der $F_1 = 8$, $F_2 = 18$ og $F_3 = 32$. Ved hjelp av strategien *form på tillegg*, beskriv figurtallene med et rekursivt uttrykk.
+> 
+> ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-04-21-12-10-31.png)
+
 > [!hidden] 1.9 Medium 1
 > Finn rekursivt uttrykk for trekanttallene $T_n$, der $T_1 =1$, $T_2 = 3$ og $T_3 = 6$ ved hjelp av strategien differanse mellom eksplisitte uttrykk. Merk: Det eksplisitte uttrykket for trekanttallene er $T_n = \frac{{n(n+1)}}{2}$.
 
@@ -440,6 +486,9 @@
 
 > [!hidden] 1.9 Medium 3
 > Finn rekursivt uttrykk for rektangeltallene $R_n$, der $R_1 =2$, $R_2 = 6$ og $R_3 = 12$ ved hjelp av strategien differanse mellom eksplisitte uttrykk. Merk: Det eksplisitte uttrykket for rektangeltallene er $R_n = n(n+1)$.
+
+> [!hidden] 1.9 Medium Vurdering uke 6
+> Finn rekursivt uttrykk for trekanttallene $T_n$, der $T_1 =1$, $T_2 = 3$ og $T_3 = 6$ ved hjelp av strategien differanse mellom eksplisitte uttrykk. Merk: Det eksplisitte uttrykket for trekanttallene er $T_n = \frac{{n(n+1)}}{2}$.
 
 > [!hidden] 1.9 Spicy 1
 > Finn rekursivt uttrykk for sekskanttallene $H_n$, der $H_1 =1$, $H_2 = 6$ og $H_3 = 15$ ved hjelp av strategien differanse mellom eksplisitte uttrykk. Merk: Det eksplisitte uttrykket for sekskanttallene er $H_n = {n(2n-1)}$.
@@ -453,6 +502,13 @@
 > [!hidden] 1.9 Spicy Vurdering uke 5
 > Under ser du de fire første figurene i en tallfølge. Finn et rekursivt uttrykk for figurene ved hjelp av differanse mellom eksplisitte uttrykk, der det eksplisitte uttrykket er $n^2+n-1+\frac{{n(n+1)}}{2} = \frac{{3n^2+3n-2}}{2}$.
 > ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/tallteo/image2.png)
+
+> [!hidden] 1.9 Spicy Vurdering uke 6
+> 
+> ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-03-24-14-37-44.png)
+> 
+> Over ser du de tre første figurene i bikubetallene. Finn rekursivt uttrykk for bikubetallene $B_n$, der $B_1 =1$, $H_2 = 7$ og $H_3 = 19$ ved hjelp av strategien differanse mellom eksplisitte uttrykk. Merk: Det eksplisitte uttrykket for bikubetallene er $B_n = {3n(n-1)}+1$.
+> 
 
 > [!hidden] 1.10 Mild 1
 >  Se på figurtallene under.
@@ -484,6 +540,15 @@
 > 
 > ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/b15fcbca3358196bef93bb019492be4cadf6dbe8/img/tallteo/figtallrosa.drawio.svg)
 
+> [!hidden] 1.10 Mild Vurdering uke 6
+> 
+> Under ser dere de første figurene i et figurtallsmønster.
+> Ved å illustrere figurene og markere i illustrasjonen, gi en ordforklaring av
+> 1. en eksplisitt sammenheng mellom figur nummer $n$ og antall prikker i figuren.
+> 2. en rekursiv sammenheng mellom to påfølgende figurer.
+>  
+> ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/tallteo/figurtall1205.svg)
+
 > [!hidden] 1.10 Medium 1
 > Dekomponer figuren på minst tre måter. Illustrer dekomponeringene i figurene, og beskriv dem algebraisk slik at det er en tydelig sammenheng mellom illustrasjon og uttrykk.
 > 
@@ -508,6 +573,21 @@
 > $$
 > 
 > ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/3dd0097091ec32c9673a33a4de186678d2649802/img/tallteo/figurer.drawio.svg)
+
+> [!hidden] 1.10 Medium Vurdering uke 6
+> 
+> Under ser dere dere de fire første figurtallene i en rekke figurtall.
+> Velg ut tre av uttrykkene under og bruk figuren til å argumentere hvorfor de gir en eksplisitt formel for antall firkanter i hver figur.
+> $$
+> \begin{aligned}
+> 1. \quad \quad &4\frac{{n(n+1)}}{2} +4n+1 \\
+> 2. \quad \quad & 4\left( (n+1)^2-\frac{n(n-1)}{2} \right)+4n+1 \\
+> 3. \quad \quad & (2n+1)^2 -4\frac{n(n-1)}{2} \\
+> 4. \quad \quad & 4(n+1)^2 -4\left( \frac{n(n-1)}{2} \right)-(4(n+1)-1)
+> \end{aligned}
+> $$
+> 
+> ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/31b1dc0629a975ed380203490b26e67c131bca4f/img/tallteo/firkanter.drawio.svg)
 
 > [!hidden] 1.10 Spicy 1
 > La $H_{n} = 2 \cdot T_{n + 1} - K_{n - 1}$.
@@ -536,6 +616,14 @@
 > En figurtallfølge er gitt ved den rekursive sammenhengen $F_{n} = F_{n - 1} + 3n + 2$, der $F_{1} = 4$.
 > 1. Illustrer figur 1-4 slik at det går tydelig frem hvordan figuren vokser.
 > 2. Finn eksplisitt uttrykk på to måter
+
+> [!hidden] 1.10 Spicy Vurdering uke 6
+> 
+> Du får vite at et figurtall $F_n$ øker på følgende måte. $F_1 = 6$ og $F_n = F_{n-1}+5n-2$.
+> 
+> Lag en figur som følger mønsteret til $F_n$. Det er nok å illustrere $F_1$, $F_2$ og $F_3$, så lengde det får fram mønsteret.
+> 1. Vis og forklar sammenhengen mellom tallrekken og figurene rekursivt.
+> 2. Finn en eksplisitt formel på to forskjellige måter.
 
 > [!hidden] 2.1 Medium  Alfa s. 346–347.
 > 1. 4.9
@@ -764,6 +852,10 @@
 > [!hidden] 3.1 Mild Vurdering uke 5
 > Løs likningen $\frac{4x+10}{3} = 10$. på to måter, formelt og uformelt.
 
+> [!hidden] 3.1 Mild Vurdering uke 6
+> 
+> Løs likningen $3(x-1)=2(x+1)$ på to måter, formelt og uformelt.
+
 > [!hidden] 3.1 Medium 1
 > Alfa s. 279
 > 1.  3.40 e)--f). Løs likningene på flere måter der det virker naturlig.
@@ -809,6 +901,12 @@
 > 1. Løs likningen $\displaystyle\frac{15}{\frac{2x-4}{2}-2}= 5$ på en uformell måte. Løs likningen deretter formelt.
 > 2. Henrik og André gikk for å handle. Henrik hadde med seg 44 kr og André hadde 98 kr. André brukte fire ganger så mye som Henrik. Da de gikk hjemover, hadde de like mye igjen. Hvor mye brukte hver av dem? Løs problemet på to måter.
 
+> [!hidden] 3.1 Medium Vurdering uke 6
+> 1. Løs likningen $\displaystyle\frac{20}{\frac{4x-2}{3}-2}= 5$ på en måte som ikke innebærer "flytt og bytt" eller å utføre samme operasjon på hver side av likhetstegnet en uformell måte. Løs likningen deretter formelt.
+> 2. På et klassetrinn er det $70$ elever. Alle deltar i en idrett. Antallet elever på håndball er tre mer enn det dobbelte av antallet på fotball. De som spiller basket er tre færre enn halvparten av de som spiller fotball. Ingen elever deltar på mer enn én idrett.
+>     1. Finn ut hvor mange som spiller hva ved hjelp av en illustrasjon.
+>     2. Sett opp og løs en likning som passer situasjonen. Vis tydelig hvordan likningen samsvarer med situasjonen.
+
 > [!hidden] 3.2 Mild 1
 > Alfa s. 282
 > Oppgave 3.68
@@ -830,6 +928,10 @@
 > [!hidden] 3.2 Mild Vurdering uke 5
 > 
 
+> [!hidden] 3.2 Mild Vurdering uke 6
+>  
+> Løs ulikheten $6(x+3) < 3$.
+
 > [!hidden] 3.2 Medium 1
 > Henrik skal klatre og må låne klatreutstyr. Han har 500 kroner og utstyret koster 100kr i tillegg til 50 kr timen. Når Henrik er ferdig har han fortsatt penger igjen. Sett opp og løs en ulikhet som viser hvor lenge Henrik kan ha klatret?
 
@@ -850,6 +952,10 @@
 > [!hidden] 3.2 Medium Vurdering uke 5
 > 1. Løs ulikheten $\displaystyle \frac{{-x+7}}{7} \leq \frac{{5-x}}{3}$.
 > 2. André må kjøpe nye vertikale tavler til undervisningen sin. I tillegg har han lyst på nye kortstokker for å dele inn i tilfeldige grupper. Han har med seg 400 kroner og tavlene koster 175 kroner. Én kortstokk koster 30 kroner. André lurer på hvor mange kortstokker han kan kjøpe. Sett opp en ulikhet som samsvarer med situasjonen over og løs den for å finne ut hvor mange kortstokker han kan kjøpe.
+
+> [!hidden] 3.2 Medium Vurdering uke 6
+> 1. Løs ulikheten $\displaystyle \frac{{-x+1}}{2} \leq \frac{{12}}{7}$.
+> 2. Henrik skal en tur til sentrum med familien. Han vurderer å ta buss og må da betale 300 kroner tur/retur. Hvis han ikke tar buss, tar han bilen. Da må han betale 20 kroner i bompenger, i tillegg til at han må betale 60 kroner i timen for å ha bilen parkert. Sett opp en ulikhet som kan løses for å finne ut av når det lønner seg å ta buss. Løs ulikheten.
 
 > [!hidden] 3.3 Mild 1
 > Alfa s. 281 - 3.60. Løs på så mange måter du greier.1. 
@@ -897,6 +1003,17 @@
 > 1. innsettingsmetoden og
 > 2. addisjonsmetoden.
 
+> [!hidden] 3.3 Mild Vurdering uke 6
+> 
+> Under ser du to likninger med to ukjente.
+> $$
+> \begin{align*} 6x+5y  & = 45-2y \\ 6x+2y &= -2y + 30 \end{align*} 
+> $$
+> 
+> Løs likningssettet ved hjelp av
+> 1. innsettingsmetoden og
+> 2. addisjonsmetoden.
+
 > [!hidden] 3.3 Medium 1
 > Alfa s. 281. Løs på så mange måter du greier.
 > Oppgave 3.60
@@ -938,6 +1055,18 @@
 > 1. Løs oppgaven uten å bruke likninger eller gjett og sjekk.
 > 2. Løs oppgaven ved å sette og løse et likningssett på to måter.
 
+> [!hidden] 3.3 Medium Vurdering uke 6
+> 
+> Denne oppgaven ble gitt på ungdomstrinnet.
+> 
+> På en sjø er det 31 båter. I noen båter sitter det to personer og i noen båter sitter det tre personer. Det sitter til sammen 69 personer i de 31 båtene. Bestem hvor mange båter det sitter to personer i og hvor mange det sitter tre personer i.
+> 
+> 1. Vis hvordan elever kan, uten bruk av likninger kan løse oppgaven.
+> 
+> 2. Bruk informasjonen til å lage et likningssett og>  
+>     1. Løs oppgaven ved hjelp av innsettingsmetoden.
+>     2. Løs oppgaven ved hjelp av addisjonsmetoden.
+
 > [!hidden] 3.4 Medium 1
 > Alfa s. 279 oppgave 3.40. Løs likningene på flere måter der det virker naturlig. Forklar og begrunn stegene i strategiene du bruker.
 
@@ -973,6 +1102,10 @@
 > 2. Den samme eleven er fornøyd med forklaringa di, og hoster opp en ny didaktisk utfordring til deg: "Hvorfor snur vi ulikhetstegnet når vi multipliserer med et negativt tall?" Gi en kort og forståelig forklaring.
 
 > [!hidden] 3.4 Medium Vurdering uke 5
+> 1. En elev spør deg hva som egentlig foregår når vi "flytter og bytter" i likninger. Gi en kort og forståelig forklaring.
+> 2. Den samme eleven er fornøyd med forklaringa di, og hoster opp en ny didaktisk utfordring til deg: "Hvorfor snur vi ulikhetstegnet når vi multipliserer med et negativt tall?" Gi en kort og forståelig forklaring.
+
+> [!hidden] 3.4 Medium Vurdering uke 6
 > 1. En elev spør deg hva som egentlig foregår når vi "flytter og bytter" i likninger. Gi en kort og forståelig forklaring.
 > 2. Den samme eleven er fornøyd med forklaringa di, og hoster opp en ny didaktisk utfordring til deg: "Hvorfor snur vi ulikhetstegnet når vi multipliserer med et negativt tall?" Gi en kort og forståelig forklaring.
 
@@ -1023,6 +1156,19 @@
 > Under ser du tre besvarelser. Avgjør for hver av de tre stategiene (A), (B) og (C) nedenfor om den er riktig eller feil. Begrunn svaret ditt ved å beskrive hva eleven i hvert tilfelle gjør riktig eller feil.
 > ![[Files/3.4 Forklare, begrunne og analysere løsningsstrategier for likninger og ulikheter.-4.png]]
 
+> [!hidden] 3.4 Spicy Vurdering uke 6
+> 
+> Noen mellomtrinnselever fikk denne utfordringen: En bil, sjåfør og tilhenger veier totalt $2910 kg$. Bilen veier to ganger vekten av tilhengeren pluss vekten av sjåføren. Tilhengeren veier $900 kg$. Hvor mye veier sjåføren?
+> 
+> Under ser du tre elevers løsninger. Forklar hvordan de har tolket og løst oppgaven.
+> 
+> ![400](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-03-24-15-14-41.png)
+> 
+> ![400](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-03-24-15-14-45.png)  
+>   
+>   ![400](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-03-24-15-14-49.png)
+>   
+
 > [!hidden] 3.5 Mild 1
 > Løs likningen:
 > $x^{2} + 2x = 15$
@@ -1058,6 +1204,12 @@
 > 1. $x^{2} + 4x = 21$
 > 2. $x^{2} + 12x = 64$
 
+> [!hidden] 3.5 Mild Vurdering uke 6
+> 
+> Løs likningene med fullstendige kvadraters metode
+> 1. $2x^{2} + 20x = 48$
+> 2. $x^{2} + 8x = 105$
+
 > [!hidden] 3.5 Medium 1
 > Løs likningene:
 > 
@@ -1089,6 +1241,12 @@
 > 1. $x^2 + 7x = -\frac{13}{4}$
 > 2. $x^2-\frac{2}{3}x = 7$
 
+> [!hidden] 3.5 Medium Vurdering uke 6
+> 
+> Løs likningene med fullstendige kvadraters metode
+> 1. $x^2 + 5x = 6$
+> 2. $x^2+\frac{2}{5}x = 11-\frac{20}{25}$
+
 > [!hidden] 3.5 Spicy 1
 > Løs likningene:
 > 
@@ -1113,6 +1271,12 @@
 > Løs likningene med fullstendige kvadraters metode
 > 1. $x^2 + \sqrt 2x = 14$
 > 2. $3x^2+7x = 4$
+
+> [!hidden] 3.5 Spicy Vurdering uke 6
+> 
+> Løs likningene med fullstendige kvadraters metode
+> 1. $x^2 + \sqrt 20x = 2$
+> 2. $3x^2-9x = 2$
 
 > [!hidden] 3.6 Mild 1
 > Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
@@ -1165,6 +1329,13 @@
 > 1. $(x+1)^2$
 > 2. $(x-y)^2$
 > 3. $(4xy + 5)(5-4xy)$
+
+> [!hidden] 3.6 Mild Vurdering uke 6
+> 
+> Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
+> 1. $(x-1)^2$
+> 2. $(z-4)^2$
+> 3. $(2y+3)^2$
 
 > [!hidden] 3.6 Medium 1
 > Faktoriser uttrykket under ved hjelp av passende kvadratsetning
@@ -1232,6 +1403,13 @@
 > 1. $36x^2+4+24x$
 > 2. $25-m^2$
 > 3. $16-8y+y^2$
+
+> [!hidden] 3.6 Medium Vurdering uke 6
+>  
+>  Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+>  1. $36-x^2$
+>  2. $16+x^2-8x$
+>  3. $1-8k+16k^2$
 
 > [!hidden] 3.6 Spicy 1
 > Faktoriser uttrykket under ved hjelp av passende kvadratsetning
@@ -1313,6 +1491,16 @@
 > 3x(\frac{3}{4}x+4y)+2^4y^2
 > $$
 > 3. Ved å legge til et tall til $z^2 - \sqrt 2z$ så kan vi lage et fullstendig kvadrat. Legg til et tall og faktoriser uttrykket til et fullstendig kvadrat.
+
+> [!hidden] 3.6 Spicy Vurdering uke 6
+> 
+> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> 1. $x^4-9y^2$
+> 2. $5(x(\frac{5}{4}x-y)+y(x-\frac{4}{5}y))$
+> 
+> Uttrykkene under mangler et ledd for å bli et fullstendig kvadrat. Lag fullstendige kvadrater av uttrykkene (noen kan ha to løsninger).
+> 1. $x(xy^2+6y)$
+> 2. $a(x+a)$
 
 > [!hidden] 3.7 Medium 1
 > Illustrer de tre kvadratsetningene, med tilhørende forklaring, slik at det går tydelig frem at de stemmer (for positive tall).
@@ -1500,6 +1688,13 @@
 > 1. Regn ut $8(2k+1+3k)$.
 > 2. Forenkle uttrykket $$\frac{4h-h+2}{3h} - \frac{2}{3}h$$
 
+> [!hidden] 3.13 Mild Vurdering uke 6
+> 1. Regn ut $15 + 4(5y-10)$.
+> 2. Forenkle uttrykket
+> $$
+> \frac{1}{x-1}\cdot \frac{8x-8}{8}.
+> $$
+
 > [!hidden] 3.13 Medium 0
 > Forenkle uttrykket
 > $$
@@ -1545,6 +1740,13 @@
 > 1. Vis at $z^2 + 10^2  = (10+y)^2$ kan omformes til $z^2 = y^2 + 20y$.
 > 2. Forenkle uttrykket $x^2 + 3h+ 6x + 3(h^2+x^2) - \frac{6h^2+12x^2}{2} + \frac{12x^2-18h}{6}$
 
+> [!hidden] 3.13 Medium Vurdering uke 6
+> 1. Vis at $(a+x-b)h-\frac{(a+x-b)h}{2} - \frac{xh}{2}$ kan omformes til $\frac{(a+b) h}{2}.$
+> 2. Forenkle uttrykket 
+> $$
+> \frac{\frac{3a-9b}{a^2-ab}}{\frac{(a-3b)}{a(a-b)(a+b)}}
+> $$
+
 > [!hidden] 3.13 Spicy 1
 > Hvilket av uttrykkene har ikke samme verdi som de andre?
 > 1. $(1+\sqrt 2)^2$
@@ -1585,6 +1787,14 @@
 > $$
 >  til $\frac{1}{2}$.
 
+> [!hidden] 3.13 Spicy Vurdering uke 6
+> 1. Forenkle brøken $\dfrac{\frac{x^2+5x+4}{x+4}}{\frac{x^2+x}{x^2}}$.
+> 2. Faktoriser ut $n+2$ fra uttrykket $(n+2)n+\frac{(n+2)}{2}n+\frac{3(n+2)(n+1)}{2}$ og forenkle uttrykket.
+> 3. 
+> $$
+> 3y(y+2)+ \frac{3y^2+12y+12}{3y+6}+{ \frac{(y-2)(y+3)}{\left( 1+\frac{1}{y+2}  \right)(y^2-4) } }+y+1
+> $$
+
 > [!hidden] 3.14 Medium Nokut V24
 > ![[Files/3.14 Tolke algebraiske uttrykk geometrisk, med ord og kontekst.-9.png]]
 
@@ -1621,6 +1831,12 @@
 >     1. Skriv et algebraisk uttrykk som beskriver Henrik sin alder ved hjelp av alderen til André. Merk, besvarelsen må definere variabelen du bruker. 
 >     2. Endre teksten til oppgaven over slik at svaret blir $\frac{2x+10}{3}$
 
+> [!hidden] 3.14 Medium Vurdering uke 6
+> 
+> Peder i 10. trinn ber deg tenke på et tall. Legg til 5 og gang tallet du fikk med 4. Trekk fra 16 og del svaret ditt på 2. Multipliser tallet du nå har med 3. Trekk fra det dobbelte av tallet du opprinnelig valgte og trekk fra 15.
+> 1. Vis algebraisk en generell sammenheng mellom det tallet en velger og det svaret en får.
+> 2. Lag en *tenk på et tall*-oppgave til elever på 6. trinn hvor elevene må bruke alle de fire regneartene og der alle elevene får samme tall som svar. Vis algebraisk at oppgaven fører til at alle elevene får 13 som svar.
+
 > [!hidden] 3.15 Medium NOKUT H24
 > ![[Files/NokutH2411.png]]
 
@@ -1653,6 +1869,33 @@
 >     3. $3\cdot 6 + 3 -2 \phantom = \color{red}{= 21}$
 >     4. $6\cdot 2+3: 2+1 \phantom = \color{red}{= 10}$<br>Avgjør om svaret på hver oppgave 1.-4. er riktig eller feil, og beskriv hvordan eleven kan ha tenkt. 
 
+> [!hidden] 3.15 Medium Vurder uke 6
+> 1. En lærer ber elevene forenkle uttrykket 
+> $$
+> \frac{6}{\frac{2x-1}{3}+1}.
+> $$
+> Elevene André og Henrik gjør følgende forenklinger
+>     1. 
+> $$
+> \begin{aligned} \frac{\cancelto{2}{6}}{\frac{2x-1}{\cancel3}+1} = \frac{2}{2x-1+1} = \frac{\cancel2}{\cancel2x} = \frac{1}{x} \end{aligned}
+> $$
+>     2. 
+> $$
+> \begin{aligned} \frac{3\cdot6}{\cancel3(\frac{2x-1}{\cancel3}+1)}  = \frac{18}{2x-1+1} = \frac{\cancelto{9}{18}}{\cancel2x}= \frac{9}{x}\end{aligned}
+> $$
+> 
+> Avgjør for hver besvarelse hva elevene har gjort riktig og galt.
+>     3. Vis hvordan du selv ville forenklet uttrykket.
+> 2. Noen elever diskuterer hvilket av uttrykkene $-x+2$ og $2x-4$ som er størst. Begrunn for hver påstand om den er riktig eller feil.
+> 
+> *Henrik*: Så lenge $x$ er positiv vil $2x-4$ være størst.
+> 
+> *André*: Hvis $x$ er 5 i $2x-4$ og $x$ er -4 i $-x+2$ så er uttrykkene like store.
+> 
+> *Anders*: $2x$ er positiv og $2x-4$ vil derfor alltid være størst.
+> 
+> *Ingvald*: Det kommer an på verdien til $x$.
+
 > [!hidden] 4.1 Mild 1
 > Forklar kort, og gi eksempler på hver av de additive strukturene *økning, komplettering, forening, sammenlikning* og *oppheving av minskning*. 
 
@@ -1664,6 +1907,10 @@
 > 2. Velg én av situasjonene over. Omformuler den slik at det er rimelig å si at den har samme struktur, men med subtraksjon som modell.
 
 > [!hidden] 4.1 Mild Vurdering uke 5
+> 1. Beskriv tre situasjoner som har addisjon som modell med henholdsvis økning, forening og additiv sammenlikning som struktur.
+> 2. Velg én av situasjonene over. Omformuler den slik at det er rimelig å si at den har samme struktur, men med subtraksjon som modell.
+
+> [!hidden] 4.1 Mild Vurdering uke 6
 > 1. Beskriv tre situasjoner som har addisjon som modell med henholdsvis økning, forening og additiv sammenlikning som struktur.
 > 2. Velg én av situasjonene over. Omformuler den slik at det er rimelig å si at den har samme struktur, men med subtraksjon som modell.
 
@@ -1689,6 +1936,13 @@
 > 2. André hadde 12 kroner i lomma. Da han fant noen penger bakken, hadde han 19 kroner. Hvor mye fant han?
 > 3. Henrik har to samlinger med Pokémon-kort, én med sjeldne og én med vanlige kort. Han har totalt 497 kort, hvorav de vanlige utgjør 354. Hvor mange sjeldne kort har Henrik?
 
+> [!hidden] 4.1 Medium Vurdering uke 6
+> 
+> Avgjør og begrunn hvilken additiv struktur situasjonene har. Angi både addisjons- og subtraksjonsstykket som passer i hvert tilfelle.
+> 1. På en uke har en solsikke inntil husveggen vokst til 212 cm. Hvor mange centimeter må den vokse før den når husveggen på 240 cm?
+> 2. André fant 12 kroner i bukselomma. I jakkelomma fant han 50. Hvor mye mer fant han i jakka?
+> 3. Studentene må lese to pensumbøker med til sammen 643 sider. Den ene boka er på 425 sider. Hvor mange sider har den andre?
+
 > [!hidden] 4.2 Mild 1
 > Forklar kort, og gi eksempler på hver av de multiplikative strukturene *like grupper, rate, sammenlikning, kombinatorisk situasjon* og *rektangulært arrangement*. 
 
@@ -1702,6 +1956,10 @@
 > [!hidden] 4.2 Mild Vurdering uke 5
 > 1. Forklar kort, og gi eksempler på hver av de multiplikative strukturene _like grupper, rate, sammenlikning, kombinatorisk situasjon_ og _rektangulært arrangement_.
 > 2. Forklar kort, og gi eksempler på _delingsdivisjon_ og _målingsdivisjon_.
+
+> [!hidden] 4.2 Mild Vurdering uke 6
+> 1. Forklar kort, og gi eksempler på hver av de multiplikative strukturene *like grupper, rate, sammenlikning, kombinatorisk situasjon* og *rektangulært arrangement*.
+> 2. Forklar kort, og gi eksempler på *delingsdivisjon* og *målingsdivisjon*.
 
 > [!hidden] 4.2 Medium 
 > Avgjør hvilken multiplikativ struktur situasjonene svarer til. Spesifiser også hva som er ukjent der det er relevant. Merk at én og samme situasjon kan tolkes både som multiplikasjon og divisjon.
@@ -1727,6 +1985,13 @@
 > 3. Antall liter yoghurt på et brett med beger, når hvert beger inneholder liter.
 > 
 > Ta utgangspunkt i situasjon c. Legg til nødvendig informasjon, og omformuler på to måter: slik at du lager én divisjonsoppgave med målingsdivisjon og én med delingsdivisjon. Begrunn hvilken som er hva.
+
+> [!hidden] 4.2 Medium Vurdering uke 6
+> 1. Avgjør og begrunn hvilken multiplikativ struktur situasjonene svarer til.
+>     1. En flaske ligger opp ned i sekken og lekker 4 ml i minuttet.
+>     2. Antall gir på en sykkel med tre tannhjul fremme og åtte bak.
+>     3. Solas diameter er 109 ganger jordas.
+> 2. Ta utgangspunkt i situasjon 1. Legg til nødvendig informasjon, og omformuler på to måter: slik at du lager én divisjonsoppgave med målingsdivisjon og én med delingsdivisjon. Begrunn hvilken som er hva.
 
 > [!hidden] 4.3 Mild 1
 > Forklar kort, og gi eksempler på kommutativ og assosiativ egenskap for 
@@ -1791,6 +2056,14 @@
 > 2. $13\cdot 7 + 3\cdot 13$
 > 3. $\dfrac{5}{4}\cdot 120$
 
+> [!hidden] 4.4 Mild Vurdering uke 6
+> 
+> Gjør beregninger ved hjelp av strategier som ikke er oppstilt regning. Pek på hvilke strategier du bruker
+> 1. $365 : 5$
+> 2. $102\cdot 49$
+> 3. $60\cdot 333$
+> 4. $7881:111$
+
 > [!hidden] 4.4 Medium 1
 > Gjør oppgavene fra middels. Begrunn, og dersom hensiktsmessig, illustrer strategien slik at det går tydelig frem at den alltid funker.
 
@@ -1813,6 +2086,14 @@
 >     2. $96 : 6$
 > 3. Velg én av strategiene fra 2., og gi en illustrasjon og kort forklaring som viser at strategien alltid funker.
 
+> [!hidden] 4.4 Medium Vurdering uke 6
+> - Velg en multiplikasjon som passer til å illustrere distributiv egenskap sammen med en kort ordforklaring.  
+> - Gjør beregningene under ved hjelp av regnestrategier som ikke innebærer oppstilt regning. Vis tydelig hvordan du tenker.
+> - Velg én av strategiene fra 2., og gi en illustrasjon og kort ordforklaring som viser at strategien alltid funker.
+>     -  $127 - 38$
+>     -  $125 : 15$
+>     -  $160 \cdot \frac{3}{4}$
+
 > [!hidden] 4.5 Mild Oppgave
 > 1. Forklar hva naturlige, hele, rasjonale og irrasjonale tall er.
 > 2. Forklar og illustrer deretter hvordan disse til sammen utgjør de reelle tallene.
@@ -1825,6 +2106,13 @@
 > 1. $\frac{14}{12}$
 > 2. $\frac{2,2}{11}$
 > 3. $\dfrac{\frac{6}{5}}{2}$
+
+> [!hidden] 4.6 Mild Vurdering uke 6
+> 1. Finn den likeverdige brøken til $\frac{2,1}{7}$ som har lavest mulig heltallig teller og nevner.
+> 2. Uten å gjøre om til desimaltall, finn en brøk som ligger mellom $\frac{5}{6}$ og $\frac{7}{8}$.
+> 3. Forkort/utvid brøkene til firedeler.
+>     1. $\frac{15}{6}$
+>     2. $\frac{2}{\frac{2}{3}}$
 
 > [!hidden] 4.6 Medium 1
 >  Alfa s. 105
@@ -1840,6 +2128,14 @@
 >     4. $\frac{9+2}{36+2}$
 > 2. Lag en illustrasjon som viser tydelig at $\frac{4}{5}$ og $\frac{12}{15}$ er likeverdige.  
 
+> [!hidden] 4.6 Medium Vurdering uke 6
+> 1. Hvilke brøker er likeverdige med $\frac{2}{5}$?
+>     1. $\frac{4}{15}$
+>     2. $\frac{1}{2,5}$
+>     3. $\frac{\frac{2}{3}}{\frac{5}{3}}$
+>     4. $\frac{10}{25}$
+> 2. Lag en illustrasjon som tydelig viser at $\frac{2}{3}$ og $\frac{8}{12}$ er likeverdige.  
+
 > [!hidden] 4.7 Mild 1
 > Alfa s. 108. Bare beregningene, ikke lage regnefortellinger og
 
@@ -1849,6 +2145,13 @@
 > 
 > 1. $\frac{5}{3} + \frac{7}{5}$
 > 2. $\frac{3}{5} - \frac{3}{4}$
+
+> [!hidden] 4.7 Mild Vurdering uke 6
+> 
+> Regn ut.
+> 
+> 1. $\frac{5}{2} + \frac{2}{3}$
+> 2. $\frac{7}{3} - \frac{1}{2}$
 
 > [!hidden] 4.7 Medium 1
 > Alfa s. 108.
@@ -1861,6 +2164,13 @@
 > 
 > 1. $\frac{2}{5} + \frac{1}{4}$
 > 2. $\frac{5}{6} - \frac{1}{3}$
+
+> [!hidden] 4.7 Medium Vurdering uke 6
+> 
+> Regn ut, og gi en forklaring med illustrasjon som viser at beregningen må være riktig.
+> 
+> 1. $\frac{5}{2} + \frac{2}{3}$
+> 2. $\frac{2}{3} - \frac{1}{2}$
 
 > [!hidden] 4.8 Mild 1
 > Alfa s. 119. Kun beregningene på mildt nivå.
@@ -1876,6 +2186,12 @@
 
 > [!hidden] 4.8 Mild Vurdering uke 5
 > Regn ut.
+
+> [!hidden] 4.8 Mild Vurdering uke 6
+> 
+> Regn ut.
+> 1. $\frac{1}{16} \cdot \frac{2}{7}$
+> 2. $\frac{6}{13} \cdot (4+\frac{1}{3})$
 
 > [!hidden] 4.8 Medium 1
 > Alfa s. 119 
@@ -1895,6 +2211,10 @@
 > [!hidden] 4.8 Medium 4
 > Vis ved hjelp av ordforklaring og illustrasjon at brøkmultiplikasjon
 
+> [!hidden] 4.8 Medium Vurdering uke 6
+> 1. Forklar ved hjelp av en passende illustrasjon at $5 \cdot \frac{3}{4} = \frac{3}{4} \cdot 5$.
+> 2. Forklar kort ved hjelp av en passende illustrasjon hvorfor vi multipliserer teller med teller og nevner med nevner for å finne produktet av to brøker.  
+
 > [!hidden] 4.9 Mild 1
 > Alfa s. 119. Kun beregningene på grunnleggende.
 > Oppgave 1.41 e, f og g.
@@ -1909,6 +2229,12 @@
 > 1. $\frac{4}{3} : \frac{14}{6}$
 > 2. $\frac{3}{4} : \frac{6}{5}$
 
+> [!hidden] 4.9 Mild Vurdering uke 6
+> 
+> Regn ut.
+> 1. $\frac{4}{5} : \frac{5}{4}$
+> 2. $\frac{4}{3} : \frac{2}{5}$
+
 > [!hidden] 4.9 Spicy 1
 > Velg en divisjon med brøk.
 > 1.  Lag en passende kontekst som gir _målingsdivisjon_. Bruk konteksten til å forklare og illustrere hvorfor delingsregelen er som den er.
@@ -1916,6 +2242,12 @@
 
 > [!hidden] 4.9 Spicy Vurdering uke 5
 > Ta utgangspunkt i divisjonen $12 : \frac{3}{4}$. Lag to passende kontekster, og bruk dem til å vise at $12 : \frac{3}{4} = 12 \cdot \frac{4}{3}$.
+> 1. Den ene konteksten skal gi delingsdivisjon.
+> 2. Den andre konteksten skal gi målingsdivisjon.
+
+> [!hidden] 4.9 Spicy Vurdering uke 6
+> 
+> Ta utgangspunkt i divisjonen $9 : \frac{2}{3}$. Lag to passende kontekster, og bruk dem til å vise at $9 : \frac{2}{3} = 9 \cdot \frac{3}{2}$.
 > 1. Den ene konteksten skal gi delingsdivisjon.
 > 2. Den andre konteksten skal gi målingsdivisjon.
 
@@ -1959,6 +2291,12 @@
 > [!hidden] 4.11 Spicy Vurdering uke 5
 > 1. $\displaystyle \frac{\frac{14}{16}\big(2+\frac{3-\frac{2}{3}}{\frac{7}{3}}\big)}{\dfrac{21}{5}}+ \frac{1}{8}$
 > 2. $\displaystyle\frac{\frac{4}{11}\big(\frac{15}{6 + \frac{3}{2}}+ 9\big) +\frac{11}{7}}{\frac{39}{7}}$
+
+> [!hidden] 4.11 Spicy Vurdering uke 6
+> 
+> Regn ut.
+> 1. $\displaystyle((\frac{4}{5} + \frac{1}{\frac{7}{3}}) \frac{1}{43}) \cdot 7 + \frac{4}{5}$
+> 2. $\displaystyle\frac{1}{2} - \frac{\frac{4}{11}((\frac{8}{6} : \frac{1}{3}) + \frac{2}{5})}{\frac{4}{2,5}}$
 
 > [!hidden] 4.12 Mild 1
 > Utdyp og forklar: _desimaltall er en skrivemåte for brøker der
@@ -2247,6 +2585,12 @@
 > 2. 3.25
 > 3. 3.29 a og b
 
+> [!hidden] 4.19 Mild Vurdering uke 6
+> 
+> Forkort uttrykkene så langt som mulig (det betyr, blant annet, å bruke primtallsbaser. For eksempel at $25$ skal skrives som $5^2$)
+> 
+> $10^3 \cdot 15^2 \cdot 21^3 \cdot 30^9$.
+
 > [!hidden] 4.19 Medium Alfa s. 239--241 (Det er ikke meningen å gjøre alt! Øv på det du trenger å øve på.)
 > 1. 3.23
 > 2. 3.25
@@ -2262,6 +2606,20 @@
 >  2. Hvilke(t) alternativ er $2^{16} + 2^{16} + 2^{16} + \ldots + 2^{16}$ (16 ledd) lik? A. $4^{10}$ B. $2^{19}$ C. $16^{2}$ D. $2^{5} \cdot 8^{5}$ E. $2^{32}$
 >  3. Hvilke(t) alternativ er $10^{12}\ :20^{6}$ lik? A. $\frac{10^{12}}{2 \cdot 10^{6}}$ B. $1$ C. $5^{6}$ D. $10^{(12 - 6)}\ :2^{6}$ E. $25^{3}$
 >  4. Hvilke(t) alternativ er $9^{- 6} \cdot 3^{12}$ lik? A. $9^{4}$ B. $1$ C. $81^{- 3} \cdot 81^{3}$ D. $9^{- 6 + 6}$ E. $\frac{1}{6^{9}} \cdot 3^{12}$
+
+> [!hidden] 4.19 Medium Vurdering uke 6
+> 1. Forkort uttrykkene så langt mulig 
+> $$
+> 25^3 \cdot 10^{-9} \cdot \frac{\big((20)^2\big)^3 \ \cdot \ 5^{-6}}{2^5}
+> $$
+> 2. Avgjør om *hvert alternativ* under er lik $10^5\cdot 3$
+> $$
+> \begin{align*} 
+> & \text{1. } \quad \frac{20^6 \cdot 9 }{2^7\cdot 15} \\
+> & \text{2. } \quad \frac{30^{3}\cdot2^3}{10^{-4}\cdot 3^{2}\cdot 2^5\cdot 5^2} \\
+> & \text{3. } \quad 30^3\cdot \frac{10^3}{2^2\cdot 15^2}
+> \end{align*} 
+> $$
 
 > [!hidden] 4.19 Spicy 1
 > Alfa s. 239--341
@@ -2294,6 +2652,31 @@
 > 1. $2 = 32^{\frac{1}{n}}$
 > 2. $9^{\frac{3}{n}} = 27$
 > 3. $n^{\frac{3}{2}} = 125$.
+
+> [!hidden] 4.19 Spicy Vurdering uke 6
+> 1. Regn ut ved hjelp av potensregler.
+>     1. $2 \cdot \sqrt{100} \cdot 5^{- 1} \cdot 16^{- \frac{2}{6}}$
+>     2. ${({5^{\frac{2}{3}} \cdot 5^{\frac{3}{2}}})}^{ 6/13}$
+> 2. Avgjør og begrunn om uttrykkene har lik verdi $5^{3} \cdot 75^{- \frac{3}{2}}$ og $\left( {3}^{2/3 } \right)^{- 1}$
+> 3. Skriv som potens: $0.125$
+> 4. Finn $n$: når $9 = 81^{\frac{2}{n}}$.
+
+> [!hidden] 4.20 Medium Vurdering uke 6
+> 
+> Ta utgangspunkt i definisjonen $a^n \overset{\text{def}}{=} a\cdot a\cdot ...\cdot a$ for $n>1$ faktorer, alle lik $a$, og utled potenssammenhengene. (Du kan bruke talleksempler så lenge de fungerer som generiske eksempler.)  
+> 1. $a^n\cdot a^m$ for alle heltallige $n$ og $m$.
+> 2. $(a^n)^m = a^{n\cdot m}$
+> 3. $a^0 = 1$ for $a \neq 0$.
+> 4. $a^{-1} = \frac{1}{a}$.
+
+> [!hidden] 4.20 Spicy Vurdering uke 6
+> 
+> Ta utgangspunkt i definisjonen $a^n \stackrel{\text{def}}{=} a\cdot a\cdot ...\cdot a$ for $n>1$ faktorer, alle lik $a$, og utled potenssammenhengene. (Du kan bruke talleksempler så lenge de fungerer som generiske eksempler.)  
+>   1. $a^n\cdot a^m = a^{n+m}$
+>   2. $(a^n)^m = a^{n\cdot m}$
+>   3. $a^{\frac{1}{m}}=\sqrt[m]{a}$
+>   4. $a^{\frac{n}{m}}=(\sqrt[m]{a})^n$ og at $a^{\frac{n}{m}} = \sqrt[m]{(a^n)}$
+
 > [!hidden] 5.1 Mild 1
 > På onsdager kjøper Henrik kaffe i kaffebaren på UiA. Han velger alltid mellom sort kaffe, kaffe latte, cappuccino og *flat white*. Han kan også velge mellom størrelsene liten, medium og stor. Hvor mange valgmuligheter har han?
 
