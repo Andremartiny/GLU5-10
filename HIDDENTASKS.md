@@ -1870,23 +1870,23 @@
 >     4. $6\cdot 2+3: 2+1 \phantom = \color{red}{= 10}$<br>Avgjør om svaret på hver oppgave 1.-4. er riktig eller feil, og beskriv hvordan eleven kan ha tenkt. 
 
 > [!hidden] 3.15 Medium Vurder uke 6
-> 1. En lærer ber elevene forenkle uttrykket 
+> En lærer ber elevene forenkle uttrykket 
 > $$
 > \frac{6}{\frac{2x-1}{3}+1}.
 > $$
-> Elevene André og Henrik gjør følgende forenklinger
->     1. 
+>  
+> - Elevene André gjør følgende
 > $$
-> \begin{aligned} \frac{\cancelto{2}{6}}{\frac{2x-1}{\cancel3}+1} = \frac{2}{2x-1+1} = \frac{\cancel2}{\cancel2x} = \frac{1}{x} \end{aligned}
+> \begin{aligned} \frac{\cancel{6}^2}{\frac{2x-1}{\cancel3}+1} = \frac{2}{2x-1+1} = \frac{\cancel2}{\cancel2x} = \frac{1}{x} \end{aligned}
 > $$
->     2. 
+> - og Henrik gjør følgende forenklinger
 > $$
-> \begin{aligned} \frac{3\cdot6}{\cancel3(\frac{2x-1}{\cancel3}+1)}  = \frac{18}{2x-1+1} = \frac{\cancelto{9}{18}}{\cancel2x}= \frac{9}{x}\end{aligned}
+> \begin{aligned} \frac{3\cdot6}{\cancel3(\frac{2x-1}{\cancel3}+1)}  = \frac{18}{2x-1+1} = \frac{\cancel{18}^9}{\cancel2x}= \frac{9}{x}\end{aligned}
 > $$
 > 
-> Avgjør for hver besvarelse hva elevene har gjort riktig og galt.
->     3. Vis hvordan du selv ville forenklet uttrykket.
-> 2. Noen elever diskuterer hvilket av uttrykkene $-x+2$ og $2x-4$ som er størst. Begrunn for hver påstand om den er riktig eller feil.
+> 1. Avgjør for hver besvarelse hva elevene har gjort riktig og galt.
+> 2. Vis hvordan du selv ville forenklet uttrykket.
+> 3. Noen elever diskuterer hvilket av uttrykkene $-x+2$ og $2x-4$ som er størst. Begrunn for hver påstand om den er riktig eller feil.
 > 
 > *Henrik*: Så lenge $x$ er positiv vil $2x-4$ være størst.
 > 
