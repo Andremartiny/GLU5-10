@@ -1,8 +1,6 @@
 ---
 title: MA-173
 ---
-
-
 Her kan du finne litteratur, oppgaver og løsningsforslag fra MA-173. Leter du etter noe spesielt kan du søke ved å trykke `ctrl+k` eller lete i utforskeren til venstre.
 
 
