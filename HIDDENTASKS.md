@@ -335,6 +335,9 @@
 > 
 > Utled det eksplisitte uttrykket for syvkanttall nummer $n$ ved hjelp av Gauss-trikset. Merk at syvkanttallene er følgen, $1, 7, 18, 34, \ldots$
 
+> [!hidden] 1.5 Spicy Vurdering uke 7 
+> Utled det eksplisitte uttrykket for femkanttall nummer $n$ ved hjelp av Gauss-trikset. Merk at femkanttallene er følgen, $1, 5, 12, 22, \ldots$
+
 > [!hidden] 1.6 Mild 1
 > Utled det eksplisitte uttrykket for rektangeltall $n$ ved hjelp av strategien *figurtall-som-sum.* Vis i en figur hvordan tilleggene danner et rektangel.
 
@@ -389,6 +392,15 @@
 > Finn en eksplisitt formel ved hjelp av figurtall-som-sum-knepet.
 >   ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/tallteo/figtall1205.svg)
 
+> [!hidden] 1.6 Spicy Vurdering uke 7 
+> På figuren under ser du de tre første figurene i en sammensatt figur, der $F_1 = 10$, $F_2 = 24$ og $F_3 = 42$. Finn en eksplisitt formel ved hjelp av figurtall-som-sum-knepet.
+> ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-03-24-14-06-04.png)
+
+> [!hidden] 1.6 Spicy Vurdering uke 13 
+> På figuren under ser du de tre første figurene i en sammensatt figur, der $F_1 = 9$, $F_2 = 18$ og $F_3 = 30$. Finn en eksplisitt formel ved hjelp av figurtall-som-sum-knepet.
+> 
+> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/1771a18e040735ec0055318ae74c13530a161541/img/tallteo/b%C3%A5ttall.drawio.svg) 
+
 > [!hidden] 1.7 Mild 1
 > Illustrer femkanttallene opp til $F_3$, og utled eksplisitt uttrykk for $F_n$ ved å bruke stirre-hardt-metoden.
 
@@ -438,6 +450,9 @@
 > 
 > ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-04-21-12-10-31.png)
 
+> [!hidden] 1.7 Medium Vurdering uke 7 
+> På figuren under ser du de fire første figurene i en sammensatt figur, der $F_1 = 6$, $F_2 = 12$, $F_3 = 24$ og $F_4 =42$. Finn en eksplisitt formel ved å bruke stirre-hardt-metoden.
+
 > [!hidden] 1.8 Mild 1 
 > Illustrer trekanttallene opp til $T_3$, og utled et rekursivt uttrykk for $T_n$. Pek også på den rekursive sammenhengen i figurene du har tegnet.
 
@@ -478,6 +493,14 @@
 > 
 > ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-04-21-12-10-31.png)
 
+> [!hidden] 1.8 Spicy Vurdering uke 7 
+> 
+
+> [!hidden] 1.8 Spicy Vurdering uke 13 
+> 
+> På figuren under ser du de tre første figurene i en sammensatt figur, der $F_1 = 10$, $F_2 = 24$, $F_3 = 40$ og $F_4 = 58$. Finn et rekursivt uttrykk ved hjelp av form på tillegg. Besvarelsen må få frem hvordan det rekursive uttrykket samsvarer med figurtallene.
+>  ![](https://raw.githubusercontent.com/Andremartiny/MA-173/69551c9813221f27126637631eafede9e888b44e/img/tallteo/figurtall%C3%A5tterer.drawio.svg)
+
 > [!hidden] 1.9 Medium 1
 > Finn rekursivt uttrykk for trekanttallene $T_n$, der $T_1 =1$, $T_2 = 3$ og $T_3 = 6$ ved hjelp av strategien differanse mellom eksplisitte uttrykk. Merk: Det eksplisitte uttrykket for trekanttallene er $T_n = \frac{{n(n+1)}}{2}$.
 
@@ -509,6 +532,15 @@
 > 
 > Over ser du de tre første figurene i bikubetallene. Finn rekursivt uttrykk for bikubetallene $B_n$, der $B_1 =1$, $H_2 = 7$ og $H_3 = 19$ ved hjelp av strategien differanse mellom eksplisitte uttrykk. Merk: Det eksplisitte uttrykket for bikubetallene er $B_n = {3n(n-1)}+1$.
 > 
+
+> [!hidden] 1.9 Spicy Vurdering uke 7 
+> 
+> Under ser du de fire første figurene i en tallfølge. Finn et rekursivt uttrykk for figurene ved hjelp av differanse mellom eksplisitte uttrykk, der det eksplisitte uttrykket er $2n^2+n+7$.
+> ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/tallteo/figurtall1205.svg)
+> 
+
+> [!hidden] 1.9 Spicy Vurdering uke 13 
+> Et figurtallsmønster kan beskrives eksplisitt ved formelen $F_n = (n+1)(2n+3)$. Finn et rekursivt uttrykk for figurene ved hjelp av differanse mellom eksplisitte uttrykk. **Merk:** Du må også peke på hva $F_1$ er.
 
 > [!hidden] 1.10 Mild 1
 >  Se på figurtallene under.
@@ -548,6 +580,23 @@
 > 2. en rekursiv sammenheng mellom to påfølgende figurer.
 >  
 > ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/tallteo/figurtall1205.svg)
+
+> [!hidden] 1.10 Mild Vurdering uke 7 
+> Under ser dere dere de tre første piltallene.
+> 
+> Ved å illustrere piltallene og markere i illustrasjonen, gi en ordforklaring av
+> 1. en eksplisitt sammenheng mellom piltall nummer $n$ og antall prikker i piltallet.
+> 2. en rekursiv sammenheng mellom to påfølgende piltall.
+> 
+> ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-03-24-14-32-20.png)
+
+> [!hidden] 1.10 Mild Vurdering uke 13 
+> Under ser dere de første figurene i et figurtallsmønster.
+> 
+> Ved å illustrere figurene og markere i illustrasjonen, gi en ordforklaring av
+> 1. en eksplisitt sammenheng mellom figur nummer $n$ og antall prikker i figuren.
+> 2. en rekursiv sammenheng mellom to påfølgende figurer.
+> ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/dd6a409136aa6823c4aafc266271816393066d45/img/tallteo/fig17.drawio.svg)
 
 > [!hidden] 1.10 Medium 1
 > Dekomponer figuren på minst tre måter. Illustrer dekomponeringene i figurene, og beskriv dem algebraisk slik at det er en tydelig sammenheng mellom illustrasjon og uttrykk.
@@ -589,6 +638,39 @@
 > 
 > ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/31b1dc0629a975ed380203490b26e67c131bca4f/img/tallteo/firkanter.drawio.svg)
 
+> [!hidden] 1.10 Medium Vurdering uke 7 
+> 
+> Under ser dere dere de tre første figurtallene i en rekke figurtall.
+> Hvilke av uttrykkene stemmer med figuren. Bruk figuren for å argumentere:
+> 1. 
+> $$
+> \frac{(n+1)(n+2)}{2} + (n+1)^2 -4(n-1) + \frac{(n+1)(n+2)}{2}
+> $$
+> 2. 
+> $$
+> 2\cdot\frac{(n+1)(n+2)}{2} + 4 + (n-1)^2
+> $$
+> 3. 
+> $$
+> \frac{(n+1)(n+2)}{2}+ n^2- 4     + \frac{(n+1)(n+2)}{2}
+> $$
+> ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/tallteo/figurtall1205.svg)
+
+> [!hidden] 1.10 Medium Vurdering uke 13 
+> 
+> Under ser dere de første figurene i et figurtallsmønster.
+> Velg ut tre av uttrykkene under og bruk figuren til å argumentere hvorfor de gir en eksplisitt formel for antall firkanter i hver figur.
+> $$
+> \begin{aligned}
+> 1. \quad \quad & ((n+2)^2-2n) + \left( \frac{n(n+1)}{2} -1\right) \\
+> 2. \quad \quad & 4+ n(n+2)+\left( \frac{n(n+1)}{2} -1\right) \\
+> 3. \quad \quad & 2n(2n+1)- 2n -\left( \frac{n(n+1)}{2}-1 \right)\\
+> 4. \quad \quad & 4+ (n-1)(n+2) + \frac{(n+1)(n+2)}{2}
+> \end{aligned}
+> $$
+> 
+> ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/dd6a409136aa6823c4aafc266271816393066d45/img/tallteo/fig17.drawio.svg)
+
 > [!hidden] 1.10 Spicy 1
 > La $H_{n} = 2 \cdot T_{n + 1} - K_{n - 1}$.
 >     1. Illustrer $H_{1}$ til $H_{4}$ ved hjelp av trekant- og kvadrattall.
@@ -620,6 +702,21 @@
 > [!hidden] 1.10 Spicy Vurdering uke 6
 > 
 > Du får vite at et figurtall $F_n$ øker på følgende måte. $F_1 = 6$ og $F_n = F_{n-1}+5n-2$.
+> 
+> Lag en figur som følger mønsteret til $F_n$. Det er nok å illustrere $F_1$, $F_2$ og $F_3$, så lengde det får fram mønsteret.
+> 1. Vis og forklar sammenhengen mellom tallrekken og figurene rekursivt.
+> 2. Finn en eksplisitt formel på to forskjellige måter.
+
+> [!hidden] 1.10 Spicy Vurdering uke 7 
+> 
+> En figurtallfølge er gitt ved den rekursive sammenhengen $F_{n} = F_{n - 1} + 2n + 1$, der $F_{1} = 2$.
+> 1. Illustrer de fire første figurene at det går tydelig frem hvordan figuren vokser.
+> 2. Vis og forklar sammenhengen mellom tallrekken og figurene rekursivt.
+> 3. Finn eksplisitt formel på to måter.
+
+> [!hidden] 1.10 Spicy Vurdering uke 13 
+> 
+> Du får vite at et figurtall $F_n$ øker på følgende måte. $F_1 = 2$, $F_2 = 4$, $F_3 = 8$, $F_4 = 14$ og $F_5 = 22$.
 > 
 > Lag en figur som følger mønsteret til $F_n$. Det er nok å illustrere $F_1$, $F_2$ og $F_3$, så lengde det får fram mønsteret.
 > 1. Vis og forklar sammenhengen mellom tallrekken og figurene rekursivt.
@@ -1210,6 +1307,12 @@
 > 1. $2x^{2} + 20x = 48$
 > 2. $x^{2} + 8x = 105$
 
+> [!hidden] 3.5 Mild Vurdering uke 7 
+> 
+> Løs likningene med fullstendige kvadraters metode
+> 1. $2x^{2} - 20x = 48$
+> 2. $x^{2} + 6x = 16$
+
 > [!hidden] 3.5 Medium 1
 > Løs likningene:
 > 
@@ -1247,6 +1350,11 @@
 > 1. $x^2 + 5x = 6$
 > 2. $x^2+\frac{2}{5}x = 11-\frac{20}{25}$
 
+> [!hidden] 3.5 Medium Vurdering uke 7 
+> Løs likningene med fullstendige kvadraters metode
+> 1. $x^2 + 7x = \frac{15}{4}$
+> 2. $x^2+\frac{2}{3}x = 11$
+
 > [!hidden] 3.5 Spicy 1
 > Løs likningene:
 > 
@@ -1277,6 +1385,12 @@
 > Løs likningene med fullstendige kvadraters metode
 > 1. $x^2 + \sqrt 20x = 2$
 > 2. $3x^2-9x = 2$
+
+> [!hidden] 3.5 Spicy Vurdering uke 7 
+> 
+> Løs likningene med fullstendige kvadraters metode
+> 1. $x^2 + \sqrt 5x = 10$
+> 2. $x^2-2\sqrt 2x = -\frac{10}{9}$
 
 > [!hidden] 3.6 Mild 1
 > Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
@@ -1336,6 +1450,12 @@
 > 1. $(x-1)^2$
 > 2. $(z-4)^2$
 > 3. $(2y+3)^2$
+
+> [!hidden] 3.6 Mild Vurdering uke 7 
+> Regn ut (løs opp parentesene) ved hjelp av passende kvadratsetning.
+> 1. $(x+1)^2$
+> 2. $(y-3)^2$
+> 3. $(3y+3)^2$
 
 > [!hidden] 3.6 Medium 1
 > Faktoriser uttrykket under ved hjelp av passende kvadratsetning
@@ -1410,6 +1530,12 @@
 >  1. $36-x^2$
 >  2. $16+x^2-8x$
 >  3. $1-8k+16k^2$
+
+> [!hidden] 3.6 Medium Vurdering uke 7 
+> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> 1. $16-y^2$
+> 2. $9+x^2+6x$
+> 3. $16-8k+k^2$
 
 > [!hidden] 3.6 Spicy 1
 > Faktoriser uttrykket under ved hjelp av passende kvadratsetning
@@ -1501,6 +1627,16 @@
 > Uttrykkene under mangler et ledd for å bli et fullstendig kvadrat. Lag fullstendige kvadrater av uttrykkene (noen kan ha to løsninger).
 > 1. $x(xy^2+6y)$
 > 2. $a(x+a)$
+
+> [!hidden] 3.6 Spicy Vurdering uke 7 
+> Faktoriser uttrykkene under ved hjelp av passende kvadratsetning
+> 1. $(x+1)^2+2(x+1)y+y^2$
+>  
+> 2. Uttrykket $x^2 + \sqrt2 x + \square$ mangler noe for å kunne bli faktorisert med en kvadratsetning. Avgjør hvilke av alternativene under som kan brukes, ved å legge til de riktige alternativene og faktorisere uttrykket
+>     1. $\frac{1}{2}$
+>     2. $\sqrt 2 x + 2$
+>     3. $-\sqrt 2 x -4$
+>     4. $\sqrt 2 x + 4$
 
 > [!hidden] 3.7 Medium 1
 > Illustrer de tre kvadratsetningene, med tilhørende forklaring, slik at det går tydelig frem at de stemmer (for positive tall).
@@ -1619,6 +1755,21 @@
 > [!hidden] 3.12 Medium 3
 > Under ser du et område som opprinnelig var et kvadrat med sidelengde $x$. Det er trukket fra tre halvsirkler fra kvadratet. Hva er det gjenværende arealet?<br>![](https://raw.githubusercontent.com/Andremartiny/MA-173/f4fe054ae1e8c41496c2d12d5af365a7a2f5b3d1/img/geo/figur2.svg)
 
+> [!hidden] 3.12 Medium Vurdering uke 7 
+> Under ser du en illustrasjon av en iskrem som André spiste på fiskebrygga. Figuren er tegnet på et rutenett og består av en halvsirkel og en likebeint trekant. Enhetene i rutenettet måles i centimeter. Hvor stort areal fyller figuren på rutenettet?
+> 
+> Utregningene skal ikke være avrundet og skal gis i eksakte verdier. Det vil si at hvis svaret er $\sqrt{1^{2} + 2^{2}} = \sqrt{5}$, så skal ikke dette rundes av til $2,236$. Inneholder svaret $\pi$ skal dette heller ikke avrundes til $3.14$!
+> 
+> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-04-13-14-16-07.png)
+
+> [!hidden] 3.12 Medium Vurdering uke 13 
+> 
+> Under ser du en rosa figur med et hull. Figuren, uten hull, består av et kvadrat med sidelengde $2r$ og to halvsirkler satt på hver side av kvadratet med sidelengde $r$.  
+> 
+> Avgjør arealet til den rosa figuren.
+> 
+> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/f4fe054ae1e8c41496c2d12d5af365a7a2f5b3d1/img/geo/figur1.svg)
+
 > [!hidden] 3.12 Spicy 1
 > Arkene i A-formatet (A1, A2, A3, A4, A5, osv) har den egenskapen at når du halverer de ved å brette de på langsiden, så vil de bevare forholdet mellom sidelengdene. Det vil si at hvis sidelengdene i A4 er *a* og *b,* så er i A5 *b/2* og *a* og forholdet mellom sidelengdene vil være like. Vis at dette forholdet, vil være $\sqrt 2$.
 
@@ -1629,6 +1780,25 @@
 > Under ser du en figur som er laget av sirkelsektorer og trekanter. Figuren er lagd ved å dele sirkelen med sentrum i $A$ inn i seks like deler $B$, $C$, $D$, $E$, $F$ og $G$. Sirkelen har radius $r$.
 > 1. Avgjør og begrunn hva omkretsen av figuren er
 > 2. Avgjør arealet av figuren.<br>![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-04-25-13-59-55.png)
+
+> [!hidden] 3.12 Spicy Vurdering uke 7 
+> Under ser du en løpebane konstruert ved hjelp av rutenett bestående av likesidede trekanter med sidelengde 10m. Selve banen er konstruert ved hjelp av kun halvsirkler.
+> 1. Avgjør hvor lang banen er.
+> 2. Avgjør hvor stort areal banen avgrenser.
+> 
+> Utregningene skal ikke være avrundet og skal gis i eksakte verdier. Det vil si at hvis svaret er $\sqrt{1^{2} + 2^{2}} = \sqrt{5}$, så skal ikke dette rundes av til $2,236$. Inneholder svaret $\pi$ skal dette heller ikke avrundes til $3.14$!
+> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-04-13-14-21-59.png)
+
+> [!hidden] 3.12 Spicy Vurdering uke 13 
+> 
+> Pytagoras setning sier at for rettvinklede trekanter så gjelder $a^2+b^2 = c^2$ der $a$ og $b$ er katetene i trekanten og $c$ er hypotenusen. Man kan derfor finne høyden i likebeinte trekanter hvis man vet sidelengdene, ved å halvere grunnlinjen og bruke Pytagoras setning.
+> 
+> I figuren er det skissert en åttekant innskribert i et kvadrat der fire av sidelengdene har lengde $3$ og fire av sidelengdene har lengde $2$.
+> 1. Bruk Pytagoras setning til å vise at sidelengdene til kvadratet åttekanten er innskribert i er $3+2\sqrt 2$.
+> 2. Forklar hvorfor høyden i trekantene med grunnlinje $3$ er $\frac{3}{2} + \sqrt 2$.
+> 3. Avgjør arealet til åttekanten.
+> 
+> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-03-30-14-31-10.png)
 
 > [!hidden] 3.13 Mild 1
 > Forenkle uttrykket $6z-2-2z + 4$.
@@ -1695,6 +1865,14 @@
 > \frac{1}{x-1}\cdot \frac{8x-8}{8}.
 > $$
 
+> [!hidden] 3.13 Mild Vurdering uke 7 
+> 1. Forenkle uttrykket $8c-4-2c + 6$.
+> 2. Hvis at $2x^2+5x -2x(x+2)$ kan skrives som $x$.
+
+> [!hidden] 3.13 Mild Vurdering uke 13 
+> 1. Forenkle uttrykket $-4 + 8p -6p - 5 + 20p$.
+> 2. Forenkle uttrykket $\frac{1}{z-4}\cdot \frac{4z-16}{4z}.$
+
 > [!hidden] 3.13 Medium 0
 > Forenkle uttrykket
 > $$
@@ -1747,6 +1925,14 @@
 > \frac{\frac{3a-9b}{a^2-ab}}{\frac{(a-3b)}{a(a-b)(a+b)}}
 > $$
 
+> [!hidden] 3.13 Medium Vurdering uke 7 
+> 1. Vis at $$\frac{1}{1-\frac{1}{x+1}}- \frac{1}{x}$$ kan omformes til $1$.
+> 2. Forenkle uttrykket $3n(n-1)+1 - (3(n-1)(n-2)+1)$.
+
+> [!hidden] 3.13 Medium Vurdering uke 13 
+> 1. Forenkle uttrykket $\frac{x(x+1)}{2} + 3 \frac{(x-1)x}{2}$
+> 2. Vis at uttrykket $(h+1)h+\frac{3h+3}{2}+\frac{h^2+h}{2}$ kan omskrives til $\frac{3}{2}(h+1)^2$
+
 > [!hidden] 3.13 Spicy 1
 > Hvilket av uttrykkene har ikke samme verdi som de andre?
 > 1. $(1+\sqrt 2)^2$
@@ -1795,6 +1981,24 @@
 > 3y(y+2)+ \frac{3y^2+12y+12}{3y+6}+{ \frac{(y-2)(y+3)}{\left( 1+\frac{1}{y+2}  \right)(y^2-4) } }+y+1
 > $$
 
+> [!hidden] 3.13 Spicy Vurdering uke 7 
+> 1. Forenkle uttrykket 
+> $$
+> \frac{1}{x+2}+\frac{1}{x-2}+\frac{\frac{6x-2x^2}{x-2}}{x^2-x-6}
+> $$
+> 1. Faktoriser alle felles faktorer i de blå og oransje leddene hver for seg. Bruk det faktoriserte uttrykket til å gjøre en ny naturlig faktorisering.
+> $$
+> {\color{#5ca6f4} x^2+2xy }+{\color{#f46f22} 5x^3+10x^2 y }
+> $$
+> 2. Forenkle uttrykket ved å skrive hele uttrykket som et produkt av lineære faktorer
+> $$
+> 4(n+1)^2 -4\left( \frac{n(n-1)}{2} \right)-(4(n+1)-1)-1
+> $$
+
+> [!hidden] 3.13 Spicy Vurdering uke 13 
+> 1. Forenkle uttrykket $\frac{x(x+1)}{2} + 3 \frac{(x-1)x}{2}+\frac{(x+2)x}{3}+\frac{(x+2)(2x-2)}{6}$
+> 2. Vis at uttrykket $(h+1)h+\frac{3h+3}{2}+\frac{h^2+h}{2} - \frac{6h+6}{\frac{2}{h}}+\frac{2h}{3}-\frac{2}{3}$ kan omskrives til $-(h-1)\frac{9h-5}{6}$
+
 > [!hidden] 3.14 Medium Nokut V24
 > ![[Files/3.14 Tolke algebraiske uttrykk geometrisk, med ord og kontekst.-9.png]]
 
@@ -1836,6 +2040,19 @@
 > Peder i 10. trinn ber deg tenke på et tall. Legg til 5 og gang tallet du fikk med 4. Trekk fra 16 og del svaret ditt på 2. Multipliser tallet du nå har med 3. Trekk fra det dobbelte av tallet du opprinnelig valgte og trekk fra 15.
 > 1. Vis algebraisk en generell sammenheng mellom det tallet en velger og det svaret en får.
 > 2. Lag en *tenk på et tall*-oppgave til elever på 6. trinn hvor elevene må bruke alle de fire regneartene og der alle elevene får samme tall som svar. Vis algebraisk at oppgaven fører til at alle elevene får 13 som svar.
+
+> [!hidden] 3.14 Medium Vurdering uke 7 
+> 1. Lag en figur som illustrerer $x(x+3)$ og beskriv hva $x$, $x+3$ og $x(x+3)$ representerer.
+> 2. La $k$ stå for antall par med klatresko André har og $h$ stå for antall par med klatresko Henrik har. Beskriv med ord en sammenheng mellom antall par klatresko Henrik har og antall par André har for hver av uttrykkene under
+>     1. $h = k+1$,
+>     2. $k = 2h-1$
+>     3. $3h = \frac{k}{2}+3$
+
+> [!hidden] 3.14 Medium Vurdering uke 13 
+> 
+> Anders i 10. trinn ber deg tenke på et tall. Multipliser tallet med 3, legg til 9 og del svaret ditt på 3. Multipliser tallet du nå har med 3. Trekk fra det dobbelte av tallet du opprinnelig valgte og trekk fra 9.
+> 1. Vis algebraisk en generell sammenheng mellom det tallet en velger og det svaret en får.
+> 2. Lag en *tenk på et tall*-oppgave til elever på 6. trinn hvor elevene må bruke alle de fire regneartene og der alle elevene får samme tall som svar. Vis algebraisk at oppgaven fører til at alle elevene får samme tall som svar. 
 
 > [!hidden] 3.15 Medium NOKUT H24
 > ![[Files/NokutH2411.png]]
@@ -1896,6 +2113,33 @@
 > 
 > *Ingvald*: Det kommer an på verdien til $x$.
 
+> [!hidden] 3.15 Medium Vurdering uke 7 
+> 1. André prøver å bestemme verdien av uttrykket $4ab-2(-ab^2-b)$ når $a = -2$ og $b = -1$. Under kan du se at André løser oppgaven feil, men får riktig svar. Identifiser hvilke(n) feil André gjorde. 
+> $$
+> \begin{aligned}  4(-2)(-1) -2(-(-2)\cdot (-1^2)-1) & =\\ 8-2(-2-1) &= \\ 8-2(-3)  &= \\ 8-6 &= \underline{\underline{2}} \end{aligned}
+> $$
+> 2. 
+> Henrik jobber med uttrykket $\frac{3x^2+15}{15+4x}$ og gjør følgende
+> $$
+> \frac{x^2-\cancel{9}}{\cancel{9}-3x} = \frac{x^2}{3x} =\frac{\cancel{x}+\cancel{x}}{\cancel{x}+\cancel{x}+x} =\frac{1}{x}
+> $$
+> - Pek på hva Henrik gjør feil
+> - Vis hvordan du vil forkorte brøken
+
+> [!hidden] 3.15 Medium Vurdering uke 13 
+> 1. Tre elever skulle forenkle uttrykket $\frac{2}{1-2x} + \frac{1}{x}$. Under ser du deres utregning. <br><br> 
+> $$
+> \begin{aligned} 1. \quad\quad & \frac{\cancel2}{1-\cancel2x} + \frac{1} {x}  = \frac{1+1}{1-x+x} = 1 \\ 2. \quad\quad & \frac{2\cdot x}{(1-2x)\cdot x} + \frac{1\cdot (1-2x)}{x(1-2x)}  =  \frac{2x + 1 -2x}{x(1-2x)} = \frac{1}{x(1-2x)} \\ 3.\quad\quad &  \frac{2x+1}{1-2x+x} = \frac{2x+1}{1-x}\end{aligned}
+> $$ 
+> For hver elev, avgjør for hvert steg, hva eleven gjør riktig eller feil.
+> 
+> 2. For å undersøke elevenes forståelse av prioriteringsreglene for matematiske operasjoner ga læreren fire oppgaver. Eleven Henrik kom fram til følgende (svarene er skrevet i rødt)
+> - $3\cdot 5 : 3 - 2\phantom = \color{red}{ = 15}$
+> - $21-7:2+5 \phantom = \color{red}{= 12}$ 
+> - $3\cdot 6 - 3 + 2 \phantom = \color{red}{= 11}$
+> - $6\cdot 2+3 -1 \phantom = \color{red}{= 14}$
+> Avgjør om svaret på hver oppgave 1.-4. er riktig eller feil, og beskriv hvordan eleven kan ha tenkt. 
+
 > [!hidden] 4.1 Mild 1
 > Forklar kort, og gi eksempler på hver av de additive strukturene *økning, komplettering, forening, sammenlikning* og *oppheving av minskning*. 
 
@@ -1942,6 +2186,14 @@
 > 1. På en uke har en solsikke inntil husveggen vokst til 212 cm. Hvor mange centimeter må den vokse før den når husveggen på 240 cm?
 > 2. André fant 12 kroner i bukselomma. I jakkelomma fant han 50. Hvor mye mer fant han i jakka?
 > 3. Studentene må lese to pensumbøker med til sammen 643 sider. Den ene boka er på 425 sider. Hvor mange sider har den andre?
+
+> [!hidden] 4.1 Medium Vurdering uke 7 
+> 
+> Avgjør og begrunn hvilken additiv struktur situasjonene har. Angi både addisjons- og subtraksjonsstykket som passer i hvert tilfelle.
+> 1. I hver situasjon under, argumenter for to additive strukturer det er rimelig å si at situasjonen er et eksempel på. Oppgi i hvert tilfelle både addisjons- og subtraksjonsstykket som passer.
+> - Henrik kaster en tolvsidet terning. Første terning triller $12$, andre terning triller $5$. Hvor mye trillet han til sammen?  
+> - Henrik samler Pokémonkort. En pakke kort koster $79$, men Henrik er blakk og har bare $20$ kroner. Hvor mye mer trenger han for å få råd?
+> 2. Lag en oppgave til $120 + {\_\_} =145$ med additiv sammenlikning som struktur.
 
 > [!hidden] 4.2 Mild 1
 > Forklar kort, og gi eksempler på hver av de multiplikative strukturene *like grupper, rate, sammenlikning, kombinatorisk situasjon* og *rektangulært arrangement*. 
@@ -1992,6 +2244,13 @@
 >     2. Antall gir på en sykkel med tre tannhjul fremme og åtte bak.
 >     3. Solas diameter er 109 ganger jordas.
 > 2. Ta utgangspunkt i situasjon 1. Legg til nødvendig informasjon, og omformuler på to måter: slik at du lager én divisjonsoppgave med målingsdivisjon og én med delingsdivisjon. Begrunn hvilken som er hva.
+
+> [!hidden] 4.2 Medium Vurdering uke 7 
+> 1. Avgjør og begrunn hvilken multiplikativ struktur situasjonene svarer til.
+> - En bils tilbakelagte strekning når den har kjørt 60 km/t i 20 minutter.
+> - Antall tyggegummi i tre pakker med åtte i hver.  
+> - Antall seter i en kinosal med 23 rader, hver med 14 seter.
+> 1. Ta utgangspunkt i andre situasjon. Legg til nødvendig informasjon, og omformuler på to måter: slik at du lager én divisjonsoppgave med målingsdivisjon og én med delingsdivisjon. Begrunn hvilken som er hva.
 
 > [!hidden] 4.3 Mild 1
 > Forklar kort, og gi eksempler på kommutativ og assosiativ egenskap for 
@@ -2063,6 +2322,12 @@
 > 2. $102\cdot 49$
 > 3. $60\cdot 333$
 > 4. $7881:111$
+
+> [!hidden] 4.4 Mild Vurdering uke 7 
+> Vis hvordan én eller flere av de tre egenskapene (kommutativitet, assosiativitet og distributivitet) kan brukes som regnestrategier.
+> 1. $12\cdot 8$
+> 2. $20\cdot 7$
+> 3. $23\cdot 13$
 
 > [!hidden] 4.4 Medium 1
 > Gjør oppgavene fra middels. Begrunn, og dersom hensiktsmessig, illustrer strategien slik at det går tydelig frem at den alltid funker.
@@ -2297,6 +2562,18 @@
 > Regn ut.
 > 1. $\displaystyle((\frac{4}{5} + \frac{1}{\frac{7}{3}}) \frac{1}{43}) \cdot 7 + \frac{4}{5}$
 > 2. $\displaystyle\frac{1}{2} - \frac{\frac{4}{11}((\frac{8}{6} : \frac{1}{3}) + \frac{2}{5})}{\frac{4}{2,5}}$
+
+> [!hidden] 4.11 Spicy Vurdering uke 7 
+> Vis at uttrykket i a. har verdien 2/3, og uttrykket i b. verdien 0.
+> 
+> a. $(\dfrac{11}{3+\frac{2}{3}}\cdot \frac{1}{6}) : \dfrac{3}{4}$
+> 
+> b. $\dfrac{(4 \ : \frac{6}{5})\cdot (-\frac{21}{20})}{1+\frac{2}{\frac{3}{2}}}+\dfrac{3}{2}$
+
+> [!hidden] 4.11 Spicy Vurdering uke 13 
+> Regn ut.
+> 1. $\displaystyle\frac{3}{2}(2 + \frac{2}{3} - \frac{3 + \frac{1}{5}}{\frac{3}{2}}) -1$
+> 2. $\displaystyle \frac{(\frac{4}{7} \cdot (2 + \frac{4}{5})) - \frac{3}{5}}{\frac{2}{3}} + \frac{1}{2}$
 
 > [!hidden] 4.12 Mild 1
 > Utdyp og forklar: _desimaltall er en skrivemåte for brøker der
