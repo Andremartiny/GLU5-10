@@ -1,7 +1,7 @@
 // Sample data for demonstration purposes
 const studentData = {
   "905819768707": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -48,7 +48,7 @@ const studentData = {
     "4.6.": 3,
     "4.7.": 3,
     "4.8.": 1,
-    "4.9.": 0,
+    "4.9.": 1,
     "4.10.": 0,
     "4.11.": 5,
     "4.12.": 0,
@@ -72,7 +72,7 @@ const studentData = {
     "total_1": 0.40816326530612246,
     "total_2": 0,
     "total_3": 0.32727272727272727,
-    "total_4": 0.16216216216216217,
+    "total_4": 0.17567567567567569,
     "total_5": 0.1935483870967742
   },
   "470005390026": {
@@ -301,7 +301,7 @@ const studentData = {
     "total_5": 0.1935483870967742
   },
   "385412904422": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -601,7 +601,7 @@ const studentData = {
     "total_5": 0.0967741935483871
   },
   "990418832464": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -676,7 +676,7 @@ const studentData = {
     "total_5": 0.22580645161290322
   },
   "362516287360": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -901,7 +901,7 @@ const studentData = {
     "total_5": 0.2903225806451613
   },
   "786174235508": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -976,7 +976,7 @@ const studentData = {
     "total_5": 0
   },
   "879735680019": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -1126,7 +1126,7 @@ const studentData = {
     "total_5": 0
   },
   "294097774745": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -1201,7 +1201,7 @@ const studentData = {
     "total_5": 0.1935483870967742
   },
   "27543361374": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -1276,7 +1276,7 @@ const studentData = {
     "total_5": 0
   },
   "129995189748": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -1351,7 +1351,7 @@ const studentData = {
     "total_5": 0.2903225806451613
   },
   "755450751024": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -1426,7 +1426,7 @@ const studentData = {
     "total_5": 0.0967741935483871
   },
   "206559184317": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -1463,7 +1463,7 @@ const studentData = {
     "3.11.": 0,
     "3.12.": 0,
     "3.13.": 0,
-    "3.14.": 0,
+    "3.14.": 3,
     "3.15.": 0,
     "4.1.": 3,
     "4.2.": 3,
@@ -1496,7 +1496,7 @@ const studentData = {
     "5.9.": 0,
     "total_1": 0.40816326530612246,
     "total_2": 0,
-    "total_3": 0.43636363636363634,
+    "total_3": 0.4909090909090909,
     "total_4": 0.40540540540540543,
     "total_5": 0.1935483870967742
   },
@@ -1576,7 +1576,7 @@ const studentData = {
     "total_5": 0.2903225806451613
   },
   "159470822319": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -1651,7 +1651,7 @@ const studentData = {
     "total_5": 0.03225806451612903
   },
   "861534998170": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": null,
     "Obligatorisk": 0,
@@ -1694,7 +1694,7 @@ const studentData = {
     "4.2.": 0,
     "4.3.": 3,
     "4.4.": 3,
-    "4.5.": 0,
+    "4.5.": 1,
     "4.6.": 3,
     "4.7.": 3,
     "4.8.": 1,
@@ -1722,11 +1722,11 @@ const studentData = {
     "total_1": 0.7755102040816326,
     "total_2": 0,
     "total_3": 0.7272727272727273,
-    "total_4": 0.3783783783783784,
+    "total_4": 0.3918918918918919,
     "total_5": 0.3870967741935484
   },
   "973378003987": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -1801,7 +1801,7 @@ const studentData = {
     "total_5": 0
   },
   "642812470593": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -1848,7 +1848,7 @@ const studentData = {
     "4.6.": 3,
     "4.7.": 3,
     "4.8.": 3,
-    "4.9.": 0,
+    "4.9.": 1,
     "4.10.": 5,
     "4.11.": 5,
     "4.12.": 0,
@@ -1872,11 +1872,11 @@ const studentData = {
     "total_1": 0.5918367346938775,
     "total_2": 0,
     "total_3": 0.4,
-    "total_4": 0.40540540540540543,
+    "total_4": 0.4189189189189189,
     "total_5": 0.1935483870967742
   },
   "300222349963": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -1951,7 +1951,7 @@ const studentData = {
     "total_5": 0.1935483870967742
   },
   "544013497914": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": null,
     "Obligatorisk": 0,
@@ -2026,7 +2026,7 @@ const studentData = {
     "total_5": 0.03225806451612903
   },
   "662553523622": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -2101,7 +2101,7 @@ const studentData = {
     "total_5": 0.2903225806451613
   },
   "827305258565": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -2176,7 +2176,7 @@ const studentData = {
     "total_5": 0.12903225806451613
   },
   "392493873178": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -2251,7 +2251,7 @@ const studentData = {
     "total_5": 0.22580645161290322
   },
   "894209294444": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -2326,7 +2326,7 @@ const studentData = {
     "total_5": 0.22580645161290322
   },
   "27659163656": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -2401,7 +2401,7 @@ const studentData = {
     "total_5": 0.22580645161290322
   },
   "247126932601": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -2551,7 +2551,7 @@ const studentData = {
     "total_5": 0.2903225806451613
   },
   "942752800727": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -2626,7 +2626,7 @@ const studentData = {
     "total_5": 0.06451612903225806
   },
   "930836166173": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
@@ -2701,7 +2701,7 @@ const studentData = {
     "total_5": 0.03225806451612903
   },
   "214062584291": {
-    "": null,
+    "": 0,
     "Vurdering": null,
     "TEST": 0,
     "Obligatorisk": 0,
