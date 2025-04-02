@@ -58,6 +58,10 @@
 > Begrunn, algebraisk, at følgende påstand stemmer.
 > *Hvis et tall er en faktor i to tall, så er det også en faktor i differansen mellom tallene.*
 
+> [!hidden] 1.2 Spicy Vurdering uke 14 
+> 
+> Begrunn eller motbevis påstanden. *åtte er en faktor i ethvert produkt av fire påfølgende naturlige tall*.
+
 > [!hidden] 1.3 Mild 1
 > Forklar hvordan et posisjonssystem er bygd opp. Gi eksempler med ulike baser.
 
@@ -401,6 +405,11 @@
 > 
 > ![](https://raw.githubusercontent.com/Andremartiny/MA-173/1771a18e040735ec0055318ae74c13530a161541/img/tallteo/b%C3%A5ttall.drawio.svg) 
 
+> [!hidden] 1.6 Spicy Vurdering uke 14 
+> På figuren under ser du de tre første figurene i en sammensatt figur, der $F_1 = 2$, $F_2 = 8$ og $F_3 = 16$. Finn en eksplisitt formel ved hjelp av figurtall-som-sum-knepet.
+>  
+>  ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-03-24-14-40-43.png)
+
 > [!hidden] 1.7 Mild 1
 > Illustrer femkanttallene opp til $F_3$, og utled eksplisitt uttrykk for $F_n$ ved å bruke stirre-hardt-metoden.
 
@@ -453,6 +462,13 @@
 > [!hidden] 1.7 Medium Vurdering uke 7 
 > På figuren under ser du de fire første figurene i en sammensatt figur, der $F_1 = 6$, $F_2 = 12$, $F_3 = 24$ og $F_4 =42$. Finn en eksplisitt formel ved å bruke stirre-hardt-metoden.
 
+> [!hidden] 1.7 Medium Vurdering uke 14 
+> På figuren under ser du de tre første figurene i en sammensatt figur, der $F_1 = 9$, $F_2 = 18$ og $F_3 = 30$. Finn en eksplisitt formel ved å bruke stirre-hardt-metoden. Finn en eksplisitt formel ved å bruke stirre-hardt-metoden.
+> 
+> ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/1771a18e040735ec0055318ae74c13530a161541/img/tallteo/b%C3%A5ttall.drawio.svg)
+> 
+> 
+
 > [!hidden] 1.8 Mild 1 
 > Illustrer trekanttallene opp til $T_3$, og utled et rekursivt uttrykk for $T_n$. Pek også på den rekursive sammenhengen i figurene du har tegnet.
 
@@ -501,6 +517,14 @@
 > På figuren under ser du de tre første figurene i en sammensatt figur, der $F_1 = 10$, $F_2 = 24$, $F_3 = 40$ og $F_4 = 58$. Finn et rekursivt uttrykk ved hjelp av form på tillegg. Besvarelsen må få frem hvordan det rekursive uttrykket samsvarer med figurtallene.
 >  ![](https://raw.githubusercontent.com/Andremartiny/MA-173/69551c9813221f27126637631eafede9e888b44e/img/tallteo/figurtall%C3%A5tterer.drawio.svg)
 
+> [!hidden] 1.8 Spicy Vurdering uke 14 
+> 
+> På figuren under ser du de tre første figurene i en sammensatt figur, der $F_1 = 5$, $F_2 = 13$ og $F_3 = 25$.
+> 
+> Utled et rekursivt uttrykk som beskriver mønsteret figurene følger.
+> 
+> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/tallteo/figtall1205.svg)
+
 > [!hidden] 1.9 Medium 1
 > Finn rekursivt uttrykk for trekanttallene $T_n$, der $T_1 =1$, $T_2 = 3$ og $T_3 = 6$ ved hjelp av strategien differanse mellom eksplisitte uttrykk. Merk: Det eksplisitte uttrykket for trekanttallene er $T_n = \frac{{n(n+1)}}{2}$.
 
@@ -541,6 +565,12 @@
 
 > [!hidden] 1.9 Spicy Vurdering uke 13 
 > Et figurtallsmønster kan beskrives eksplisitt ved formelen $F_n = (n+1)(2n+3)$. Finn et rekursivt uttrykk for figurene ved hjelp av differanse mellom eksplisitte uttrykk. **Merk:** Du må også peke på hva $F_1$ er.
+
+> [!hidden] 1.9 Spicy Vurdering uke 14 
+> 
+> Under ser du de fire første figurene i en tallfølge. Finn et rekursivt uttrykk for figurene ved hjelp av differanse mellom eksplisitte uttrykk, der det eksplisitte uttrykket er $n^2+2n$.
+> 
+> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/tallteo/image1.png)
 
 > [!hidden] 1.10 Mild 1
 >  Se på figurtallene under.
@@ -597,6 +627,15 @@
 > 1. en eksplisitt sammenheng mellom figur nummer $n$ og antall prikker i figuren.
 > 2. en rekursiv sammenheng mellom to påfølgende figurer.
 > ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/dd6a409136aa6823c4aafc266271816393066d45/img/tallteo/fig17.drawio.svg)
+
+> [!hidden] 1.10 Mild Vurdering uke 14 
+> Under ser dere de første figurene i et figurtallsmønster.
+> 
+> Ved å illustrere figurene og markere i illustrasjonen, gi en ordforklaring av
+> 1. en eksplisitt sammenheng mellom figur nummer $n$ og antall prikker i figuren.
+> 2. en rekursiv sammenheng mellom to påfølgende figurer.
+> 
+> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/d17a5209d55077de9b3ff1db15f2e086d2936193/img/tallteo/tallf%C3%B8lge2-4-8-14-22.drawio.svg)
 
 > [!hidden] 1.10 Medium 1
 > Dekomponer figuren på minst tre måter. Illustrer dekomponeringene i figurene, og beskriv dem algebraisk slik at det er en tydelig sammenheng mellom illustrasjon og uttrykk.
@@ -671,6 +710,18 @@
 > 
 > ![600](https://raw.githubusercontent.com/Andremartiny/MA-173/dd6a409136aa6823c4aafc266271816393066d45/img/tallteo/fig17.drawio.svg)
 
+> [!hidden] 1.10 Medium Vurdering uke 14 
+> 
+> Under ser dere de første figurene i et figurtallsmønster.
+> 
+> Velg ut tre av uttrykkene under og bruk figuren til å argumentere hvorfor de gir en eksplisitt formel for antall firkanter i hver figur.
+> 
+> $$
+> \begin{aligned}   1. \quad \quad & 2n-1 + \left( 2 \frac{(n+1)(n+2)}{2} - 1 \right) \\  2. \quad \quad & 4n + 2 \frac{n(n+1)}{2} \\  3. \quad \quad & (2n+1)(n+1) - (n-1)^2\\  4. \quad \quad & 2 \frac{n(n+1)}{2} + ((n+1)^2-(n-1)^2) \end{aligned}
+> $$
+> 
+> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/d17a5209d55077de9b3ff1db15f2e086d2936193/img/tallteo/fig34.drawio.svg)
+
 > [!hidden] 1.10 Spicy 1
 > La $H_{n} = 2 \cdot T_{n + 1} - K_{n - 1}$.
 >     1. Illustrer $H_{1}$ til $H_{4}$ ved hjelp av trekant- og kvadrattall.
@@ -722,6 +773,13 @@
 > 1. Vis og forklar sammenhengen mellom tallrekken og figurene rekursivt.
 > 2. Finn en eksplisitt formel på to forskjellige måter.
 
+> [!hidden] 1.10 Spicy Vurdering uke 14 
+> 
+> Du får vite at et figurtall $F_n$ øker på følgende måte. $F_1 = 2$, $F_2 = 4$, $F_3 = 8$, $F_4 = 14$ og $F_5 = 22$.
+> 1. Lag en figur som følger mønsteret til $F_n$. Det er nok å illustrere $F_1$, $F_2$ og $F_3$, så lengde det får fram mønsteret.
+> 2. Vis og forklar sammenhengen mellom tallrekken og figurene rekursivt.
+> 3. Finn eksplisitt formel på to måter.
+
 > [!hidden] 2.1 Medium  Alfa s. 346–347.
 > 1. 4.9
 > 2. 4.12
@@ -741,6 +799,10 @@
 >     3. 4.15
 >     4. 4.17
 >     5. **Bonus** (ut over læringsmålet): 4.18 og 4.19
+
+> [!hidden] 2.2 Spicy Vurdering uke 14 
+> 
+> Grafen til en lineær funksjon går gjennom punktene $(-1, 5)$ og $(2, 2)$. Forklar hvordan vi kan finne likninga til den lineære funksjonen.
 
 > [!hidden] 2.3 Medium 1
 > La en andregradsfunksjon ha formen $f(x)=ax^2+c$. Forklar og vis i et koordinatsystem hva som skjer når
@@ -1799,6 +1861,16 @@
 > 3. Avgjør arealet til åttekanten.
 > 
 > ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-03-30-14-31-10.png)
+
+> [!hidden] 3.12 Spicy Vurdering uke 14 
+> 
+> Under er et rektangel med høyde $h$ som består av en blå rettvinklet trekant, en grønn rettvinklet trekant der lengden på grunnlinjen er $x$, og et trapes der de parallelle sidene har lengde $a$ og $b$ som markert på figuren.
+> 1. Uttrykk lengden fra punkt $L$ til $I$ ved hjelp av $a$, $b$ og $x$.
+> 2. Avgjør arealet $A$ av rektangelet.
+> 3. Avgjør arealet $B$ til den blå trekanten og arealet $C$ til den grønne trekanten.
+> 4.Beg 4.3. grunn at arealet av trapeset må være $\frac{(a+b)h}{2}$, ved å bruke arealene du fant i oppgave 2 og 3.
+> 
+> ![](https://raw.githubusercontent.com/Andremartiny/MA-173/main/img/2023-03-24-22-22-14.png)
 
 > [!hidden] 3.13 Mild 1
 > Forenkle uttrykket $6z-2-2z + 4$.
@@ -2868,6 +2940,12 @@
 > 
 > $10^3 \cdot 15^2 \cdot 21^3 \cdot 30^9$.
 
+> [!hidden] 4.19 Mild Vurdering uke 13 
+> 
+> Forkort uttrykkene så langt som mulig (det betyr, blant annet, å bruke primtallsbaser. For eksempel at $25$ skal skrives som $5^2$)
+> 
+> $2^2 \cdot 4^4 \cdot 6^2 \cdot 8$.
+
 > [!hidden] 4.19 Medium Alfa s. 239--241 (Det er ikke meningen å gjøre alt! Øv på det du trenger å øve på.)
 > 1. 3.23
 > 2. 3.25
@@ -2896,6 +2974,31 @@
 > & \text{2. } \quad \frac{30^{3}\cdot2^3}{10^{-4}\cdot 3^{2}\cdot 2^5\cdot 5^2} \\
 > & \text{3. } \quad 30^3\cdot \frac{10^3}{2^2\cdot 15^2}
 > \end{align*} 
+> $$
+
+> [!hidden] 4.19 Medium Vurdering uke 14 
+> Oppgave 1.
+> 
+> Forkort uttrykkene så langt mulig 
+> $$
+> \frac{\big((15)^{-2}\big)^{-3}  \cdot \ 7^{-6}}{35^3} \cdot \left( \frac{7}{3} \right)^{-4}
+> $$
+> 
+> Oppgave 2
+> 
+> Avgjør om *hvert alternativ* under er lik $\displaystyle\frac{1}{10^8}$
+> 
+> Alternativ 1.
+> $$
+> \frac{{2^4}}{2^{12}\cdot 5^8}
+> $$
+> Alternativ 1.
+> $$
+> \frac{{10^3\cdot 5^{-4}}}{2^{11}\cdot 5^7}
+> $$
+> Alternativ 1.
+> $$
+> \frac{{30^4}}{10^9\cdot 15^4}\cdot 10\cdot 2^{-4}
 > $$
 
 > [!hidden] 4.19 Spicy 1
@@ -2937,6 +3040,21 @@
 > 2. Avgjør og begrunn om uttrykkene har lik verdi $5^{3} \cdot 75^{- \frac{3}{2}}$ og $\left( {3}^{2/3 } \right)^{- 1}$
 > 3. Skriv som potens: $0.125$
 > 4. Finn $n$: når $9 = 81^{\frac{2}{n}}$.
+
+> [!hidden] 4.19 Spicy Vurdering uke 14 
+> 
+> Oppgave 1.
+> Skriv som potens der eksponenten er 2.
+> 1. $0.0625$
+> 2. $2.56$
+> 
+> Oppgave 2.
+> Regn ut 
+> $$
+> 9^{\frac{2}{3}} \cdot 2^{-12} \cdot \frac{\big(12^{\frac{1}{2}}\big)^3 \cdot 3^{\frac{1}{3}}}{3^{\frac{19}{6}}\cdot 2^{-8}}
+> $$
+> Oppgave 3.
+> Finn $n$ når $3^{\frac{6}{n}} = 9$
 
 > [!hidden] 4.20 Medium Vurdering uke 6
 > 
@@ -3246,6 +3364,11 @@
 > [!hidden] 5.5 Mild 3
 > Ved hjelp av et eksempel forklar hva som menes med en uniform sannsynlighetsmodell.
 
+> [!hidden] 5.5 Mild Vurdering uke 14 
+> 1. Ved hjelp av et eksempel forklar begrepene utfallsrom, utfall og hendelse. 
+> 2. Ved hjelp av et eksempel forklar hva som menes med en sannsynlighetsmodell. 
+> 3. Ved hjelp av et eksempel forklar hva som menes med en uniform sannsynlighetsmodell.
+
 > [!hidden] 5.5 Medium 1 
 > Alfa 7.14
 
@@ -3261,6 +3384,10 @@
 > [!hidden] 5.5 Medium 5
 > Du er på hytta og kaster fire femmere på første kast. Med to kast igjen bestemmer du deg for å gå for yatzy. Sett opp et utfallsrom som gir en uniform sannsynlighetsmodell og finn sannsynligheten for at du får yatzy ved hjelp av modellen.
 
+> [!hidden] 5.5 Medium Vurdering uke 14 
+> 1. André skal kaste en sekssidet terning. Han skal kaste terningen en gang og setter opp utfallsrommet $\{1, 2, 3, 4, 5, 6\}$. Avgjør om dette gir en uniform sannsynlighetsmodell.
+> 2. Avgjør og begrunn om det finnes en uniform sannsynlighetsmodell der $P(u_3) = 0.15$.
+
 > [!hidden] 5.6 Mild 1
 > Forklar, ved hjelp av en passende illustrasjon, addisjonssetningen for sannsynligheter.
 
@@ -3274,6 +3401,12 @@
 >    1. Hva er sannsynligheten for å trekke to hjerter, eller to bildekort? Lag en illustrasjon av problemet, som viser hvordan addisjonsprinsippet brukes.
 >    2. Hva er sannsynligheten for å trekke to hjerter, eller trekke en femmer og en sekser? Lag en illustrasjon av problemet, som viser hvordan addisjonsprinsippet brukes.
 
+> [!hidden] 5.6 Medium Vurdering uke 14 
+> 
+> I en kortstokk er det fire farger. 13 spar, 13 ruter, 13 hjerter og 13 kløver. I hver farge er det tre bildekort (knekt, dame og konge), totalt 12 bildekort. 
+> 1. Hva er sannsynligheten for å trekke en hjerter, eller trekke et bildekort?
+> 2. Lag en illustrasjon av problemet, som viser hvordan addisjonsprinsippet brukes.
+
 > [!hidden] 5.7 Mild Forklar, ved hjelp av en passende illustrasjon, komplementsetningen i sannsynlighet.
 
 > [!hidden] 5.7 Medium 1 
@@ -3286,6 +3419,10 @@
 
 > [!hidden] 5.7 Medium 3
 > Dersom det er lik sannsynlighet for å ha bursdag på alle dager i året. Hvor få mennesker kan det være i en gruppe slik at det fortsatt er 50% sannsynlig at minst to personer i gruppa har bursdag på samme dag?
+
+> [!hidden] 5.7 Medium Vurdering uke 14 
+> 
+> Du kaster to terninger. Bruk komplementsetningen til å avgjøre sannsynligheten for at minst en av terningene er et primtall?
 
 > [!hidden] 5.8 Mild Forklare store talls lov.
 
@@ -3308,6 +3445,13 @@
 > 1. Hvor mange måter kan vi gjøre det på?
 > 2. Hvordan ville det blitt om vi først velger de to som skal være gule, og så de fire som skal være røde?
 > 3. Hva om vi velger rutene som ikke skal fargelegges, så de fire som skal være røde? 
+
+> [!hidden] 5.9 Medium Vurdering uke 14 
+> 
+> Henrik har en spilleliste med sanger som han hører på når han trener. På listen er det 11 sanger. 5 sanger han liker godt, to sanger han syns er litt for rolige og fire sanger han syns er litt for bråkete. Henrik spiller av sangene i tilfeldig rekkefølge.
+> 1. Hva er sannsynligheten for at de tre første låtene er låter han liker godt?
+> 2. Hva er sannsynligheten for at det er én låt han liker, én han syns er for rolig og én hans syns er for bråkete blant de tre første låtene?
+> 3. Hva er sannsynligheten for at minst én av de tre første låtene er sanger han liker?
 
 > [!hidden] 5.9 Spicy 1
 > I en vanlig kortstokk med 52 kort finnes det fire sorter, hjerter, ruter, kløver og spar. I hver sort er det 13 kort, kortene 1 til 10 i tillegg til en knekt, en dame og en konge. Når man spiller bridge får man en hånd bestående av 13 tilfeldige kort.
@@ -3338,3 +3482,13 @@
 > 8. To par
 > 9. Ett par
 > 10. Høyt kort <br><br>Vurder denne rangeringsordningen ved å avgjøre sannsynligheten for hver av hendene. 
+
+> [!hidden] 5.9 Spicy Vurdering uke 14 
+> 
+> En kortstokk består av 52 kort med 4 kort-typer (13 spar-kort, 13 kløver-kort, 13 hjerter-kort og 13 ruter-kort). Kortene i hver kort-type er nummerert fra 1 til 13 hvorav de tre høyeste kortene kalles bildekort og betegnes «knekt», «dame» og «konge». Du trekker **3 kort uten tilbakelegg** fra en kortstokk. Bruk disse opplysningene i de tre neste deloppgavene.
+> 1. Forklar hvorfor det er $\frac{52\cdot 51\cdot 50}{3!} = 22100$ mulige kombinasjoner du kan trekke.
+> 2. Finn sannsynligheten for å trekke tre spar.
+> 3. Finn sannsynligheten for å trekke nøyaktig 2 bildekort.
+> 4. Hva er sannsynligheten for å trekke minst ett bildekort?
+> **Merk** at siden du ikke har tilgang til kalkulator, forventer vi ikke at du regner ut alle regnestykkene. For eksempel er det godt nok å vise forklare at $\frac{52\cdot51\cdot50}{3!}= 26\cdot17\cdot50$.
+
