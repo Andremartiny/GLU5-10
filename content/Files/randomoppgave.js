@@ -104,9 +104,9 @@ function processCheckedCallouts() {
     choices,                                      // array of selected titles
     seed: Math.random().toString(36).slice(2),    // optional
     user: localStorage.getItem("secretid") || "",  // your anon id (PII-avoid)
-    userAgent: navigator.userAgent,
-    referrer: document.referrer,
-    path: location.pathname
+    // userAgent: navigator.userAgent,
+    // referrer: document.referrer,
+    // path: location.pathname
   };
 
   // send log (non-blocking)
