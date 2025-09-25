@@ -3398,8 +3398,8 @@
 
 > [!hidden] 5.6 Medium 2
 > Du skal trekke to kort fra en kortstokk.
->    1. Hva er sannsynligheten for å trekke to hjerter, eller to bildekort? Lag en illustrasjon av problemet, som viser hvordan addisjonsprinsippet brukes.
->    2. Hva er sannsynligheten for å trekke to hjerter, eller trekke en femmer og en sekser? Lag en illustrasjon av problemet, som viser hvordan addisjonsprinsippet brukes.
+>    3. Hva er sannsynligheten for å trekke to hjerter, eller to bildekort? Lag en illustrasjon av problemet, som viser hvordan addisjonsprinsippet brukes.
+>    4. Hva er sannsynligheten for å trekke to hjerter, eller trekke en femmer og en sekser? Lag en illustrasjon av problemet, som viser hvordan addisjonsprinsippet brukes.
 
 > [!hidden] 5.6 Medium Vurdering uke 14 
 > 

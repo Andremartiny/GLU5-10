@@ -33,34 +33,100 @@ function revealRandomCallout(TITTEL) {
   }
   
 
+// // Function to process all checked checkboxes and call revealRandomCallout
+// function processCheckedCallouts() {
+//   const checkboxes = document.querySelectorAll('.lmtabell input[type="checkbox"]:checked');
+  
+//   checkboxes.forEach(checkbox => {
+//     const title = checkbox.value;
+//     revealRandomCallout(title);
+//   });
+  
+//   document.getElementById('restart').style.display = '';
+  
+//   document.getElementById('utvelgelse').style.display = 'none';
+  
+//   renderMathInElement(document.body, {
+//     // customised options
+//     // • auto-render specific keys, e.g.:
+//     delimiters: [
+//         {left: '$$', right: '$$', display: true},
+//         {left: '$', right: '$', display: false},
+//         {left: '\\(', right: '\\)', display: false},
+//         {left: '\\[', right: '\\]', display: true}
+//     ],
+//     // • rendering keys, e.g.:
+//     throwOnError : false
+//    });
+// }
+
+
+function postLog(payload) {
+  const dep = localStorage.getItem("deploymentid") || "";
+  if (!dep) {
+    console.warn("No deploymentid in localStorage; skipping log.");
+    return;
+  }
+  const LOG_URL = `https://script.google.com/macros/s/${dep}/exec`;
+  const body = JSON.stringify(payload);
+  const blob = new Blob([body], {type: 'text/plain;charset=utf-8'}); // avoids preflight
+
+  // Prefer sendBeacon (works during navigation)
+  if (navigator.sendBeacon) {
+    const ok = navigator.sendBeacon(LOG_URL, blob);
+    if (!ok) {
+      // Fallback to fetch (no need to read response)
+      fetch(LOG_URL, {method:'POST', body, headers:{'Content-Type':'text/plain;charset=utf-8'}})
+        .catch(err => console.warn('log fetch failed:', err));
+    }
+  } else {
+    fetch(LOG_URL, {method:'POST', body, headers:{'Content-Type':'text/plain;charset=utf-8'}})
+      .catch(err => console.warn('log fetch failed:', err));
+  }
+}
+
 // Function to process all checked checkboxes and call revealRandomCallout
 function processCheckedCallouts() {
   const checkboxes = document.querySelectorAll('.lmtabell input[type="checkbox"]:checked');
-  
+
+  // collect choices
+  const choices = [];
   checkboxes.forEach(checkbox => {
     const title = checkbox.value;
+    choices.push(title);
     revealRandomCallout(title);
   });
-  
+
+  // build payload
+  const payload = {
+    site: location.hostname,
+    examId: 'explore-v1',                         // change if you version exams
+    choices,                                      // array of selected titles
+    seed: Math.random().toString(36).slice(2),    // optional
+    user: localStorage.getItem("secreid") || "",  // your anon id (PII-avoid)
+    userAgent: navigator.userAgent,
+    referrer: document.referrer,
+    path: location.pathname
+  };
+
+  // send log (non-blocking)
+  postLog(payload);
+
+  // your existing UI updates
   document.getElementById('restart').style.display = '';
-  
   document.getElementById('utvelgelse').style.display = 'none';
-  
+
+  // re-render math
   renderMathInElement(document.body, {
-    // customised options
-    // • auto-render specific keys, e.g.:
     delimiters: [
-        {left: '$$', right: '$$', display: true},
-        {left: '$', right: '$', display: false},
-        {left: '\\(', right: '\\)', display: false},
-        {left: '\\[', right: '\\]', display: true}
+      {left: '$$', right: '$$', display: true},
+      {left: '$', right: '$', display: false},
+      {left: '\\(', right: '\\)', display: false},
+      {left: '\\[', right: '\\]', display: true}
     ],
-    // • rendering keys, e.g.:
-    throwOnError : false
-   });
+    throwOnError: false
+  });
 }
-
-
 
 function resetprocessCheckedCallouts() {
  

@@ -54,10 +54,24 @@ function buildStudentDataFromHash(hashDigits) {
 // 4) On load: read #... and feed your existing personalizeTable
 document.addEventListener("DOMContentLoaded", () => {
   console.log("✅ Student hash script loaded -DOMCONTENT");
-  const hash = window.location.hash;
-  console.log(hash)
-  if (hash && hash.length > 1) {
-    const masteryString = hash.substring(1).replace(/\s+/g, ""); // remove spaces just in case
+
+  // Read from the query string
+  const params = new URLSearchParams(window.location.search);
+  const secretid = params.get("secretid");
+  const deploymentid = params.get("deploymentid");
+  console.log(deploymentid)
+  const masteryStringParam = params.get("masterystring");
+
+  // Store extra IDs if present
+  try { if (secretid)     localStorage.setItem("secretid", secretid); } catch (_) {}
+  try { if (deploymentid) localStorage.setItem("deploymentid", deploymentid); } catch (_) {}
+
+  console.log(masteryStringParam);
+
+  if (masteryStringParam && masteryStringParam.length > 1) {
+    // Clean the mastery string
+    const masteryString = masteryStringParam.trim().replace(/\s+/g, "");
+
     // Use the mastery string itself as a synthetic studentID
     const syntheticID = masteryString;
 
@@ -65,33 +79,27 @@ document.addEventListener("DOMContentLoaded", () => {
     window.studentData = window.studentData || {};
     window.studentData[syntheticID] = buildStudentDataFromHash(masteryString);
 
-    // (Optional) cache it locally so returning visits work without the hash
+    // Cache locally for returning visits
     try { localStorage.setItem("studentID", syntheticID); } catch (_) {}
 
-    // Now reuse your existing UI logic
+    // Reuse your existing UI logic
     console.log(window.studentData[syntheticID]);
     personalizeTable(window.studentData[syntheticID]);
 
-    // (Optional) clean the URL so the hash doesn't hang around in copy/paste
-    // history.replaceState(null, "", window.location.pathname + window.location.search);
   } else {
-    // Fallback to your old behavior if no hash present
-    const studentID = localStorage.getItem("studentID");
-
-    const masteryString = studentID.substring().replace(/\s+/g, ""); // remove spaces just in case
-    // Use the mastery string itself as a synthetic studentID
+    // Fallback: use whatever was stored previously
+    const storedID = localStorage.getItem("studentID") || "";
+    const masteryString = storedID.trim().replace(/\s+/g, "");
     const syntheticID = masteryString;
 
-    // Ensure global studentData exists
     window.studentData = window.studentData || {};
     window.studentData[syntheticID] = buildStudentDataFromHash(masteryString);
-    
-  console.log("✅ Student hash script loaded -NOHASH");
-    // if (studentID && window.studentData && window.studentData[studentID]) {
-      personalizeTable(window.studentData[syntheticID]);
-    // }
+
+    console.log("✅ Student hash script loaded -NOHASH");
+    personalizeTable(window.studentData[syntheticID]);
   }
 });
+
 
 
 function saveStudentID() {
