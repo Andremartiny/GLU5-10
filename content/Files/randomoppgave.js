@@ -74,7 +74,7 @@ function postLog(payload) {
 
       // Fallback to fetch (no need to read response)
       fetch(LOG_URL, {method:'POST', body, headers:{"content-type": "application/json",
-    "x-shared-secret": "YOUR_SHORT_SECRET"}})
+    "x-shared-secret": "YOUR_SHORT_SECRET"}, keepalive: true})
         .catch(err => console.warn('log fetch failed:', err));
 }
 
@@ -94,7 +94,10 @@ function processCheckedCallouts() {
   const payload = {
     path: location.hostname,
     examId: 'explore-v1',                         // change if you version exams
-    choices,                                      // array of selected titles
+    choices,  
+    t: Date.now(),
+    ev: "pageview",
+    details: localStorage.getItem("secretid"),                                    // array of selected titles
     // seed: Math.random().toString(36).slice(2),    // optional
     user: localStorage.getItem("secretid") || "",  // your anon id (PII-avoid)
     // userAgent: navigator.userAgent,
