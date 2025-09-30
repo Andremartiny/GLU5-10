@@ -67,7 +67,8 @@ function postLog(payload) {
     console.warn("No deploymentid in localStorage; skipping log.");
     return;
   }
-  const LOG_URL = `https://script.google.com/macros/s/${dep}/exec`;
+  // const LOG_URL = `https://script.google.com/macros/s/${dep}/exec`;
+  const LOG_URL = `https://default8482881e36994b3fb135cf4800bc1e.fb.environment.api.powerplatform.com:443/powerautomate/automations/direct/workflows/5b3bcf4d038745e791f634bc4bb706b3/triggers/manual/paths/invoke?api-version=1&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=${dep}`
   const body = JSON.stringify(payload);
   const blob = new Blob([body], {type: 'text/plain;charset=utf-8'}); // avoids preflight
 
