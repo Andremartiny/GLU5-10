@@ -95,7 +95,7 @@ function processCheckedCallouts() {
     path: location.hostname,
     examId: 'explore-v1',                         // change if you version exams
     choices,                                      // array of selected titles
-    seed: Math.random().toString(36).slice(2),    // optional
+    // seed: Math.random().toString(36).slice(2),    // optional
     user: localStorage.getItem("secretid") || "",  // your anon id (PII-avoid)
     // userAgent: navigator.userAgent,
     // referrer: document.referrer,
