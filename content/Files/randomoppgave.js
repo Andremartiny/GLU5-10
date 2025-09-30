@@ -72,20 +72,10 @@ function postLog(payload) {
   const body = JSON.stringify(payload);
   const blob = new Blob([body], {type: 'text/plain;charset=utf-8'}); // avoids preflight
 
-  // Prefer sendBeacon (works during navigation)
-  if (navigator.sendBeacon) {
-    const ok = navigator.sendBeacon(LOG_URL, blob);
-    if (!ok) {
       // Fallback to fetch (no need to read response)
       fetch(LOG_URL, {method:'POST', body, headers:{"content-type": "application/json",
     "x-shared-secret": "YOUR_SHORT_SECRET"}})
         .catch(err => console.warn('log fetch failed:', err));
-    }
-  } else {
-    fetch(LOG_URL, {method:'POST', body, headers:{"content-type": "application/json",
-    "x-shared-secret": "YOUR_SHORT_SECRET"}})
-      .catch(err => console.warn('log fetch failed:', err));
-  }
 }
 
 // Function to process all checked checkboxes and call revealRandomCallout
