@@ -77,11 +77,13 @@ function postLog(payload) {
     const ok = navigator.sendBeacon(LOG_URL, blob);
     if (!ok) {
       // Fallback to fetch (no need to read response)
-      fetch(LOG_URL, {method:'POST', body, headers:{'Content-Type':'text/plain;charset=utf-8'}})
+      fetch(LOG_URL, {method:'POST', body, headers:{"content-type": "application/json",
+    "x-shared-secret": "YOUR_SHORT_SECRET"}})
         .catch(err => console.warn('log fetch failed:', err));
     }
   } else {
-    fetch(LOG_URL, {method:'POST', body, headers:{'Content-Type':'text/plain;charset=utf-8'}})
+    fetch(LOG_URL, {method:'POST', body, headers:{"content-type": "application/json",
+    "x-shared-secret": "YOUR_SHORT_SECRET"}})
       .catch(err => console.warn('log fetch failed:', err));
   }
 }
@@ -100,7 +102,7 @@ function processCheckedCallouts() {
 
   // build payload
   const payload = {
-    site: location.hostname,
+    path: location.hostname,
     examId: 'explore-v1',                         // change if you version exams
     choices,                                      // array of selected titles
     seed: Math.random().toString(36).slice(2),    // optional
